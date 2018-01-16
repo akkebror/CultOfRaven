@@ -1,0 +1,1322 @@
+﻿Log file open, 01/16/18 13:49:10
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VSPerf140.dll' (GetLastError=126)
+LogWindows: File 'VSPerf140.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: CultOfSpiros
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(2136080967) SRandInit(2136080967).
+LogInit: Read version file with build ID '3709383'
+LogInit: Overriding engine version to CL 3794801, compatible CL 3709383
+LogInit: Registered custom module enumerator with build ID '3709383'
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 3.223286
+LogD3D11RHI: Aftermath initialized
+LogPluginManager: Display: Disabled plugin 'FMODStudio', continuing.
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3709383).
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleARKit
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit: Build: ++UE4+Release-4.18-CL-3794801
+LogInit: Engine Version: 4.18.2-3794801+++UE4+Release-4.18
+LogInit: Compatible Engine Version: 4.18.0-3709383+++UE4+Release-4.18
+LogInit: Net CL: 3709383
+LogDevObjectVersion: Number of dev versions registered: 16
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 20
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 30
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 20
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 4
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 1
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 12
+LogInit: Compiled (64-bit): Dec  8 2017 02:04:53
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.18
+LogInit: Command line:  
+LogInit: Base directory: D:/Unreal Engine/UE_4.18/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.01.16-12.49.15:662][  0]LogInit: Selected Device Profile: [Windows]
+[2018.01.16-12.49.15:662][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.01.16-12.49.15:738][  0]LogInit: Computer: FG17AOR032
+[2018.01.16-12.49.15:738][  0]LogInit: User: lucasbackstrom
+[2018.01.16-12.49.15:738][  0]LogInit: CPU Page size=4096, Cores=4
+[2018.01.16-12.49.15:738][  0]LogInit: High frequency timer resolution =2.437499 MHz
+[2018.01.16-12.49.15:738][  0]LogMemory: Memory total: Physical=16.0GB (16GB approx)
+[2018.01.16-12.49.15:738][  0]LogMemory: Platform Memory Stats for Windows
+[2018.01.16-12.49.15:738][  0]LogMemory: Process Physical Memory: 275.50 MB used, 275.50 MB peak
+[2018.01.16-12.49.15:738][  0]LogMemory: Process Virtual Memory: 264.09 MB used, 264.09 MB peak
+[2018.01.16-12.49.15:738][  0]LogMemory: Physical Memory: 3019.39 MB used,  13318.02 MB free, 16337.41 MB total
+[2018.01.16-12.49.15:738][  0]LogMemory: Virtual Memory: 706.34 MB used,  13318.02 MB free, 134217728.00 MB total
+[2018.01.16-12.49.16:655][  0]LogInit: Using OS detected language (en-US).
+[2018.01.16-12.49.16:655][  0]LogInit: Using OS detected locale (en-SE).
+[2018.01.16-12.49.16:922][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2018.01.16-12.49.17:847][  0]LogInit: Setting process to per monitor DPI aware
+[2018.01.16-12.49.21:909][  0]LogD3D11RHI: D3D11 adapters:
+[2018.01.16-12.49.21:959][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1060 3GB' (Feature Level 11_0)
+[2018.01.16-12.49.21:959][  0]LogD3D11RHI:       3019/0/8168 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2018.01.16-12.49.21:962][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.01.16-12.49.21:962][  0]LogD3D11RHI:       0/0/8168 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.01.16-12.49.21:962][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.01.16-12.49.21:968][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.01.16-12.49.21:968][  0]LogD3D11RHI:     GPU DeviceId: 0x1c02 (for the marketing name, search the web for "GPU Device Id")
+[2018.01.16-12.49.21:968][  0]LogWindows: EnumDisplayDevices:
+[2018.01.16-12.49.21:968][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1060 3GB' (P:0 D:1)
+[2018.01.16-12.49.21:968][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1060 3GB' (P:1 D:1)
+[2018.01.16-12.49.21:969][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1060 3GB' (P:0 D:0)
+[2018.01.16-12.49.21:969][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1060 3GB' (P:0 D:0)
+[2018.01.16-12.49.21:969][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2018.01.16-12.49.21:969][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1060 3GB
+[2018.01.16-12.49.21:969][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2018.01.16-12.49.21:969][  0]LogD3D11RHI:      Driver Date: Unknown
+[2018.01.16-12.49.21:969][  0]LogRHI: Texture pool is 2113 MB (70% of 3019 MB)
+[2018.01.16-12.49.21:994][  0]LogD3D11RHI: Async texture creation enabled
+[2018.01.16-12.49.22:007][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2018.01.16-12.49.22:108][  0]LogShaderCompilers: Guid format shader working directory is 23 characters bigger than the processId version (../../../../../GitHub/CultOfRaven/Intermediate/Shaders/WorkingDirectory/6912/).
+[2018.01.16-12.49.22:108][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/lucas.backstrom/AppData/Local/Temp/UnrealShaderWorkingDir/0686B1DD4B680E91780A1C9E28C7260F/'.
+[2018.01.16-12.49.22:108][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.01.16-12.49.27:605][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.01.16-12.49.27:642][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.01.16-12.49.27:678][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.01.16-12.49.27:713][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.01.16-12.49.27:835][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.01.16-12.49.27:901][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.01.16-12.49.27:940][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.01.16-12.49.27:977][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.01.16-12.49.28:009][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.01.16-12.49.28:046][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2018.01.16-12.49.28:085][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2018.01.16-12.49.28:122][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2018.01.16-12.49.28:161][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2018.01.16-12.49.28:197][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2018.01.16-12.49.28:271][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2018.01.16-12.49.28:271][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2018.01.16-12.49.28:360][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.01.16-12.49.28:389][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.01.16-12.49.28:586][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.01.16-12.49.28:610][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.01.16-12.49.28:648][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.01.16-12.49.28:684][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.01.16-12.49.28:721][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.01.16-12.49.28:795][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.01.16-12.49.28:795][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.01.16-12.49.30:409][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.01.16-12.49.30:804][  0]LogDerivedDataCache: Loaded boot cache 0.38s 78MB C:/Users/lucas.backstrom/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2018.01.16-12.49.30:804][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/lucas.backstrom/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc
+[2018.01.16-12.49.30:804][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../GitHub/CultOfRaven/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.01.16-12.49.30:804][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.01.16-12.49.30:804][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../GitHub/CultOfRaven/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.01.16-12.49.30:804][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.01.16-12.49.30:911][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.01.16-12.49.30:925][  0]LogDerivedDataCache: Using Local data cache path C:/Users/lucas.backstrom/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.01.16-12.49.30:936][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.01.16-12.49.30:936][  0]LogSlate: Using Freetype 2.6.0
+[2018.01.16-12.49.31:051][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.01.16-12.49.31:051][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.01.16-12.49.39:627][  0]LogInit: Selected Device Profile: [Windows]
+[2018.01.16-12.49.40:895][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.01.16-12.49.40:962][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.01.16-12.49.40:962][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.01.16-12.49.40:962][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.01.16-12.49.40:962][  0]LogMeshReduction: No automatic mesh merging module available
+[2018.01.16-12.49.40:962][  0]LogMeshMerging: No automatic mesh merging module available
+[2018.01.16-12.49.41:122][  0]LogNetVersion: CultOfSpiros , NetCL: 3709383, EngineNetVer: 2, GameNetVer: 0 (Checksum: 1049675708)
+[2018.01.16-12.49.42:380][  0]LogAssetRegistry: FAssetRegistry took 0.0251 seconds to start up
+[2018.01.16-12.49.47:909][  0]LogPackageLocalizationCache: Processed 7 localized package path(s) for 2 prioritized culture(s) in 0.064041 seconds
+[2018.01.16-12.49.47:915][  0]LogUObjectArray: 35900 objects as part of root set at end of initial load.
+[2018.01.16-12.49.47:915][  0]LogUObjectAllocator: 7372016 out of 0 bytes used by permanent object pool.
+[2018.01.16-12.49.47:915][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.01.16-12.49.47:948][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2018.01.16-12.50.16:375][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.01.16-12.50.16:408][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.01.16-12.50.17:299][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2018.01.16-12.50.17:678][  0]SourceControl: Source control is disabled
+[2018.01.16-12.50.17:679][  0]SourceControl: Source control is disabled
+[2018.01.16-12.50.17:719][  0]SourceControl: Source control is disabled
+[2018.01.16-12.50.17:757][  0]SourceControl: Source control is disabled
+[2018.01.16-12.50.18:846][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.01.16-12.50.19:043][  0]LogOcInput: OculusInput pre-init called
+[2018.01.16-12.50.19:590][  0]LogEngine: Initializing Engine...
+[2018.01.16-12.50.19:592][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.01.16-12.50.19:947][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.01.16-12.50.19:947][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.01.16-12.50.20:298][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.01.16-12.50.20:313][  0]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.01.16-12.50.20:388][  0]LogInit: FAudioDevice initialized.
+[2018.01.16-12.50.20:478][  0]LogDerivedDataCache: Saved boot cache 0.09s 78MB C:/Users/lucas.backstrom/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2018.01.16-12.50.20:492][  0]LogInit: Texture streaming: Enabled
+[2018.01.16-12.50.20:588][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.01.16-12.50.20:754][  0]LogInit: Transaction tracking system initialized
+[2018.01.16-12.50.21:065][  0]BlueprintLog: New page: Editor Load
+[2018.01.16-12.50.23:191][  0]LocalizationService: Localization service is disabled
+[2018.01.16-12.50.25:085][  0]LogConsoleResponse: Display: 
+[2018.01.16-12.50.26:137][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.01.16-12.50.26:137][  0]LogCook: Display: Mobile HDR setting 1
+[2018.01.16-12.50.26:138][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.01.16-12.50.26:981][  0]LogFileCache: Scanning file cache for directory 'D:/GitHub/CultOfRaven/Content/' took 0.02s
+[2018.01.16-12.50.29:166][  0]SourceControl: Source control is disabled
+[2018.01.16-12.50.29:167][  0]Cmd: MAP LOAD FILE="../../../Engine/Content/Maps/Templates/Template_Default.umap" TEMPLATE=1 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.01.16-12.50.29:167][  0]LightingResults: New page: Lighting Build
+[2018.01.16-12.50.29:200][  0]MapCheck: New page: Map Check
+[2018.01.16-12.50.29:200][  0]LightingResults: New page: Lighting Build
+[2018.01.16-12.50.30:253][  0]LogAIModule: Creating AISystem for world Untitled_1
+[2018.01.16-12.50.30:319][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.01.16-12.50.30:332][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.01.16-12.50.30:373][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 40.727ms to complete.
+[2018.01.16-12.50.30:373][  0]LogFileHelpers: Loading map 'Template_Default' took 1.207
+[2018.01.16-12.50.30:841][  0]LogCollectionManager: Loaded 0 collections in 0.001417 seconds
+[2018.01.16-12.50.30:963][  0]LogFileCache: Scanning file cache for directory 'D:/GitHub/CultOfRaven/Saved/Collections/' took 0.01s
+[2018.01.16-12.50.30:963][  0]LogFileCache: Scanning file cache for directory 'D:/GitHub/CultOfRaven/Content/Developers/lucasbackstrom/Collections/' took 0.01s
+[2018.01.16-12.50.30:963][  0]LogFileCache: Scanning file cache for directory 'D:/GitHub/CultOfRaven/Content/Collections/' took 0.01s
+[2018.01.16-12.50.30:963][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2018.01.16-12.50.30:972][  0]LogContentBrowser: Native class hierarchy populated in 0.0088 seconds. Added 2363 classes and 519 folders.
+[2018.01.16-12.50.31:022][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2018.01.16-12.50.32:828][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2018.01.16-12.50.32:925][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 1 classes and 2 folders.
+[2018.01.16-12.50.33:011][  0]LogSlate: Took 0.016473 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.01.16-12.50.33:030][  0]LogSlate: Took 0.015973 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.01.16-12.50.33:060][  0]LogSlate: Took 0.027739 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.01.16-12.50.33:166][  0]LogRenderer: Reallocating scene render targets to support 1336x588 Format 10 NumSamples 1 (Frame:1).
+[2018.01.16-12.50.33:351][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2018.01.16-12.50.33:351][  0]LogLoad: (Engine Initialization) Total time: 128.38 seconds
+[2018.01.16-12.50.33:351][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.01.16-12.50.33:351][  0]LogExternalProfiler: No external profilers were discovered.  External profiling features will not be available.
+[2018.01.16-12.50.33:380][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.01.16-12.50.33:468][  1]LogAssetRegistry: Asset discovery search completed in 51.1098 seconds
+[2018.01.16-12.50.33:470][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2018.01.16-12.50.33:470][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000073 seconds (updated 0 objects)
+[2018.01.16-12.50.37:491][471]LogSlate: Took 0.039785 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.01.16-12.50.45:309][406]LogSlate: Took 0.000140 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.01.16-12.50.46:043][406]LogAIModule: Creating AISystem for world Blockout_new
+[2018.01.16-12.50.46:064][406]Cmd: MAP LOAD FILE="../../../../../GitHub/CultOfRaven/Content/OLLE/Scenes/Blockout_new.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.01.16-12.50.46:065][406]LightingResults: New page: Lighting Build
+[2018.01.16-12.50.46:065][406]LoadErrors: New page: Loading map: Blockout_new.umap
+[2018.01.16-12.50.46:066][406]MapCheck: New page: Map Check
+[2018.01.16-12.50.46:066][406]LightingResults: New page: Lighting Build
+[2018.01.16-12.50.46:090][406]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.01.16-12.50.46:127][406]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.01.16-12.50.46:164][406]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 36.759ms to complete.
+[2018.01.16-12.50.46:164][406]LogFileHelpers: Loading map 'Blockout_new' took 0.100
+[2018.01.16-12.50.53:527][268]MapCheck: New page: Map Check
+[2018.01.16-12.50.53:541][268]LightingResults: New page: Lighting Build - Jan 16, 2018, 2:50:53 PM
+[2018.01.16-12.50.53:672][268]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2018.01.16-12.50.53:784][268]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2018.01.16-12.50.53:795][268]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2018.01.16-12.50.54:306][268]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2018.01.16-12.50.54:307][268]LogSwarmInterface: [TryOpenConnection] Local Process ID is 6912
+[2018.01.16-12.50.56:922][268]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2018.01.16-12.50.56:922][268]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2018.01.16-12.50.56:922][268]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2018.01.16-12.50.56:922][268]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2018.01.16-12.50.56:922][268]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2018.01.16-12.50.56:922][268]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2018.01.16-12.50.57:120][268]LogEditorBuildUtils: Build time 0:03
+[2018.01.16-12.50.57:233][270]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer BasicShapeMaterial, compiling. 
+[2018.01.16-12.50.57:242][270]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer BasicShapeMaterial, compiling. 
+[2018.01.16-12.51.10:947][328]LightingResults: Warning: Wall_Doorframe_400x400 Object has overlapping UVs.
+[2018.01.16-12.51.10:957][329]LightingResults: Wall_Doorframe_400x400 Lightmap UV are overlapping by 50.0%. Please adjust content - Enable Error Coloring to visualize.
+[2018.01.16-12.51.12:537][479]LightingResults: Warning: Wall_Doorframe_400x400 Object has overlapping UVs.
+[2018.01.16-12.51.12:537][479]LightingResults: Wall_Doorframe_400x400 Lightmap UV are overlapping by 50.0%. Please adjust content - Enable Error Coloring to visualize.
+[2018.01.16-12.51.13:061][531]LightingResults: Warning: Wall_Doorframe_400x400 Object has overlapping UVs.
+[2018.01.16-12.51.13:061][531]LightingResults: Wall_Doorframe_400x400 Lightmap UV are overlapping by 50.0%. Please adjust content - Enable Error Coloring to visualize.
+[2018.01.16-12.51.14:257][649]LightingResults: Warning: Wall_Doorframe_400x400 Object has overlapping UVs.
+[2018.01.16-12.51.14:257][649]LightingResults: Wall_Doorframe_400x400 Lightmap UV are overlapping by 50.0%. Please adjust content - Enable Error Coloring to visualize.
+[2018.01.16-12.51.15:212][744]LightingResults: Warning: BranchPlatform Object has overlapping UVs.
+[2018.01.16-12.51.15:212][744]LightingResults: BranchPlatform Lightmap UV are overlapping by 55.3%. Please adjust content - Enable Error Coloring to visualize.
+[2018.01.16-12.51.17:028][910]LightingResults: Warning: TowerWall_Deco Object has overlapping UVs.
+[2018.01.16-12.51.17:038][911]LightingResults: TowerWall_Deco Lightmap UV are overlapping by 3.4%. Please adjust content - Enable Error Coloring to visualize.
+[2018.01.16-12.51.17:561][960]LightingResults: Warning: Wall_Doorframe_400x400 Object has overlapping UVs.
+[2018.01.16-12.51.17:561][960]LightingResults: Wall_Doorframe_400x400 Lightmap UV are overlapping by 50.0%. Please adjust content - Enable Error Coloring to visualize.
+[2018.01.16-12.51.18:023][  4]LightingResults: Warning: TowerWall_Deco Object has overlapping UVs.
+[2018.01.16-12.51.18:023][  4]LightingResults: TowerWall_Deco Lightmap UV are overlapping by 3.4%. Please adjust content - Enable Error Coloring to visualize.
+[2018.01.16-12.51.18:194][ 21]LightingResults: Warning: TowerWall_Deco Object has overlapping UVs.
+[2018.01.16-12.51.18:204][ 22]LightingResults: TowerWall_Deco Lightmap UV are overlapping by 3.4%. Please adjust content - Enable Error Coloring to visualize.
+[2018.01.16-12.51.18:296][ 31]LightingResults: Warning: Wall_Doorframe_400x400 Object has overlapping UVs.
+[2018.01.16-12.51.18:296][ 31]LightingResults: Wall_Doorframe_400x400 Lightmap UV are overlapping by 50.0%. Please adjust content - Enable Error Coloring to visualize.
+[2018.01.16-12.51.19:563][157]LightingResults: Warning: Wall_Doorframe_400x400 Object has overlapping UVs.
+[2018.01.16-12.51.19:563][157]LightingResults: Wall_Doorframe_400x400 Lightmap UV are overlapping by 50.0%. Please adjust content - Enable Error Coloring to visualize.
+[2018.01.16-12.51.21:760][369]LightingResults: Warning: Wall_Doorframe_400x400 Object has overlapping UVs.
+[2018.01.16-12.51.21:760][369]LightingResults: Wall_Doorframe_400x400 Lightmap UV are overlapping by 50.0%. Please adjust content - Enable Error Coloring to visualize.
+[2018.01.16-12.51.23:511][540]LightingResults: Warning: Wall_Doorframe_400x400 Object has overlapping UVs.
+[2018.01.16-12.51.23:511][540]LightingResults: Wall_Doorframe_400x400 Lightmap UV are overlapping by 50.0%. Please adjust content - Enable Error Coloring to visualize.
+[2018.01.16-12.51.26:281][799]LightingResults: Warning: TowerWall_Deco Object has overlapping UVs.
+[2018.01.16-12.51.26:291][800]LightingResults: TowerWall_Deco Lightmap UV are overlapping by 3.4%. Please adjust content - Enable Error Coloring to visualize.
+[2018.01.16-12.51.28:567][ 23]LightingResults: Warning: Wall_Doorframe_400x400 Object has overlapping UVs.
+[2018.01.16-12.51.28:567][ 23]LightingResults: Wall_Doorframe_400x400 Lightmap UV are overlapping by 50.0%. Please adjust content - Enable Error Coloring to visualize.
+[2018.01.16-12.51.28:617][ 28]LightingResults: Warning: Wall_Doorframe_400x400 Object has overlapping UVs.
+[2018.01.16-12.51.28:617][ 28]LightingResults: Wall_Doorframe_400x400 Lightmap UV are overlapping by 50.0%. Please adjust content - Enable Error Coloring to visualize.
+[2018.01.16-12.51.30:748][240]LightingResults: Warning: Wall_Doorframe_400x400 Object has overlapping UVs.
+[2018.01.16-12.51.30:748][240]LightingResults: Wall_Doorframe_400x400 Lightmap UV are overlapping by 50.0%. Please adjust content - Enable Error Coloring to visualize.
+[2018.01.16-12.51.32:938][458]LightingResults: Warning: Wall_Doorframe_400x400 Object has overlapping UVs.
+[2018.01.16-12.51.32:938][458]LightingResults: Wall_Doorframe_400x400 Lightmap UV are overlapping by 50.0%. Please adjust content - Enable Error Coloring to visualize.
+[2018.01.16-12.51.32:959][460]LightingResults: Warning: BranchPlatform Object has overlapping UVs.
+[2018.01.16-12.51.32:959][460]LightingResults: BranchPlatform Lightmap UV are overlapping by 55.3%. Please adjust content - Enable Error Coloring to visualize.
+[2018.01.16-12.51.34:157][578]LightingResults: Warning: BirdHouseCoffin Object has overlapping UVs.
+[2018.01.16-12.51.34:157][578]LightingResults: BirdHouseCoffin Lightmap UV are overlapping by 50.0%. Please adjust content - Enable Error Coloring to visualize.
+[2018.01.16-12.51.35:456][704]LightingResults: Warning: Wall_Doorframe_400x400 Object has overlapping UVs.
+[2018.01.16-12.51.35:456][704]LightingResults: Wall_Doorframe_400x400 Lightmap UV are overlapping by 50.0%. Please adjust content - Enable Error Coloring to visualize.
+[2018.01.16-12.51.35:737][732]LightingResults: Warning: Wall_Doorframe_400x400 Object has overlapping UVs.
+[2018.01.16-12.51.35:737][732]LightingResults: Wall_Doorframe_400x400 Lightmap UV are overlapping by 50.0%. Please adjust content - Enable Error Coloring to visualize.
+[2018.01.16-12.51.36:693][827]LightingResults: Warning: Wall_Doorframe_400x400 Object has overlapping UVs.
+[2018.01.16-12.51.36:693][827]LightingResults: Wall_Doorframe_400x400 Lightmap UV are overlapping by 50.0%. Please adjust content - Enable Error Coloring to visualize.
+[2018.01.16-12.51.37:327][890]LightingResults: Warning: TowerWall_Deco Object has overlapping UVs.
+[2018.01.16-12.51.37:327][890]LightingResults: TowerWall_Deco Lightmap UV are overlapping by 3.4%. Please adjust content - Enable Error Coloring to visualize.
+[2018.01.16-12.51.38:988][ 55]LightingResults: Warning: BirdHouseCoffin Object has overlapping UVs.
+[2018.01.16-12.51.38:988][ 55]LightingResults: BirdHouseCoffin Lightmap UV are overlapping by 50.0%. Please adjust content - Enable Error Coloring to visualize.
+[2018.01.16-12.51.39:752][129]LightingResults: Warning: Wall_Doorframe_400x400 Object has overlapping UVs.
+[2018.01.16-12.51.39:752][129]LightingResults: Wall_Doorframe_400x400 Lightmap UV are overlapping by 50.0%. Please adjust content - Enable Error Coloring to visualize.
+[2018.01.16-12.51.41:421][291]LightingResults: Warning: Wall_Doorframe_400x400 Object has overlapping UVs.
+[2018.01.16-12.51.41:421][291]LightingResults: Wall_Doorframe_400x400 Lightmap UV are overlapping by 50.0%. Please adjust content - Enable Error Coloring to visualize.
+[2018.01.16-12.51.44:090][553]LightingResults: Warning: BranchPlatform Object has overlapping UVs.
+[2018.01.16-12.51.44:090][553]LightingResults: BranchPlatform Lightmap UV are overlapping by 55.3%. Please adjust content - Enable Error Coloring to visualize.
+[2018.01.16-12.51.44:592][590]LightingResults: Warning: BranchPlatform Object has overlapping UVs.
+[2018.01.16-12.51.44:592][590]LightingResults: BranchPlatform Lightmap UV are overlapping by 55.3%. Please adjust content - Enable Error Coloring to visualize.
+[2018.01.16-12.51.46:220][737]LightingResults: Warning: BranchPlatform Object has overlapping UVs.
+[2018.01.16-12.51.46:230][738]LightingResults: BranchPlatform Lightmap UV are overlapping by 55.3%. Please adjust content - Enable Error Coloring to visualize.
+[2018.01.16-12.51.47:962][749]LightingResults: Warning: BranchPlatform Object has overlapping UVs.
+[2018.01.16-12.51.47:962][749]LightingResults: BranchPlatform Lightmap UV are overlapping by 55.3%. Please adjust content - Enable Error Coloring to visualize.
+[2018.01.16-12.51.48:465][784]LightingResults: Warning: BranchPlatform Object has overlapping UVs.
+[2018.01.16-12.51.48:465][784]LightingResults: BranchPlatform Lightmap UV are overlapping by 55.3%. Please adjust content - Enable Error Coloring to visualize.
+[2018.01.16-12.51.49:852][922]LightingResults: Warning: BirdHouseCoffin Object has overlapping UVs.
+[2018.01.16-12.51.49:852][922]LightingResults: BirdHouseCoffin Lightmap UV are overlapping by 50.0%. Please adjust content - Enable Error Coloring to visualize.
+[2018.01.16-12.51.50:616][998]LightingResults: Warning: BirdHouseCoffin Object has overlapping UVs.
+[2018.01.16-12.51.50:616][998]LightingResults: BirdHouseCoffin Lightmap UV are overlapping by 50.0%. Please adjust content - Enable Error Coloring to visualize.
+[2018.01.16-12.51.50:919][ 28]LightingResults: Warning: Wall_Doorframe_400x400 Object has overlapping UVs.
+[2018.01.16-12.51.50:919][ 28]LightingResults: Wall_Doorframe_400x400 Lightmap UV are overlapping by 50.0%. Please adjust content - Enable Error Coloring to visualize.
+[2018.01.16-12.51.51:321][ 68]LightingResults: Warning: BirdHouseCoffin Object has overlapping UVs.
+[2018.01.16-12.51.51:321][ 68]LightingResults: BirdHouseCoffin Lightmap UV are overlapping by 50.0%. Please adjust content - Enable Error Coloring to visualize.
+[2018.01.16-12.51.52:145][150]LightingResults: Warning: BirdHouseCoffin Object has overlapping UVs.
+[2018.01.16-12.51.52:145][150]LightingResults: BirdHouseCoffin Lightmap UV are overlapping by 50.0%. Please adjust content - Enable Error Coloring to visualize.
+[2018.01.16-12.51.52:396][175]LightingResults: Warning: BranchPlatform Object has overlapping UVs.
+[2018.01.16-12.51.52:396][175]LightingResults: BranchPlatform Lightmap UV are overlapping by 55.3%. Please adjust content - Enable Error Coloring to visualize.
+[2018.01.16-12.51.53:299][265]LightingResults: Warning: Wall_Doorframe_400x400 Object has overlapping UVs.
+[2018.01.16-12.51.53:299][265]LightingResults: Wall_Doorframe_400x400 Lightmap UV are overlapping by 50.0%. Please adjust content - Enable Error Coloring to visualize.
+[2018.01.16-12.51.53:501][285]LightingResults: Warning: BranchPlatform Object has overlapping UVs.
+[2018.01.16-12.51.53:501][285]LightingResults: BranchPlatform Lightmap UV are overlapping by 55.3%. Please adjust content - Enable Error Coloring to visualize.
+[2018.01.16-12.51.54:216][356]LightingResults: Warning: Wall_Doorframe_400x400 Object has overlapping UVs.
+[2018.01.16-12.51.54:216][356]LightingResults: Wall_Doorframe_400x400 Lightmap UV are overlapping by 50.0%. Please adjust content - Enable Error Coloring to visualize.
+[2018.01.16-12.51.56:139][548]Job is a success!
+[2018.01.16-12.51.56:194][549]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.011s
+[2018.01.16-12.51.56:194][549]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2018.01.16-12.51.56:194][549]LogVolumetricLightmapImport:      BrickData 375x5x5 = 0.3Mb
+[2018.01.16-12.51.56:194][549]LogVolumetricLightmapImport:      Bricks at Level
+[2018.01.16-12.51.56:194][549]LogVolumetricLightmapImport:          0: 1.3% covering 100.0% of volume
+[2018.01.16-12.51.56:194][549]LogVolumetricLightmapImport:          1: 13.3% covering 15.6% of volume
+[2018.01.16-12.51.56:194][549]LogVolumetricLightmapImport:          2: 85.3% covering 1.6% of volume
+[2018.01.16-12.51.59:077][549]LogTexture: Display: Building textures: HQ_Lightmap1_1 (AutoDXT, 1024X1024)
+[2018.01.16-12.51.59:077][549]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (DXT1, 1024X1024)
+[2018.01.16-12.51.59:077][549]LogTexture: Display: Building textures: HQ_Lightmap1_2 (AutoDXT, 1024X1024)
+[2018.01.16-12.51.59:077][549]LogTexture: Display: Building textures: LQ_Lightmap_1_2 (DXT1, 1024X1024)
+[2018.01.16-12.51.59:077][549]LogTexture: Display: Building textures: HQ_Lightmap0_3 (AutoDXT, 64X64)
+[2018.01.16-12.51.59:077][549]LogTexture: Display: Building textures: LQ_Lightmap_0_3 (DXT1, 64X64)
+[2018.01.16-12.51.59:277][549]LogTexture: Display: Building textures: ShadowMapTexture2D_3 (G8, 32X32)
+[2018.01.16-12.51.59:347][549]LogTexture: Display: Building textures: ShadowMapTexture2D_2 (BGRA8, 1024X1024)
+[2018.01.16-12.51.59:382][549]Lightmass on FG17AOR032: 58.9 sec total, 364 ms importing, 839 ms setup, 8.43 sec photons, 49.0 sec processing, 0 ms extra exporting [244/244 mappings]. Threads: 3:16 min total, 1:59 min processing.
+[2018.01.16-12.51.59:410][549]LogStaticLightingSystem: Illumination: 1:05 min (2.73 sec encoding lightmaps, 263 ms encoding shadowmaps)
+[2018.01.16-12.51.59:410][549]LogStaticLightingSystem: Lightmap texture memory:  4.0 MB (4.0 MB streaming, 0.0 MB non-streaming), 6 textures
+[2018.01.16-12.51.59:410][549]LogStaticLightingSystem: Shadowmap texture memory: 5.3 MB (5.3 MB streaming, 0.0 MB non-streaming), 2 textures
+[2018.01.16-12.51.59:936][549]DumpUnbuiltLightIteractions
+[2018.01.16-12.51.59:936][549]Lights with unbuilt interactions: 0
+[2018.01.16-12.51.59:936][549]
+[2018.01.16-12.51.59:936][549]Primitives with unbuilt interactions: 0
+[2018.01.16-12.51.59:984][550]Cmd: MAP CHECK NOTIFYRESULTS
+[2018.01.16-12.51.59:984][550]MapCheck: New page: Blockout_new - Jan 16, 2018, 2:51:59 PM
+[2018.01.16-12.52.00:067][550]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 83.056ms to complete.
+[2018.01.16-12.52.34:815][595]LogAIModule: Creating AISystem for world Blockout
+[2018.01.16-12.52.37:928][595]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/OLLE/Scenes/Blockout_new" FILE="../../../../../GitHub/CultOfRaven/Content/OLLE/Scenes/Blockout_new.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.01.16-12.52.38:335][595]LogSlate: Took 0.000149 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.01.16-12.52.38:364][595]LogSavePackage: Save=410.59ms
+[2018.01.16-12.52.38:364][595]LogSavePackage: Moving '../../../../../GitHub/CultOfRaven/Saved/Blockout_newA05AD45D436BEE3D287065B78CFB9D15.tmp' to '../../../../../GitHub/CultOfRaven/Content/OLLE/Scenes/Blockout_new.umap'
+[2018.01.16-12.52.38:370][595]LogSavePackage: Display: Finished SavePackage ../../../../../GitHub/CultOfRaven/Content/OLLE/Scenes/Blockout_new.umap
+[2018.01.16-12.52.38:394][595]LogFileHelpers: Saving map 'Blockout_new' took 0.505
+[2018.01.16-12.52.38:395][595]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/OLLE/Scenes/Blockout_new_BuiltData" FILE="../../../../../GitHub/CultOfRaven/Content/OLLE/Scenes/Blockout_new_BuiltData.uasset" SILENT=true
+[2018.01.16-12.52.38:801][595]LogSavePackage: Save=398.33ms
+[2018.01.16-12.52.38:801][595]LogSavePackage: Moving '../../../../../GitHub/CultOfRaven/Saved/Blockout_new_BuiltData54172CBE47D1269E68CE99B19D923AE6.tmp' to '../../../../../GitHub/CultOfRaven/Content/OLLE/Scenes/Blockout_new_BuiltData.uasset'
+[2018.01.16-12.52.38:803][595]LogSavePackage: Display: Finished SavePackage ../../../../../GitHub/CultOfRaven/Content/OLLE/Scenes/Blockout_new_BuiltData.uasset
+[2018.01.16-12.52.38:803][595]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/OLLE/Scenes/Blockout_new_BuiltData" FILE="../../../../../GitHub/CultOfRaven/Content/OLLE/Scenes/Blockout_new_BuiltData.uasset" SILENT=true
+[2018.01.16-12.52.39:198][595]LogSavePackage: Save=390.96ms
+[2018.01.16-12.52.39:198][595]LogSavePackage: Moving '../../../../../GitHub/CultOfRaven/Saved/Blockout_new_BuiltData03573D1B46067DDBB1B36196633EA90E.tmp' to '../../../../../GitHub/CultOfRaven/Content/OLLE/Scenes/Blockout_new_BuiltData.uasset'
+[2018.01.16-12.52.39:200][595]LogSavePackage: Display: Finished SavePackage ../../../../../GitHub/CultOfRaven/Content/OLLE/Scenes/Blockout_new_BuiltData.uasset
+[2018.01.16-12.52.39:200][595]Cmd: MAP LOAD FILE="../../../../../GitHub/CultOfRaven/Content/OLLE/Scenes/Blockout.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.01.16-12.52.39:200][595]LightingResults: New page: Lighting Build
+[2018.01.16-12.52.39:201][595]LoadErrors: New page: Loading map: Blockout.umap
+[2018.01.16-12.52.39:203][595]MapCheck: New page: Map Check
+[2018.01.16-12.52.39:203][595]LightingResults: New page: Lighting Build
+[2018.01.16-12.52.39:227][595]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.01.16-12.52.39:264][595]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.01.16-12.52.39:303][595]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 38.525ms to complete.
+[2018.01.16-12.52.39:303][595]LogFileHelpers: Loading map 'Blockout' took 0.103
+[2018.01.16-12.52.42:546][969]MapCheck: New page: Map Check
+[2018.01.16-12.52.42:559][969]LightingResults: New page: Lighting Build - Jan 16, 2018, 2:52:42 PM
+[2018.01.16-12.52.42:569][969]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2018.01.16-12.52.42:571][969]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2018.01.16-12.52.42:571][969]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2018.01.16-12.52.42:571][969]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2018.01.16-12.52.42:571][969]LogSwarmInterface: [TryOpenConnection] Local Process ID is 6912
+[2018.01.16-12.52.47:102][969]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2018.01.16-12.52.47:102][969]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2018.01.16-12.52.47:102][969]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2018.01.16-12.52.47:102][969]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2018.01.16-12.52.47:102][969]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2018.01.16-12.52.47:102][969]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2018.01.16-12.52.47:283][969]LogEditorBuildUtils: Build time 0:04
+[2018.01.16-12.52.51:909][387]LightingResults: Warning: Wall_Doorframe_400x400 Object has overlapping UVs.
+[2018.01.16-12.52.51:909][387]LightingResults: Wall_Doorframe_400x400 Lightmap UV are overlapping by 50.0%. Please adjust content - Enable Error Coloring to visualize.
+[2018.01.16-12.52.53:597][550]LightingResults: Warning: TowerWindow Object has overlapping UVs.
+[2018.01.16-12.52.53:597][550]LightingResults: TowerWindow Lightmap UV are overlapping by 66.0%. Please adjust content - Enable Error Coloring to visualize.
+[2018.01.16-12.52.54:019][592]LightingResults: Warning: Wall_Doorframe_400x400 Object has overlapping UVs.
+[2018.01.16-12.52.54:019][592]LightingResults: Wall_Doorframe_400x400 Lightmap UV are overlapping by 50.0%. Please adjust content - Enable Error Coloring to visualize.
+[2018.01.16-12.52.54:483][637]LightingResults: Warning: Wall_Doorframe_400x400 Object has overlapping UVs.
+[2018.01.16-12.52.54:483][637]LightingResults: Wall_Doorframe_400x400 Lightmap UV are overlapping by 50.0%. Please adjust content - Enable Error Coloring to visualize.
+[2018.01.16-12.52.54:594][648]LightingResults: Warning: Wall_Doorframe_400x400 Object has overlapping UVs.
+[2018.01.16-12.52.54:594][648]LightingResults: Wall_Doorframe_400x400 Lightmap UV are overlapping by 50.0%. Please adjust content - Enable Error Coloring to visualize.
+[2018.01.16-12.52.55:319][720]LightingResults: Warning: TowerWall_Deco Object has overlapping UVs.
+[2018.01.16-12.52.55:319][720]LightingResults: TowerWall_Deco Lightmap UV are overlapping by 3.4%. Please adjust content - Enable Error Coloring to visualize.
+[2018.01.16-12.52.56:224][805]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Doorframe_400x407)
+[2018.01.16-12.52.57:085][873]LightingResults: Warning: Wall_Doorframe_400x400 Object has overlapping UVs.
+[2018.01.16-12.52.57:085][873]LightingResults: Wall_Doorframe_400x400 Lightmap UV are overlapping by 50.0%. Please adjust content - Enable Error Coloring to visualize.
+[2018.01.16-12.52.57:155][880]LightingResults: Warning: TowerWindow Object has overlapping UVs.
+[2018.01.16-12.52.57:155][880]LightingResults: TowerWindow Lightmap UV are overlapping by 66.0%. Please adjust content - Enable Error Coloring to visualize.
+[2018.01.16-12.52.58:469][  9]LightingResults: Warning: Wall_Doorframe_400x400 Object has overlapping UVs.
+[2018.01.16-12.52.58:469][  9]LightingResults: Wall_Doorframe_400x400 Lightmap UV are overlapping by 50.0%. Please adjust content - Enable Error Coloring to visualize.
+[2018.01.16-12.52.58:510][ 13]LightingResults: Warning: Wall_Doorframe_400x400 Object has overlapping UVs.
+[2018.01.16-12.52.58:510][ 13]LightingResults: Wall_Doorframe_400x400 Lightmap UV are overlapping by 50.0%. Please adjust content - Enable Error Coloring to visualize.
+[2018.01.16-12.52.59:627][123]LightingResults: Warning: TowerWall_Deco Object has overlapping UVs.
+[2018.01.16-12.52.59:627][123]LightingResults: TowerWall_Deco Lightmap UV are overlapping by 3.4%. Please adjust content - Enable Error Coloring to visualize.
+[2018.01.16-12.53.00:082][168]LightingResults: Warning: TowerWall_Deco Object has overlapping UVs.
+[2018.01.16-12.53.00:082][168]LightingResults: TowerWall_Deco Lightmap UV are overlapping by 3.4%. Please adjust content - Enable Error Coloring to visualize.
+[2018.01.16-12.53.01:169][275]LightingResults: Warning: Wall_Doorframe_400x400 Object has overlapping UVs.
+[2018.01.16-12.53.01:169][275]LightingResults: Wall_Doorframe_400x400 Lightmap UV are overlapping by 50.0%. Please adjust content - Enable Error Coloring to visualize.
+[2018.01.16-12.53.01:561][314]LightingResults: Warning: TowerWall_200x200_Window Object has overlapping UVs.
+[2018.01.16-12.53.01:561][314]LightingResults: TowerWall_200x200_Window Lightmap UV are overlapping by 11.0%. Please adjust content - Enable Error Coloring to visualize.
+[2018.01.16-12.53.01:722][330]LightingResults: Warning: Wall_Doorframe_400x400 Object has overlapping UVs.
+[2018.01.16-12.53.01:722][330]LightingResults: Wall_Doorframe_400x400 Lightmap UV are overlapping by 50.0%. Please adjust content - Enable Error Coloring to visualize.
+[2018.01.16-12.53.01:933][350]LightingResults: Warning: TowerWall_200x200_Window Object has overlapping UVs.
+[2018.01.16-12.53.01:933][350]LightingResults: TowerWall_200x200_Window Lightmap UV are overlapping by 11.0%. Please adjust content - Enable Error Coloring to visualize.
+[2018.01.16-12.53.02:902][445]LightingResults: Warning: Wall_Doorframe_400x400 Object has overlapping UVs.
+[2018.01.16-12.53.02:902][445]LightingResults: Wall_Doorframe_400x400 Lightmap UV are overlapping by 50.0%. Please adjust content - Enable Error Coloring to visualize.
+[2018.01.16-12.53.03:347][488]LightingResults: Warning: Wall_Doorframe_400x400 Object has overlapping UVs.
+[2018.01.16-12.53.03:347][488]LightingResults: Wall_Doorframe_400x400 Lightmap UV are overlapping by 50.0%. Please adjust content - Enable Error Coloring to visualize.
+[2018.01.16-12.53.03:971][550]LightingResults: Warning: Wall_Doorframe_400x400 Object has overlapping UVs.
+[2018.01.16-12.53.03:971][550]LightingResults: Wall_Doorframe_400x400 Lightmap UV are overlapping by 50.0%. Please adjust content - Enable Error Coloring to visualize.
+[2018.01.16-12.53.04:113][564]LightingResults: Warning: TowerWall_Deco Object has overlapping UVs.
+[2018.01.16-12.53.04:113][564]LightingResults: TowerWall_Deco Lightmap UV are overlapping by 3.4%. Please adjust content - Enable Error Coloring to visualize.
+[2018.01.16-12.53.04:184][571]LightingResults: Warning: Wall_Doorframe_400x400 Object has overlapping UVs.
+[2018.01.16-12.53.04:184][571]LightingResults: Wall_Doorframe_400x400 Lightmap UV are overlapping by 50.0%. Please adjust content - Enable Error Coloring to visualize.
+[2018.01.16-12.53.04:610][612]LightingResults: Warning: TowerWall_Deco Object has overlapping UVs.
+[2018.01.16-12.53.04:610][612]LightingResults: TowerWall_Deco Lightmap UV are overlapping by 3.4%. Please adjust content - Enable Error Coloring to visualize.
+[2018.01.16-12.53.04:832][631]LightingResults: Warning: TowerWall_Deco Object has overlapping UVs.
+[2018.01.16-12.53.04:832][631]LightingResults: TowerWall_Deco Lightmap UV are overlapping by 3.4%. Please adjust content - Enable Error Coloring to visualize.
+[2018.01.16-12.53.05:235][667]LightingResults: Warning: TowerWall_Deco Object has overlapping UVs.
+[2018.01.16-12.53.05:235][667]LightingResults: TowerWall_Deco Lightmap UV are overlapping by 3.4%. Please adjust content - Enable Error Coloring to visualize.
+[2018.01.16-12.53.05:498][692]LightingResults: Warning: TowerWall_Deco Object has overlapping UVs.
+[2018.01.16-12.53.05:498][692]LightingResults: TowerWall_Deco Lightmap UV are overlapping by 3.4%. Please adjust content - Enable Error Coloring to visualize.
+[2018.01.16-12.53.06:105][749]LightingResults: Warning: Wall_Doorframe_400x400 Object has overlapping UVs.
+[2018.01.16-12.53.06:105][749]LightingResults: Wall_Doorframe_400x400 Lightmap UV are overlapping by 50.0%. Please adjust content - Enable Error Coloring to visualize.
+[2018.01.16-12.53.06:389][777]LightingResults: Warning: TowerWall_200x200_Window Object has overlapping UVs.
+[2018.01.16-12.53.06:389][777]LightingResults: TowerWall_200x200_Window Lightmap UV are overlapping by 11.0%. Please adjust content - Enable Error Coloring to visualize.
+[2018.01.16-12.53.06:610][798]LightingResults: Warning: TowerWall_200x200_Window Object has overlapping UVs.
+[2018.01.16-12.53.06:610][798]LightingResults: TowerWall_200x200_Window Lightmap UV are overlapping by 11.0%. Please adjust content - Enable Error Coloring to visualize.
+[2018.01.16-12.53.07:770][903]LightingResults: Warning: TowerWall_Deco Object has overlapping UVs.
+[2018.01.16-12.53.07:780][904]LightingResults: TowerWall_Deco Lightmap UV are overlapping by 3.4%. Please adjust content - Enable Error Coloring to visualize.
+[2018.01.16-12.53.07:780][904]LightingResults: Warning: TowerWindow Object has overlapping UVs.
+[2018.01.16-12.53.07:780][904]LightingResults: TowerWindow Lightmap UV are overlapping by 66.0%. Please adjust content - Enable Error Coloring to visualize.
+[2018.01.16-12.53.07:881][914]LightingResults: Warning: Wall_Doorframe_400x400 Object has overlapping UVs.
+[2018.01.16-12.53.07:881][914]LightingResults: Wall_Doorframe_400x400 Lightmap UV are overlapping by 50.0%. Please adjust content - Enable Error Coloring to visualize.
+[2018.01.16-12.53.07:983][922]LightingResults: Warning: TowerWindow Object has overlapping UVs.
+[2018.01.16-12.53.07:983][922]LightingResults: TowerWindow Lightmap UV are overlapping by 66.0%. Please adjust content - Enable Error Coloring to visualize.
+[2018.01.16-12.53.08:549][972]LightingResults: Warning: Wall_Doorframe_400x400 Object has overlapping UVs.
+[2018.01.16-12.53.08:559][973]LightingResults: Wall_Doorframe_400x400 Lightmap UV are overlapping by 50.0%. Please adjust content - Enable Error Coloring to visualize.
+[2018.01.16-12.53.08:622][979]LightingResults: Warning: Wall_Doorframe_400x400 Object has overlapping UVs.
+[2018.01.16-12.53.08:622][979]LightingResults: Wall_Doorframe_400x400 Lightmap UV are overlapping by 50.0%. Please adjust content - Enable Error Coloring to visualize.
+[2018.01.16-12.53.08:792][993]LightingResults: Warning: TowerWall_200x200_Window Object has overlapping UVs.
+[2018.01.16-12.53.08:792][993]LightingResults: TowerWall_200x200_Window Lightmap UV are overlapping by 11.0%. Please adjust content - Enable Error Coloring to visualize.
+[2018.01.16-12.53.09:497][ 55]LightingResults: Warning: Wall_Doorframe_400x400 Object has overlapping UVs.
+[2018.01.16-12.53.09:508][ 56]LightingResults: Wall_Doorframe_400x400 Lightmap UV are overlapping by 50.0%. Please adjust content - Enable Error Coloring to visualize.
+[2018.01.16-12.53.09:618][ 67]LightingResults: Warning: TowerWall_Deco Object has overlapping UVs.
+[2018.01.16-12.53.09:618][ 67]LightingResults: TowerWall_Deco Lightmap UV are overlapping by 3.4%. Please adjust content - Enable Error Coloring to visualize.
+[2018.01.16-12.53.09:699][ 74]LightingResults: Warning: TowerWall_200x200_Window Object has overlapping UVs.
+[2018.01.16-12.53.09:699][ 74]LightingResults: TowerWall_200x200_Window Lightmap UV are overlapping by 11.0%. Please adjust content - Enable Error Coloring to visualize.
+[2018.01.16-12.53.10:234][127]LightingResults: Warning: TowerWall_200x200_Window Object has overlapping UVs.
+[2018.01.16-12.53.10:234][127]LightingResults: TowerWall_200x200_Window Lightmap UV are overlapping by 11.0%. Please adjust content - Enable Error Coloring to visualize.
+[2018.01.16-12.53.10:345][138]LightingResults: Warning: Wall_Doorframe_400x400 Object has overlapping UVs.
+[2018.01.16-12.53.10:345][138]LightingResults: Wall_Doorframe_400x400 Lightmap UV are overlapping by 50.0%. Please adjust content - Enable Error Coloring to visualize.
+[2018.01.16-12.53.10:426][146]LightingResults: Warning: TowerWindow Object has overlapping UVs.
+[2018.01.16-12.53.10:426][146]LightingResults: TowerWindow Lightmap UV are overlapping by 66.0%. Please adjust content - Enable Error Coloring to visualize.
+[2018.01.16-12.53.10:649][165]LightingResults: Warning: TowerWall_200x200_Window Object has overlapping UVs.
+[2018.01.16-12.53.10:649][165]LightingResults: TowerWall_200x200_Window Lightmap UV are overlapping by 11.0%. Please adjust content - Enable Error Coloring to visualize.
+[2018.01.16-12.53.10:669][166]LightingResults: Warning: TowerWall_Deco Object has overlapping UVs.
+[2018.01.16-12.53.10:669][166]LightingResults: TowerWall_Deco Lightmap UV are overlapping by 3.4%. Please adjust content - Enable Error Coloring to visualize.
+[2018.01.16-12.53.10:700][169]LightingResults: Warning: TowerWindow Object has overlapping UVs.
+[2018.01.16-12.53.10:700][169]LightingResults: TowerWindow Lightmap UV are overlapping by 66.0%. Please adjust content - Enable Error Coloring to visualize.
+[2018.01.16-12.53.11:544][240]LightingResults: Warning: TowerWindow Object has overlapping UVs.
+[2018.01.16-12.53.11:544][240]LightingResults: TowerWindow Lightmap UV are overlapping by 66.0%. Please adjust content - Enable Error Coloring to visualize.
+[2018.01.16-12.53.11:665][252]LightingResults: Warning: TowerWall_Deco Object has overlapping UVs.
+[2018.01.16-12.53.11:675][253]LightingResults: TowerWall_Deco Lightmap UV are overlapping by 3.4%. Please adjust content - Enable Error Coloring to visualize.
+[2018.01.16-12.53.11:837][269]LightingResults: Warning: TowerWindow Object has overlapping UVs.
+[2018.01.16-12.53.11:837][269]LightingResults: TowerWindow Lightmap UV are overlapping by 66.0%. Please adjust content - Enable Error Coloring to visualize.
+[2018.01.16-12.53.13:196][401]LightingResults: Warning: Wall_Doorframe_400x400 Object has overlapping UVs.
+[2018.01.16-12.53.13:196][401]LightingResults: Wall_Doorframe_400x400 Lightmap UV are overlapping by 50.0%. Please adjust content - Enable Error Coloring to visualize.
+[2018.01.16-12.53.14:483][514]LightingResults: Warning: Wall_Doorframe_400x400 Object has overlapping UVs.
+[2018.01.16-12.53.14:483][514]LightingResults: Wall_Doorframe_400x400 Lightmap UV are overlapping by 50.0%. Please adjust content - Enable Error Coloring to visualize.
+[2018.01.16-12.53.14:815][542]LightingResults: Warning: Wall_Doorframe_400x400 Object has overlapping UVs.
+[2018.01.16-12.53.14:815][542]LightingResults: Wall_Doorframe_400x400 Lightmap UV are overlapping by 50.0%. Please adjust content - Enable Error Coloring to visualize.
+[2018.01.16-12.53.15:026][563]LightingResults: Warning: Wall_Doorframe_400x400 Object has overlapping UVs.
+[2018.01.16-12.53.15:026][563]LightingResults: Wall_Doorframe_400x400 Lightmap UV are overlapping by 50.0%. Please adjust content - Enable Error Coloring to visualize.
+[2018.01.16-12.53.15:559][616]LightingResults: Warning: Wall_Doorframe_400x400 Object has overlapping UVs.
+[2018.01.16-12.53.15:559][616]LightingResults: Wall_Doorframe_400x400 Lightmap UV are overlapping by 50.0%. Please adjust content - Enable Error Coloring to visualize.
+[2018.01.16-12.53.16:057][661]Job is a success!
+[2018.01.16-12.53.16:126][662]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.007s
+[2018.01.16-12.53.16:126][662]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2018.01.16-12.53.16:126][662]LogVolumetricLightmapImport:      BrickData 295x5x5 = 0.2Mb
+[2018.01.16-12.53.16:126][662]LogVolumetricLightmapImport:      Bricks at Level
+[2018.01.16-12.53.16:126][662]LogVolumetricLightmapImport:          0: 1.7% covering 100.0% of volume
+[2018.01.16-12.53.16:126][662]LogVolumetricLightmapImport:          1: 6.8% covering 6.3% of volume
+[2018.01.16-12.53.16:126][662]LogVolumetricLightmapImport:          2: 91.5% covering 1.3% of volume
+[2018.01.16-12.53.19:535][662]LogTexture: Display: Building textures: HQ_Lightmap0_1 (AutoDXT, 1024X1024)
+[2018.01.16-12.53.19:535][662]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (DXT1, 1024X1024)
+[2018.01.16-12.53.19:535][662]LogTexture: Display: Building textures: HQ_Lightmap0_2 (AutoDXT, 1024X1024)
+[2018.01.16-12.53.19:535][662]LogTexture: Display: Building textures: LQ_Lightmap_0_2 (DXT1, 1024X1024)
+[2018.01.16-12.53.19:535][662]LogTexture: Display: Building textures: HQ_Lightmap1_3 (AutoDXT, 1024X1024)
+[2018.01.16-12.53.19:535][662]LogTexture: Display: Building textures: LQ_Lightmap_1_3 (DXT1, 1024X1024)
+[2018.01.16-12.53.19:535][662]LogTexture: Display: Building textures: HQ_Lightmap1_4 (AutoDXT, 64X64)
+[2018.01.16-12.53.19:535][662]LogTexture: Display: Building textures: LQ_Lightmap_1_4 (DXT1, 64X64)
+[2018.01.16-12.53.19:735][662]LogTexture: Display: Building textures: ShadowMapTexture2D_5 (G8, 32X32)
+[2018.01.16-12.53.19:735][662]LogTexture: Display: Building textures: ShadowMapTexture2D_1 (G8, 1024X64)
+[2018.01.16-12.53.19:738][662]LogTexture: Display: Building textures: ShadowMapTexture2D_0 (G8, 1024X1024)
+[2018.01.16-12.53.19:803][662]Lightmass on FG17AOR032: 31.9 sec total, 154 ms importing, 111 ms setup, 3.09 sec photons, 28.5 sec processing, 0 ms extra exporting [287/287 mappings]. Threads: 1:54 min total, 1:12 min processing.
+[2018.01.16-12.53.19:806][662]LogStaticLightingSystem: Illumination: 37.2 sec (3.23 sec encoding lightmaps, 231 ms encoding shadowmaps)
+[2018.01.16-12.53.19:806][662]LogStaticLightingSystem: Lightmap texture memory:  6.0 MB (6.0 MB streaming, 0.0 MB non-streaming), 8 textures
+[2018.01.16-12.53.19:806][662]LogStaticLightingSystem: Shadowmap texture memory: 1.4 MB (1.4 MB streaming, 0.0 MB non-streaming), 3 textures
+[2018.01.16-12.53.20:106][662]DumpUnbuiltLightIteractions
+[2018.01.16-12.53.20:106][662]Lights with unbuilt interactions: 0
+[2018.01.16-12.53.20:106][662]
+[2018.01.16-12.53.20:106][662]Primitives with unbuilt interactions: 0
+[2018.01.16-12.53.20:125][663]Cmd: MAP CHECK NOTIFYRESULTS
+[2018.01.16-12.53.20:125][663]MapCheck: New page: Blockout - Jan 16, 2018, 2:53:20 PM
+[2018.01.16-12.53.20:126][663]MapCheck: Warning: Floor2 Floor2 is in the same location as Floor9 
+[2018.01.16-12.53.20:126][663]MapCheck: Warning: Floor9 Floor9 is in the same location as Floor2 
+[2018.01.16-12.53.20:175][663]MapCheck: Map check complete: 0 Error(s), 2 Warning(s), took 49.838ms to complete.
+[2018.01.16-12.53.22:490][885]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2018.01.16-12.53.40:967][ 36]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2018.01.16-12.54.04:139][705]LogLinker: Warning: Can't find file '/Game/Textures/BlockoutMoss'
+[2018.01.16-12.54.04:140][705]LogLinker: Warning: Can't find file for asset '/Game/Textures/BlockoutMoss' while loading ../../../../../GitHub/CultOfRaven/Content/JENNIFER/Materials/Moss_Mat.uasset.
+[2018.01.16-12.54.04:140][705]LoadErrors: Error: /Game/JENNIFER/Materials/Moss_Mat : Can't find file for asset. /Game/Textures/BlockoutMoss
+[2018.01.16-12.54.04:140][705]LogLinker: Warning: Can't find file '/Game/Textures/BlockoutMoss'
+[2018.01.16-12.54.04:141][705]LogLinker: Warning: Can't find file for asset '/Game/Textures/BlockoutMoss' while loading ../../../../../GitHub/CultOfRaven/Content/JENNIFER/Materials/Moss_Mat.uasset.
+[2018.01.16-12.54.06:063][705]LogLinker: Warning: Can't find file '/Game/Textures/BlockoutMoss'
+[2018.01.16-12.54.06:063][705]LoadErrors: Failed to load /Game/Textures/BlockoutMoss.BlockoutMoss Referenced by MaterialExpressionTextureSample_0
+[2018.01.16-12.54.06:063][705]LogLinker: Warning: Can't find file for asset '/Game/Textures/BlockoutMoss' while loading NULL.
+[2018.01.16-12.54.06:317][705]LogMaterial: Missing cached shader map for material lambert3, compiling. 
+[2018.01.16-12.54.06:317][705]LogMaterial: Warning: D:\GitHub\CultOfRaven\Content\JENNIFER\Materials\lambert3.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.01.16-12.54.06:317][705]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2018.01.16-12.54.07:999][705]LogMaterial: Missing cached shader map for material Moss_Mat, compiling. 
+[2018.01.16-12.54.08:000][705]LogMaterial: Warning: D:\GitHub\CultOfRaven\Content\JENNIFER\Materials\Moss_Mat.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.01.16-12.54.08:000][705]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2018.01.16-12.54.09:047][705]LogAIModule: Creating AISystem for world AssetZoo
+[2018.01.16-12.54.10:497][705]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/OLLE/Scenes/Blockout" FILE="../../../../../GitHub/CultOfRaven/Content/OLLE/Scenes/Blockout.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.01.16-12.54.11:011][705]LogSavePackage: Save=489.74ms
+[2018.01.16-12.54.11:011][705]LogSavePackage: Moving '../../../../../GitHub/CultOfRaven/Saved/Blockout41DFEC1D489D01DD63230AA9F50FEBE8.tmp' to '../../../../../GitHub/CultOfRaven/Content/OLLE/Scenes/Blockout.umap'
+[2018.01.16-12.54.11:016][705]LogSavePackage: Display: Finished SavePackage ../../../../../GitHub/CultOfRaven/Content/OLLE/Scenes/Blockout.umap
+[2018.01.16-12.54.11:043][705]LogFileHelpers: Saving map 'Blockout' took 0.612
+[2018.01.16-12.54.11:043][705]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/OLLE/Scenes/Blockout_BuiltData" FILE="../../../../../GitHub/CultOfRaven/Content/OLLE/Scenes/Blockout_BuiltData.uasset" SILENT=true
+[2018.01.16-12.54.11:662][705]LogSavePackage: Save=438.00ms
+[2018.01.16-12.54.11:662][705]LogSavePackage: Moving '../../../../../GitHub/CultOfRaven/Saved/Blockout_BuiltData5518F1494B0BD2DF32E83A891DEB48EA.tmp' to '../../../../../GitHub/CultOfRaven/Content/OLLE/Scenes/Blockout_BuiltData.uasset'
+[2018.01.16-12.54.11:665][705]LogSavePackage: Display: Finished SavePackage ../../../../../GitHub/CultOfRaven/Content/OLLE/Scenes/Blockout_BuiltData.uasset
+[2018.01.16-12.54.11:665][705]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/OLLE/Scenes/Blockout_BuiltData" FILE="../../../../../GitHub/CultOfRaven/Content/OLLE/Scenes/Blockout_BuiltData.uasset" SILENT=true
+[2018.01.16-12.54.12:065][705]LogSavePackage: Save=395.26ms
+[2018.01.16-12.54.12:065][705]LogSavePackage: Moving '../../../../../GitHub/CultOfRaven/Saved/Blockout_BuiltData7BFD6CFB4B6650B7EEF5FA85B5DBA236.tmp' to '../../../../../GitHub/CultOfRaven/Content/OLLE/Scenes/Blockout_BuiltData.uasset'
+[2018.01.16-12.54.12:068][705]LogSavePackage: Display: Finished SavePackage ../../../../../GitHub/CultOfRaven/Content/OLLE/Scenes/Blockout_BuiltData.uasset
+[2018.01.16-12.54.12:068][705]Cmd: MAP LOAD FILE="../../../../../GitHub/CultOfRaven/Content/Scenes/AssetZoo.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.01.16-12.54.12:068][705]LightingResults: New page: Lighting Build
+[2018.01.16-12.54.12:069][705]LoadErrors: New page: Loading map: AssetZoo.umap
+[2018.01.16-12.54.12:071][705]MapCheck: New page: Map Check
+[2018.01.16-12.54.12:071][705]LightingResults: New page: Lighting Build
+[2018.01.16-12.54.12:093][705]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.01.16-12.54.12:128][705]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.01.16-12.54.12:190][705]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 61.877ms to complete.
+[2018.01.16-12.54.12:190][705]LogFileHelpers: Loading map 'AssetZoo' took 0.122
+[2018.01.16-12.54.19:779][571]MapCheck: New page: Map Check
+[2018.01.16-12.54.19:795][571]LightingResults: New page: Lighting Build - Jan 16, 2018, 2:54:19 PM
+[2018.01.16-12.54.19:803][571]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2018.01.16-12.54.19:805][571]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2018.01.16-12.54.19:805][571]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2018.01.16-12.54.19:806][571]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2018.01.16-12.54.19:806][571]LogSwarmInterface: [TryOpenConnection] Local Process ID is 6912
+[2018.01.16-12.54.24:329][571]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2018.01.16-12.54.24:329][571]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2018.01.16-12.54.24:329][571]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2018.01.16-12.54.24:329][571]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2018.01.16-12.54.24:329][571]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2018.01.16-12.54.24:490][571]LogEditorBuildUtils: Build time 0:04
+[2018.01.16-12.54.25:139][587]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer Moss_Mat, compiling. 
+[2018.01.16-12.54.25:153][587]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer Moss_Mat, compiling. 
+[2018.01.16-12.54.25:974][619]LogStaticLightingSystem: Warning: Failed to build lighting!!! Lighting build failed. Swarm failed to kick off.  Compile Unreal Lightmass.
+[2018.01.16-12.54.25:975][619]DumpUnbuiltLightIteractions
+[2018.01.16-12.54.25:975][619]Lights with unbuilt interactions: 1
+[2018.01.16-12.54.25:975][619]    Light DirectionalLight_1
+[2018.01.16-12.54.25:975][619]
+[2018.01.16-12.54.25:975][619]Primitives with unbuilt interactions: 150
+[2018.01.16-12.54.25:975][619]    Primitive StaticMeshComponent /Game/Scenes/AssetZoo.AssetZoo:PersistentLevel.SM_Tree_04_61.StaticMeshComponent0
+[2018.01.16-12.54.25:975][619]    Primitive StaticMeshComponent /Game/Scenes/AssetZoo.AssetZoo:PersistentLevel.SM_Tree_03_58.StaticMeshComponent0
+[2018.01.16-12.54.25:975][619]    Primitive StaticMeshComponent /Game/Scenes/AssetZoo.AssetZoo:PersistentLevel.SM_Tree_02_55.StaticMeshComponent0
+[2018.01.16-12.54.25:975][619]    Primitive StaticMeshComponent /Game/Scenes/AssetZoo.AssetZoo:PersistentLevel.SM_Tree_01_52.StaticMeshComponent0
+[2018.01.16-12.54.25:975][619]    Primitive StaticMeshComponent /Game/Scenes/AssetZoo.AssetZoo:PersistentLevel.SM_Pinetree_02_37.StaticMeshComponent0
+[2018.01.16-12.54.25:976][619]    Primitive StaticMeshComponent /Game/Scenes/AssetZoo.AssetZoo:PersistentLevel.SM_MagicTree_34.StaticMeshComponent0
+[2018.01.16-12.54.25:976][619]    Primitive StaticMeshComponent /Game/Scenes/AssetZoo.AssetZoo:PersistentLevel.SM_Foliage_Ivy_29.StaticMeshComponent0
+[2018.01.16-12.54.25:976][619]    Primitive StaticMeshComponent /Game/Scenes/AssetZoo.AssetZoo:PersistentLevel.SM_Foliage_Grass_02_26.StaticMeshComponent0
+[2018.01.16-12.54.25:976][619]    Primitive StaticMeshComponent /Game/Scenes/AssetZoo.AssetZoo:PersistentLevel.SM_Foliage_Grass_01_23.StaticMeshComponent0
+[2018.01.16-12.54.25:976][619]    Primitive StaticMeshComponent /Game/Scenes/AssetZoo.AssetZoo:PersistentLevel.SM_Foliage_Flowers_02_20.StaticMeshComponent0
+[2018.01.16-12.54.25:976][619]    Primitive StaticMeshComponent /Game/Scenes/AssetZoo.AssetZoo:PersistentLevel.SM_Foliage_Flowers_01_17.StaticMeshComponent0
+[2018.01.16-12.54.25:976][619]    Primitive StaticMeshComponent /Game/Scenes/AssetZoo.AssetZoo:PersistentLevel.SM_Foliage_Fern_14.StaticMeshComponent0
+[2018.01.16-12.54.25:976][619]    Primitive StaticMeshComponent /Game/Scenes/AssetZoo.AssetZoo:PersistentLevel.SM_Foliage_Bush_01_11.StaticMeshComponent0
+[2018.01.16-12.54.25:976][619]    Primitive StaticMeshComponent /Game/Scenes/AssetZoo.AssetZoo:PersistentLevel.SM_bridge_01_placeholder_26.StaticMeshComponent0
+[2018.01.16-12.54.25:976][619]    Primitive StaticMeshComponent /Game/Scenes/AssetZoo.AssetZoo:PersistentLevel.SM_Rock_Large_02_20.StaticMeshComponent0
+[2018.01.16-12.54.25:976][619]    Primitive StaticMeshComponent /Game/Scenes/AssetZoo.AssetZoo:PersistentLevel.SM_Rock_Medium_01_17.StaticMeshComponent0
+[2018.01.16-12.54.25:976][619]    Primitive StaticMeshComponent /Game/Scenes/AssetZoo.AssetZoo:PersistentLevel.SM_Rock_Large_01_14.StaticMeshComponent0
+[2018.01.16-12.54.25:976][619]    Primitive StaticMeshComponent /Game/Scenes/AssetZoo.AssetZoo:PersistentLevel.SM_Rock_02_11.StaticMeshComponent0
+[2018.01.16-12.54.25:976][619]    Primitive StaticMeshComponent /Game/Scenes/AssetZoo.AssetZoo:PersistentLevel.SM_Rock_01_8.StaticMeshComponent0
+[2018.01.16-12.54.25:976][619]    Primitive StaticMeshComponent /Game/Scenes/AssetZoo.AssetZoo:PersistentLevel.Roof_beam_2.StaticMeshComponent0
+[2018.01.16-12.54.25:976][619]    Primitive StaticMeshComponent /Game/Scenes/AssetZoo.AssetZoo:PersistentLevel.Railing_stairs_top_443.StaticMeshComponent0
+[2018.01.16-12.54.25:976][619]    Primitive StaticMeshComponent /Game/Scenes/AssetZoo.AssetZoo:PersistentLevel.Wall_trim_01_440.StaticMeshComponent0
+[2018.01.16-12.54.25:976][619]    Primitive StaticMeshComponent /Game/Scenes/AssetZoo.AssetZoo:PersistentLevel.Wall_plain_437.StaticMeshComponent0
+[2018.01.16-12.54.25:976][619]    Primitive StaticMeshComponent /Game/Scenes/AssetZoo.AssetZoo:PersistentLevel.Wall_door_opening_434.StaticMeshComponent0
+[2018.01.16-12.54.25:976][619]    Primitive StaticMeshComponent /Game/Scenes/AssetZoo.AssetZoo:PersistentLevel.Wall_3x3_geo_tile_431.StaticMeshComponent0
+[2018.01.16-12.54.25:976][619]    Primitive StaticMeshComponent /Game/Scenes/AssetZoo.AssetZoo:PersistentLevel.Wall_3x3_geo_428.StaticMeshComponent0
+[2018.01.16-12.54.25:976][619]    Primitive StaticMeshComponent /Game/Scenes/AssetZoo.AssetZoo:PersistentLevel.Vault_03_half_425.StaticMeshComponent0
+[2018.01.16-12.54.25:976][619]    Primitive StaticMeshComponent /Game/Scenes/AssetZoo.AssetZoo:PersistentLevel.Vault_03_422.StaticMeshComponent0
+[2018.01.16-12.54.25:976][619]    Primitive StaticMeshComponent /Game/Scenes/AssetZoo.AssetZoo:PersistentLevel.Torch_419.StaticMeshComponent0
+[2018.01.16-12.54.25:976][619]    Primitive StaticMeshComponent /Game/Scenes/AssetZoo.AssetZoo:PersistentLevel.Tile_loose_416.StaticMeshComponent0
+[2018.01.16-12.54.25:976][619]    Primitive StaticMeshComponent /Game/Scenes/AssetZoo.AssetZoo:PersistentLevel.Tile_loose_413.StaticMeshComponent0
+[2018.01.16-12.54.25:976][619]    Primitive StaticMeshComponent /Game/Scenes/AssetZoo.AssetZoo:PersistentLevel.Tile_loose_410.StaticMeshComponent0
+[2018.01.16-12.54.25:976][619]    Primitive StaticMeshComponent /Game/Scenes/AssetZoo.AssetZoo:PersistentLevel.Stair_Geo_407.StaticMeshComponent0
+[2018.01.16-12.54.25:976][619]    Primitive StaticMeshComponent /Game/Scenes/AssetZoo.AssetZoo:PersistentLevel.Railing_stairs_low_404.StaticMeshComponent0
+[2018.01.16-12.54.25:976][619]    Primitive StaticMeshComponent /Game/Scenes/AssetZoo.AssetZoo:PersistentLevel.Railing_stairs_end_401.StaticMeshComponent0
+[2018.01.16-12.54.25:976][619]    Primitive StaticMeshComponent /Game/Scenes/AssetZoo.AssetZoo:PersistentLevel.Railing_stairs_398.StaticMeshComponent0
+[2018.01.16-12.54.25:976][619]    Primitive StaticMeshComponent /Game/Scenes/AssetZoo.AssetZoo:PersistentLevel.Railing_full_length_395.StaticMeshComponent0
+[2018.01.16-12.54.25:976][619]    Primitive StaticMeshComponent /Game/Scenes/AssetZoo.AssetZoo:PersistentLevel.Railing_end_piece_392.StaticMeshComponent0
+[2018.01.16-12.54.25:976][619]    Primitive StaticMeshComponent /Game/Scenes/AssetZoo.AssetZoo:PersistentLevel.Railing_4m_389.StaticMeshComponent0
+[2018.01.16-12.54.25:976][619]    Primitive StaticMeshComponent /Game/Scenes/AssetZoo.AssetZoo:PersistentLevel.Railing_1m_386.StaticMeshComponent0
+[2018.01.16-12.54.25:976][619]    Primitive StaticMeshComponent /Game/Scenes/AssetZoo.AssetZoo:PersistentLevel.Railing_01_383.StaticMeshComponent0
+[2018.01.16-12.54.25:976][619]    Primitive StaticMeshComponent /Game/Scenes/AssetZoo.AssetZoo:PersistentLevel.Railing_380.StaticMeshComponent0
+[2018.01.16-12.54.25:976][619]    Primitive StaticMeshComponent /Game/Scenes/AssetZoo.AssetZoo:PersistentLevel.Railing_377.StaticMeshComponent0
+[2018.01.16-12.54.25:976][619]    Primitive StaticMeshComponent /Game/Scenes/AssetZoo.AssetZoo:PersistentLevel.plane_for_texturing_374.StaticMeshComponent0
+[2018.01.16-12.54.25:976][619]    Primitive StaticMeshComponent /Game/Scenes/AssetZoo.AssetZoo:PersistentLevel.Pillar_thin_01_371.StaticMeshComponent0
+[2018.01.16-12.54.25:976][619]    Primitive StaticMeshComponent /Game/Scenes/AssetZoo.AssetZoo:PersistentLevel.Pillar_small_01_368.StaticMeshComponent0
+[2018.01.16-12.54.25:976][619]    Primitive StaticMeshComponent /Game/Scenes/AssetZoo.AssetZoo:PersistentLevel.Pillar_6meter_365.StaticMeshComponent0
+[2018.01.16-12.54.25:976][619]    Primitive StaticMeshComponent /Game/Scenes/AssetZoo.AssetZoo:PersistentLevel.Pillar_01_362.StaticMeshComponent0
+[2018.01.16-12.54.25:976][619]    Primitive StaticMeshComponent /Game/Scenes/AssetZoo.AssetZoo:PersistentLevel.MeshesVault_02_359.StaticMeshComponent0
+[2018.01.16-12.54.25:976][619]    Primitive StaticMeshComponent /Game/Scenes/AssetZoo.AssetZoo:PersistentLevel.MeshesDoor_main_356.StaticMeshComponent0
+[2018.01.16-12.54.25:976][619]    Primitive StaticMeshComponent /Game/Scenes/AssetZoo.AssetZoo:PersistentLevel.MeshesDoor_Door_ring_attatchment_353.StaticMeshComponent0
+[2018.01.16-12.54.25:976][619]    Primitive StaticMeshComponent /Game/Scenes/AssetZoo.AssetZoo:PersistentLevel.MeshesDoor_Door_ring_350.StaticMeshComponent0
+[2018.01.16-12.54.25:976][619]    Primitive StaticMeshComponent /Game/Scenes/AssetZoo.AssetZoo:PersistentLevel.MeshesDoor_Door_main_347.StaticMeshComponent0
+[2018.01.16-12.54.25:976][619]    Primitive StaticMeshComponent /Game/Scenes/AssetZoo.AssetZoo:PersistentLevel.MeshesDoor_Door_back_plate_344.StaticMeshComponent0
+[2018.01.16-12.54.25:976][619]    Primitive StaticMeshComponent /Game/Scenes/AssetZoo.AssetZoo:PersistentLevel.MeshesDoor_back_plate_341.StaticMeshComponent0
+[2018.01.16-12.54.25:976][619]    Primitive StaticMeshComponent /Game/Scenes/AssetZoo.AssetZoo:PersistentLevel.Lantern_01_338.StaticMeshComponent0
+[2018.01.16-12.54.25:976][619]    Primitive StaticMeshComponent /Game/Scenes/AssetZoo.AssetZoo:PersistentLevel.Gate_335.StaticMeshComponent0
+[2018.01.16-12.54.25:976][619]    Primitive StaticMeshComponent /Game/Scenes/AssetZoo.AssetZoo:PersistentLevel.Floor_gate_332.StaticMeshComponent0
+[2018.01.16-12.54.25:976][619]    Primitive StaticMeshComponent /Game/Scenes/AssetZoo.AssetZoo:PersistentLevel.Floor_Bricks_329.StaticMeshComponent0
+[2018.01.16-12.54.25:976][619]    Primitive StaticMeshComponent /Game/Scenes/AssetZoo.AssetZoo:PersistentLevel.Floor_3mx3m_geo_326.StaticMeshComponent0
+[2018.01.16-12.54.25:976][619]    Primitive StaticMeshComponent /Game/Scenes/AssetZoo.AssetZoo:PersistentLevel.Floor_3mx3m_geo_323.StaticMeshComponent0
+[2018.01.16-12.54.25:976][619]    Primitive StaticMeshComponent /Game/Scenes/AssetZoo.AssetZoo:PersistentLevel.Floor_3mx3m_320.StaticMeshComponent0
+[2018.01.16-12.54.25:976][619]    Primitive StaticMeshComponent /Game/Scenes/AssetZoo.AssetZoo:PersistentLevel.Floor_2mx2m_317.StaticMeshComponent0
+[2018.01.16-12.54.25:976][619]    Primitive StaticMeshComponent /Game/Scenes/AssetZoo.AssetZoo:PersistentLevel.Dungeon_floor_plane_314.StaticMeshComponent0
+[2018.01.16-12.54.25:976][619]    Primitive StaticMeshComponent /Game/Scenes/AssetZoo.AssetZoo:PersistentLevel.Door_Wooden_01_311.StaticMeshComponent0
+[2018.01.16-12.54.25:976][619]    Primitive StaticMeshComponent /Game/Scenes/AssetZoo.AssetZoo:PersistentLevel.Door_Gate_308.StaticMeshComponent0
+[2018.01.16-12.54.25:976][619]    Primitive StaticMeshComponent /Game/Scenes/AssetZoo.AssetZoo:PersistentLevel.Door_Arch_01_305.StaticMeshComponent0
+[2018.01.16-12.54.25:976][619]    Primitive StaticMeshComponent /Game/Scenes/AssetZoo.AssetZoo:PersistentLevel.Chandelier_01_302.StaticMeshComponent0
+[2018.01.16-12.54.25:976][619]    Primitive StaticMeshComponent /Game/Scenes/AssetZoo.AssetZoo:PersistentLevel.Barrel_01_299.StaticMeshComponent0
+[2018.01.16-12.54.25:977][619]    Primitive StaticMeshComponent /Game/Scenes/AssetZoo.AssetZoo:PersistentLevel.Altar_wall_corner_296.StaticMeshComponent0
+[2018.01.16-12.54.25:977][619]    Primitive StaticMeshComponent /Game/Scenes/AssetZoo.AssetZoo:PersistentLevel.Altar_wall_293.StaticMeshComponent0
+[2018.01.16-12.54.25:977][619]    Primitive StaticMeshComponent /Game/Scenes/AssetZoo.AssetZoo:PersistentLevel.Altar_outer_290.StaticMeshComponent0
+[2018.01.16-12.54.25:977][619]    Primitive StaticMeshComponent /Game/Scenes/AssetZoo.AssetZoo:PersistentLevel.Altar_ground_287.StaticMeshComponent0
+[2018.01.16-12.54.25:977][619]    Primitive StaticMeshComponent /Game/Scenes/AssetZoo.AssetZoo:PersistentLevel.Altar_egg_cup_284.StaticMeshComponent0
+[2018.01.16-12.54.25:977][619]    Primitive StaticMeshComponent /Game/Scenes/AssetZoo.AssetZoo:PersistentLevel.Altar_egg_281.StaticMeshComponent0
+[2018.01.16-12.54.25:977][619]    Primitive StaticMeshComponent /Game/Scenes/AssetZoo.AssetZoo:PersistentLevel.Altar_base_278.StaticMeshComponent0
+[2018.01.16-12.54.25:977][619]    Primitive StaticMeshComponent /Game/Scenes/AssetZoo.AssetZoo:PersistentLevel.Wall_Doorframe_400x400_275.StaticMeshComponent0
+[2018.01.16-12.54.25:977][619]    Primitive StaticMeshComponent /Game/Scenes/AssetZoo.AssetZoo:PersistentLevel.TowerWindow_272.StaticMeshComponent0
+[2018.01.16-12.54.25:977][619]    Primitive StaticMeshComponent /Game/Scenes/AssetZoo.AssetZoo:PersistentLevel.TowerWallDeco2_269.StaticMeshComponent0
+[2018.01.16-12.54.25:977][619]    Primitive StaticMeshComponent /Game/Scenes/AssetZoo.AssetZoo:PersistentLevel.TowerWall_Deco_266.StaticMeshComponent0
+[2018.01.16-12.54.25:977][619]    Primitive StaticMeshComponent /Game/Scenes/AssetZoo.AssetZoo:PersistentLevel.TowerWall_200x200_Window_263.StaticMeshComponent0
+[2018.01.16-12.54.25:977][619]    Primitive StaticMeshComponent /Game/Scenes/AssetZoo.AssetZoo:PersistentLevel.TowerWall_200x200_260.StaticMeshComponent0
+[2018.01.16-12.54.25:977][619]    Primitive StaticMeshComponent /Game/Scenes/AssetZoo.AssetZoo:PersistentLevel.Roof_Top_257.StaticMeshComponent0
+[2018.01.16-12.54.25:977][619]    Primitive StaticMeshComponent /Game/Scenes/AssetZoo.AssetZoo:PersistentLevel.Roof_Spire_254.StaticMeshComponent0
+[2018.01.16-12.54.25:977][619]    Primitive StaticMeshComponent /Game/Scenes/AssetZoo.AssetZoo:PersistentLevel.Roof_Middle_251.StaticMeshComponent0
+[2018.01.16-12.54.25:977][619]    Primitive StaticMeshComponent /Game/Scenes/AssetZoo.AssetZoo:PersistentLevel.Roof_Bottom_248.StaticMeshComponent0
+[2018.01.16-12.54.25:977][619]    Primitive StaticMeshComponent /Game/Scenes/AssetZoo.AssetZoo:PersistentLevel.Pillar_Single_245.StaticMeshComponent0
+[2018.01.16-12.54.25:977][619]    Primitive StaticMeshComponent /Game/Scenes/AssetZoo.AssetZoo:PersistentLevel.Pillar_Double_242.StaticMeshComponent0
+[2018.01.16-12.54.25:977][619]    Primitive StaticMeshComponent /Game/Scenes/AssetZoo.AssetZoo:PersistentLevel.Pillar_400tall_239.StaticMeshComponent0
+[2018.01.16-12.54.25:977][619]    Primitive StaticMeshComponent /Game/Scenes/AssetZoo.AssetZoo:PersistentLevel.NestPiece_236.StaticMeshComponent0
+[2018.01.16-12.54.25:977][619]    Primitive StaticMeshComponent /Game/Scenes/AssetZoo.AssetZoo:PersistentLevel.Doorframe_Valve_233.StaticMeshComponent0
+[2018.01.16-12.54.25:977][619]    Primitive StaticMeshComponent /Game/Scenes/AssetZoo.AssetZoo:PersistentLevel.BranchPlatform_230.StaticMeshComponent0
+[2018.01.16-12.54.25:977][619]    Primitive StaticMeshComponent /Game/Scenes/AssetZoo.AssetZoo:PersistentLevel.Branch02_227.StaticMeshComponent0
+[2018.01.16-12.54.25:977][619]    Primitive StaticMeshComponent /Game/Scenes/AssetZoo.AssetZoo:PersistentLevel.Branch01_224.StaticMeshComponent0
+[2018.01.16-12.54.25:977][619]    Primitive StaticMeshComponent /Game/Scenes/AssetZoo.AssetZoo:PersistentLevel.BirdHouseCoffin_216.StaticMeshComponent0
+[2018.01.16-12.54.25:977][619]    Primitive StaticMeshComponent /Game/Scenes/AssetZoo.AssetZoo:PersistentLevel.WoodenBeam_A_211.StaticMeshComponent0
+[2018.01.16-12.54.25:977][619]    Primitive StaticMeshComponent /Game/Scenes/AssetZoo.AssetZoo:PersistentLevel.TwigCluster_208.StaticMeshComponent0
+[2018.01.16-12.54.25:977][619]    Primitive StaticMeshComponent /Game/Scenes/AssetZoo.AssetZoo:PersistentLevel.Twig_205.StaticMeshComponent0
+[2018.01.16-12.54.25:977][619]    Primitive StaticMeshComponent /Game/Scenes/AssetZoo.AssetZoo:PersistentLevel.Tree_A_202.StaticMeshComponent0
+[2018.01.16-12.54.25:977][619]    Primitive StaticMeshComponent /Game/Scenes/AssetZoo.AssetZoo:PersistentLevel.TilingStones_C_199.StaticMeshComponent0
+[2018.01.16-12.54.25:977][619]    Primitive StaticMeshComponent /Game/Scenes/AssetZoo.AssetZoo:PersistentLevel.TilingStones_B_196.StaticMeshComponent0
+[2018.01.16-12.54.25:977][619]    Primitive StaticMeshComponent /Game/Scenes/AssetZoo.AssetZoo:PersistentLevel.TilingStones_A_193.StaticMeshComponent0
+[2018.01.16-12.54.25:977][619]    Primitive StaticMeshComponent /Game/Scenes/AssetZoo.AssetZoo:PersistentLevel.StairStep_190.StaticMeshComponent0
+[2018.01.16-12.54.25:977][619]    Primitive StaticMeshComponent /Game/Scenes/AssetZoo.AssetZoo:PersistentLevel.Stairs_A_187.StaticMeshComponent0
+[2018.01.16-12.54.25:977][619]    Primitive StaticMeshComponent /Game/Scenes/AssetZoo.AssetZoo:PersistentLevel.SpunRope_184.StaticMeshComponent0
+[2018.01.16-12.54.25:977][619]    Primitive StaticMeshComponent /Game/Scenes/AssetZoo.AssetZoo:PersistentLevel.Ruin_D_181.StaticMeshComponent0
+[2018.01.16-12.54.25:977][619]    Primitive StaticMeshComponent /Game/Scenes/AssetZoo.AssetZoo:PersistentLevel.Ruin_C_178.StaticMeshComponent0
+[2018.01.16-12.54.25:977][619]    Primitive StaticMeshComponent /Game/Scenes/AssetZoo.AssetZoo:PersistentLevel.Ruin_B_175.StaticMeshComponent0
+[2018.01.16-12.54.25:977][619]    Primitive StaticMeshComponent /Game/Scenes/AssetZoo.AssetZoo:PersistentLevel.Ruin_A_172.StaticMeshComponent0
+[2018.01.16-12.54.25:977][619]    Primitive StaticMeshComponent /Game/Scenes/AssetZoo.AssetZoo:PersistentLevel.Root_169.StaticMeshComponent0
+[2018.01.16-12.54.25:977][619]    Primitive StaticMeshComponent /Game/Scenes/AssetZoo.AssetZoo:PersistentLevel.Ravenskull_166.StaticMeshComponent0
+[2018.01.16-12.54.25:977][619]    Primitive StaticMeshComponent /Game/Scenes/AssetZoo.AssetZoo:PersistentLevel.Platform_Corner_163.StaticMeshComponent0
+[2018.01.16-12.54.25:977][619]    Primitive StaticMeshComponent /Game/Scenes/AssetZoo.AssetZoo:PersistentLevel.Platform_C_160.StaticMeshComponent0
+[2018.01.16-12.54.25:977][619]    Primitive StaticMeshComponent /Game/Scenes/AssetZoo.AssetZoo:PersistentLevel.Platform_B_157.StaticMeshComponent0
+[2018.01.16-12.54.25:977][619]    Primitive StaticMeshComponent /Game/Scenes/AssetZoo.AssetZoo:PersistentLevel.Platform_A_154.StaticMeshComponent0
+[2018.01.16-12.54.25:977][619]    Primitive StaticMeshComponent /Game/Scenes/AssetZoo.AssetZoo:PersistentLevel.Pillar_A_Top_151.StaticMeshComponent0
+[2018.01.16-12.54.25:977][619]    Primitive StaticMeshComponent /Game/Scenes/AssetZoo.AssetZoo:PersistentLevel.Pillar_A_148.StaticMeshComponent0
+[2018.01.16-12.54.25:977][619]    Primitive StaticMeshComponent /Game/Scenes/AssetZoo.AssetZoo:PersistentLevel.Moss_145.StaticMeshComponent0
+[2018.01.16-12.54.25:977][619]    Primitive StaticMeshComponent /Game/Scenes/AssetZoo.AssetZoo:PersistentLevel.HeroProp_StoneArch_B_142.StaticMeshComponent0
+[2018.01.16-12.54.25:977][619]    Primitive StaticMeshComponent /Game/Scenes/AssetZoo.AssetZoo:PersistentLevel.HeroProp_StoneArch_A_139.StaticMeshComponent0
+[2018.01.16-12.54.25:977][619]    Primitive StaticMeshComponent /Game/Scenes/AssetZoo.AssetZoo:PersistentLevel.HeroPlatform_A_136.StaticMeshComponent0
+[2018.01.16-12.54.25:977][619]    Primitive StaticMeshComponent /Game/Scenes/AssetZoo.AssetZoo:PersistentLevel.HeroPlatform_133.StaticMeshComponent0
+[2018.01.16-12.54.25:977][619]    Primitive StaticMeshComponent /Game/Scenes/AssetZoo.AssetZoo:PersistentLevel.Fern_130.StaticMeshComponent0
+[2018.01.16-12.54.25:977][619]    Primitive StaticMeshComponent /Game/Scenes/AssetZoo.AssetZoo:PersistentLevel.Decoration_A_127.StaticMeshComponent0
+[2018.01.16-12.54.25:977][619]    Primitive StaticMeshComponent /Game/Scenes/AssetZoo.AssetZoo:PersistentLevel.Crumble_C_124.StaticMeshComponent0
+[2018.01.16-12.54.25:977][619]    Primitive StaticMeshComponent /Game/Scenes/AssetZoo.AssetZoo:PersistentLevel.Crumble_B_121.StaticMeshComponent0
+[2018.01.16-12.54.25:977][619]    Primitive StaticMeshComponent /Game/Scenes/AssetZoo.AssetZoo:PersistentLevel.Crumble_A_118.StaticMeshComponent0
+[2018.01.16-12.54.25:977][619]    Primitive StaticMeshComponent /Game/Scenes/AssetZoo.AssetZoo:PersistentLevel.Candle_115.StaticMeshComponent0
+[2018.01.16-12.54.25:977][619]    Primitive StaticMeshComponent /Game/Scenes/AssetZoo.AssetZoo:PersistentLevel.Brazier_112.StaticMeshComponent0
+[2018.01.16-12.54.25:977][619]    Primitive StaticMeshComponent /Game/Scenes/AssetZoo.AssetZoo:PersistentLevel.Book_B_109.StaticMeshComponent0
+[2018.01.16-12.54.25:977][619]    Primitive StaticMeshComponent /Game/Scenes/AssetZoo.AssetZoo:PersistentLevel.Book_A_106.StaticMeshComponent0
+[2018.01.16-12.54.25:977][619]    Primitive StaticMeshComponent /Game/Scenes/AssetZoo.AssetZoo:PersistentLevel.Board_C_103.StaticMeshComponent0
+[2018.01.16-12.54.25:977][619]    Primitive StaticMeshComponent /Game/Scenes/AssetZoo.AssetZoo:PersistentLevel.Board_B_100.StaticMeshComponent0
+[2018.01.16-12.54.25:977][619]    Primitive StaticMeshComponent /Game/Scenes/AssetZoo.AssetZoo:PersistentLevel.Board_A_97.StaticMeshComponent0
+[2018.01.16-12.54.25:977][619]    Primitive StaticMeshComponent /Game/Scenes/AssetZoo.AssetZoo:PersistentLevel.Arch_C_94.StaticMeshComponent0
+[2018.01.16-12.54.25:977][619]    Primitive StaticMeshComponent /Game/Scenes/AssetZoo.AssetZoo:PersistentLevel.Arch_CB_70.StaticMeshComponent0
+[2018.01.16-12.54.25:978][619]    Primitive StaticMeshComponent /Game/Scenes/AssetZoo.AssetZoo:PersistentLevel.Arch_AB_64.StaticMeshComponent0
+[2018.01.16-12.54.25:978][619]    Primitive StaticMeshComponent /Game/Scenes/AssetZoo.AssetZoo:PersistentLevel.SM_Rock_Medium_02_low_49.StaticMeshComponent0
+[2018.01.16-12.54.25:978][619]    Primitive StaticMeshComponent /Game/Scenes/AssetZoo.AssetZoo:PersistentLevel.SM_Rock_Medium_01_low_46.StaticMeshComponent0
+[2018.01.16-12.54.25:978][619]    Primitive StaticMeshComponent /Game/Scenes/AssetZoo.AssetZoo:PersistentLevel.SM_Rock_Large_02_low_43.StaticMeshComponent0
+[2018.01.16-12.54.25:978][619]    Primitive StaticMeshComponent /Game/Scenes/AssetZoo.AssetZoo:PersistentLevel.SM_Rock_Large_01_low_40.StaticMeshComponent0
+[2018.01.16-12.54.25:978][619]    Primitive StaticMeshComponent /Game/Scenes/AssetZoo.AssetZoo:PersistentLevel.SM_Cliff_03_8.StaticMeshComponent0
+[2018.01.16-12.54.25:978][619]    Primitive StaticMeshComponent /Game/Scenes/AssetZoo.AssetZoo:PersistentLevel.SM_Cliff_02_5.StaticMeshComponent0
+[2018.01.16-12.54.25:978][619]    Primitive StaticMeshComponent /Game/Scenes/AssetZoo.AssetZoo:PersistentLevel.SM_Cliff_01_2.StaticMeshComponent0
+[2018.01.16-12.54.25:978][619]    Primitive StaticMeshComponent /Game/Scenes/AssetZoo.AssetZoo:PersistentLevel.SM_Branch_05_27.StaticMeshComponent0
+[2018.01.16-12.54.25:978][619]    Primitive StaticMeshComponent /Game/Scenes/AssetZoo.AssetZoo:PersistentLevel.SM_Branch_04_24.StaticMeshComponent0
+[2018.01.16-12.54.25:978][619]    Primitive StaticMeshComponent /Game/Scenes/AssetZoo.AssetZoo:PersistentLevel.SM_Branch_03_19.StaticMeshComponent0
+[2018.01.16-12.54.25:978][619]    Primitive StaticMeshComponent /Game/Scenes/AssetZoo.AssetZoo:PersistentLevel.SM_Branch_02_16.StaticMeshComponent0
+[2018.01.16-12.54.25:978][619]    Primitive StaticMeshComponent /Game/Scenes/AssetZoo.AssetZoo:PersistentLevel.SM_Branch_01_11.StaticMeshComponent0
+[2018.01.16-12.54.25:978][619]    Primitive StaticMeshComponent /Game/Scenes/AssetZoo.AssetZoo:PersistentLevel.Plane_2.StaticMeshComponent0
+[2018.01.16-12.54.25:985][620]Cmd: MAP CHECK NOTIFYRESULTS
+[2018.01.16-12.54.25:985][620]MapCheck: New page: AssetZoo - Jan 16, 2018, 2:54:25 PM
+[2018.01.16-12.54.26:016][620]MapCheck: Error: WorldSettings Maps need lighting rebuilt 
+[2018.01.16-12.54.26:079][620]MapCheck: Map check complete: 1 Error(s), 0 Warning(s), took 93.635ms to complete.
+[2018.01.16-12.54.40:918][363]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Doorframe_Valve)
+[2018.01.16-12.54.49:055][311]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane)
+[2018.01.16-12.54.50:095][415]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Pillar_Double)
+[2018.01.16-12.55.06:591][339]LogLinker: Warning: Can't find file '/Game/Lesson1/Materials/M_Landscape_Kevin-demonstration'
+[2018.01.16-12.55.06:592][339]LogLinker: Warning: Can't find file for asset '/Game/Lesson1/Materials/M_Landscape_Kevin-demonstration' while loading ../../../../../GitHub/CultOfRaven/Content/Scenes/Aksel.umap.
+[2018.01.16-12.55.06:592][339]LoadErrors: Error: /Game/Scenes/Aksel : Can't find file for asset. /Game/Lesson1/Materials/M_Landscape_Kevin-demonstration
+[2018.01.16-12.55.06:593][339]LogLinker: Warning: Can't find file '/Game/Lesson1/Materials/M_Landscape_Kevin-demonstration'
+[2018.01.16-12.55.06:593][339]LogLinker: Warning: Can't find file for asset '/Game/Lesson1/Materials/M_Landscape_Kevin-demonstration' while loading ../../../../../GitHub/CultOfRaven/Content/Scenes/Aksel.umap.
+[2018.01.16-12.55.06:636][339]LogLinker: Warning: Can't find file '/Game/Lesson1/Materials/M_Landscape_Kevin-demonstration'
+[2018.01.16-12.55.06:636][339]LoadErrors: Failed to load /Game/Lesson1/Materials/M_Landscape_Kevin-demonstration.M_Landscape_Kevin-demonstration Referenced by Landscape_0
+[2018.01.16-12.55.06:636][339]LogLinker: Warning: Can't find file for asset '/Game/Lesson1/Materials/M_Landscape_Kevin-demonstration' while loading NULL.
+[2018.01.16-12.55.06:645][339]LogLinker: Warning: Can't find file '/Game/Lesson1/Materials/M_Landscape_Kevin-demonstration'
+[2018.01.16-12.55.06:645][339]LoadErrors: Failed to load /Game/Lesson1/Materials/M_Landscape_Kevin-demonstration.M_Landscape_Kevin-demonstration Referenced by LandscapeMaterialInstanceConstant_130
+[2018.01.16-12.55.06:645][339]LogLinker: Warning: Can't find file for asset '/Game/Lesson1/Materials/M_Landscape_Kevin-demonstration' while loading NULL.
+[2018.01.16-12.55.06:645][339]LogLinker: Warning: Can't find file '/Game/Lesson1/Materials/M_Landscape_Kevin-demonstration'
+[2018.01.16-12.55.06:645][339]LoadErrors: Failed to load /Game/Lesson1/Materials/M_Landscape_Kevin-demonstration.M_Landscape_Kevin-demonstration Referenced by LandscapeMaterialInstanceConstant_131
+[2018.01.16-12.55.06:645][339]LogLinker: Warning: Can't find file for asset '/Game/Lesson1/Materials/M_Landscape_Kevin-demonstration' while loading NULL.
+[2018.01.16-12.55.06:645][339]LogLinker: Warning: Can't find file '/Game/Lesson1/Materials/M_Landscape_Kevin-demonstration'
+[2018.01.16-12.55.06:645][339]LoadErrors: Failed to load /Game/Lesson1/Materials/M_Landscape_Kevin-demonstration.M_Landscape_Kevin-demonstration Referenced by LandscapeMaterialInstanceConstant_136
+[2018.01.16-12.55.06:645][339]LogLinker: Warning: Can't find file for asset '/Game/Lesson1/Materials/M_Landscape_Kevin-demonstration' while loading NULL.
+[2018.01.16-12.55.06:646][339]LogLinker: Warning: Can't find file '/Game/Lesson1/Materials/M_Landscape_Kevin-demonstration'
+[2018.01.16-12.55.06:646][339]LoadErrors: Failed to load /Game/Lesson1/Materials/M_Landscape_Kevin-demonstration.M_Landscape_Kevin-demonstration Referenced by LandscapeMaterialInstanceConstant_137
+[2018.01.16-12.55.06:646][339]LogLinker: Warning: Can't find file for asset '/Game/Lesson1/Materials/M_Landscape_Kevin-demonstration' while loading NULL.
+[2018.01.16-12.55.06:646][339]LogLinker: Warning: Can't find file '/Game/Lesson1/Materials/M_Landscape_Kevin-demonstration'
+[2018.01.16-12.55.06:646][339]LoadErrors: Failed to load /Game/Lesson1/Materials/M_Landscape_Kevin-demonstration.M_Landscape_Kevin-demonstration Referenced by LandscapeMaterialInstanceConstant_138
+[2018.01.16-12.55.06:646][339]LogLinker: Warning: Can't find file for asset '/Game/Lesson1/Materials/M_Landscape_Kevin-demonstration' while loading NULL.
+[2018.01.16-12.55.06:646][339]LogLinker: Warning: Can't find file '/Game/Lesson1/Materials/M_Landscape_Kevin-demonstration'
+[2018.01.16-12.55.06:647][339]LoadErrors: Failed to load /Game/Lesson1/Materials/M_Landscape_Kevin-demonstration.M_Landscape_Kevin-demonstration Referenced by LandscapeMaterialInstanceConstant_139
+[2018.01.16-12.55.06:647][339]LogLinker: Warning: Can't find file for asset '/Game/Lesson1/Materials/M_Landscape_Kevin-demonstration' while loading NULL.
+[2018.01.16-12.55.06:647][339]LogLinker: Warning: Can't find file '/Game/Lesson1/Materials/M_Landscape_Kevin-demonstration'
+[2018.01.16-12.55.06:647][339]LoadErrors: Failed to load /Game/Lesson1/Materials/M_Landscape_Kevin-demonstration.M_Landscape_Kevin-demonstration Referenced by LandscapeMaterialInstanceConstant_140
+[2018.01.16-12.55.06:647][339]LogLinker: Warning: Can't find file for asset '/Game/Lesson1/Materials/M_Landscape_Kevin-demonstration' while loading NULL.
+[2018.01.16-12.55.06:744][339]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2018.01.16-12.55.06:744][339]LogTexture: Display: Building textures: Texture2D_1 (BGRA8, 512X512)
+[2018.01.16-12.55.06:852][339]LogTexture: Display: Building textures: Texture2D_10 (BGRA8, 128X128)
+[2018.01.16-12.55.06:852][339]LogTexture: Display: Building textures: Texture2D_11 (BGRA8, 128X128)
+[2018.01.16-12.55.06:852][339]LogTexture: Display: Building textures: Texture2D_12 (BGRA8, 128X128)
+[2018.01.16-12.55.06:852][339]LogTexture: Display: Building textures: Texture2D_13 (BGRA8, 128X128)
+[2018.01.16-12.55.06:852][339]LogTexture: Display: Building textures: Texture2D_14 (BGRA8, 128X128)
+[2018.01.16-12.55.06:852][339]LogTexture: Display: Building textures: Texture2D_15 (BGRA8, 128X128)
+[2018.01.16-12.55.06:852][339]LogTexture: Display: Building textures: Texture2D_16 (BGRA8, 128X128)
+[2018.01.16-12.55.06:852][339]LogTexture: Display: Building textures: Texture2D_17 (BGRA8, 128X128)
+[2018.01.16-12.55.06:852][339]LogTexture: Display: Building textures: Texture2D_18 (BGRA8, 128X128)
+[2018.01.16-12.55.06:852][339]LogTexture: Display: Building textures: Texture2D_19 (BGRA8, 128X128)
+[2018.01.16-12.55.06:852][339]LogTexture: Display: Building textures: Texture2D_2 (BGRA8, 512X512)
+[2018.01.16-12.55.06:852][339]LogTexture: Display: Building textures: Texture2D_20 (BGRA8, 128X128)
+[2018.01.16-12.55.06:852][339]LogTexture: Display: Building textures: Texture2D_21 (BGRA8, 128X128)
+[2018.01.16-12.55.06:852][339]LogTexture: Display: Building textures: Texture2D_22 (BGRA8, 128X128)
+[2018.01.16-12.55.06:852][339]LogTexture: Display: Building textures: Texture2D_23 (BGRA8, 128X128)
+[2018.01.16-12.55.06:852][339]LogTexture: Display: Building textures: Texture2D_24 (BGRA8, 128X128)
+[2018.01.16-12.55.06:852][339]LogTexture: Display: Building textures: Texture2D_25 (BGRA8, 128X128)
+[2018.01.16-12.55.06:852][339]LogTexture: Display: Building textures: Texture2D_26 (BGRA8, 128X128)
+[2018.01.16-12.55.06:852][339]LogTexture: Display: Building textures: Texture2D_27 (BGRA8, 128X128)
+[2018.01.16-12.55.06:852][339]LogTexture: Display: Building textures: Texture2D_28 (BGRA8, 128X128)
+[2018.01.16-12.55.06:852][339]LogTexture: Display: Building textures: Texture2D_29 (BGRA8, 128X128)
+[2018.01.16-12.55.06:852][339]LogTexture: Display: Building textures: Texture2D_3 (BGRA8, 512X512)
+[2018.01.16-12.55.06:852][339]LogTexture: Display: Building textures: Texture2D_30 (BGRA8, 128X128)
+[2018.01.16-12.55.06:852][339]LogTexture: Display: Building textures: Texture2D_31 (BGRA8, 128X128)
+[2018.01.16-12.55.06:852][339]LogTexture: Display: Building textures: Texture2D_32 (BGRA8, 128X128)
+[2018.01.16-12.55.06:852][339]LogTexture: Display: Building textures: Texture2D_33 (BGRA8, 128X128)
+[2018.01.16-12.55.06:852][339]LogTexture: Display: Building textures: Texture2D_34 (BGRA8, 128X128)
+[2018.01.16-12.55.06:852][339]LogTexture: Display: Building textures: Texture2D_35 (BGRA8, 128X128)
+[2018.01.16-12.55.06:852][339]LogTexture: Display: Building textures: Texture2D_36 (BGRA8, 128X128)
+[2018.01.16-12.55.06:852][339]LogTexture: Display: Building textures: Texture2D_37 (BGRA8, 128X128)
+[2018.01.16-12.55.06:852][339]LogTexture: Display: Building textures: Texture2D_38 (BGRA8, 128X128)
+[2018.01.16-12.55.06:852][339]LogTexture: Display: Building textures: Texture2D_39 (BGRA8, 128X128)
+[2018.01.16-12.55.06:852][339]LogTexture: Display: Building textures: Texture2D_4 (BGRA8, 128X128)
+[2018.01.16-12.55.06:852][339]LogTexture: Display: Building textures: Texture2D_40 (BGRA8, 128X128)
+[2018.01.16-12.55.06:852][339]LogTexture: Display: Building textures: Texture2D_41 (BGRA8, 128X128)
+[2018.01.16-12.55.06:853][339]LogTexture: Display: Building textures: Texture2D_42 (BGRA8, 128X128)
+[2018.01.16-12.55.06:853][339]LogTexture: Display: Building textures: Texture2D_43 (BGRA8, 128X128)
+[2018.01.16-12.55.06:853][339]LogTexture: Display: Building textures: Texture2D_44 (BGRA8, 128X128)
+[2018.01.16-12.55.06:853][339]LogTexture: Display: Building textures: Texture2D_45 (BGRA8, 128X128)
+[2018.01.16-12.55.06:853][339]LogTexture: Display: Building textures: Texture2D_46 (BGRA8, 128X128)
+[2018.01.16-12.55.06:853][339]LogTexture: Display: Building textures: Texture2D_47 (BGRA8, 128X128)
+[2018.01.16-12.55.06:853][339]LogTexture: Display: Building textures: Texture2D_48 (BGRA8, 128X128)
+[2018.01.16-12.55.06:853][339]LogTexture: Display: Building textures: Texture2D_49 (BGRA8, 128X128)
+[2018.01.16-12.55.06:853][339]LogTexture: Display: Building textures: Texture2D_5 (BGRA8, 128X128)
+[2018.01.16-12.55.06:853][339]LogTexture: Display: Building textures: Texture2D_52 (BGRA8, 128X128)
+[2018.01.16-12.55.06:860][339]LogTexture: Display: Building textures: Texture2D_50 (BGRA8, 128X128)
+[2018.01.16-12.55.06:860][339]LogTexture: Display: Building textures: Texture2D_51 (BGRA8, 128X128)
+[2018.01.16-12.55.06:860][339]LogTexture: Display: Building textures: Texture2D_53 (BGRA8, 128X128)
+[2018.01.16-12.55.06:860][339]LogTexture: Display: Building textures: Texture2D_6 (BGRA8, 128X128)
+[2018.01.16-12.55.06:860][339]LogTexture: Display: Building textures: Texture2D_7 (BGRA8, 128X128)
+[2018.01.16-12.55.06:860][339]LogTexture: Display: Building textures: Texture2D_8 (BGRA8, 128X128)
+[2018.01.16-12.55.06:860][339]LogTexture: Display: Building textures: Texture2D_9 (BGRA8, 128X128)
+[2018.01.16-12.55.06:860][339]LogMaterial: Missing cached shader map for material WorldGridMaterial, compiling. Is special engine material.
+[2018.01.16-12.55.21:802][339]LogTexture: Display: Building textures: HQ_Lightmap1_1 (AutoDXT, 256X256)
+[2018.01.16-12.55.21:802][339]LogTexture: Display: Building textures: HQ_Lightmap0_65 (AutoDXT, 1024X1024)
+[2018.01.16-12.55.21:802][339]LogTexture: Display: Building textures: HQ_Lightmap1_10 (AutoDXT, 256X256)
+[2018.01.16-12.55.21:802][339]LogTexture: Display: Building textures: HQ_Lightmap1_11 (AutoDXT, 1024X1024)
+[2018.01.16-12.55.21:802][339]LogTexture: Display: Building textures: HQ_Lightmap1_12 (AutoDXT, 256X256)
+[2018.01.16-12.55.21:803][339]LogTexture: Display: Building textures: HQ_Lightmap1_13 (AutoDXT, 256X256)
+[2018.01.16-12.55.21:803][339]LogTexture: Display: Building textures: HQ_Lightmap1_14 (AutoDXT, 256X256)
+[2018.01.16-12.55.21:803][339]LogTexture: Display: Building textures: HQ_Lightmap1_15 (AutoDXT, 256X256)
+[2018.01.16-12.55.21:803][339]LogTexture: Display: Building textures: HQ_Lightmap1_16 (AutoDXT, 256X256)
+[2018.01.16-12.55.21:803][339]LogTexture: Display: Building textures: HQ_Lightmap1_17 (AutoDXT, 256X256)
+[2018.01.16-12.55.21:803][339]LogTexture: Display: Building textures: HQ_Lightmap1_18 (AutoDXT, 256X256)
+[2018.01.16-12.55.21:803][339]LogTexture: Display: Building textures: HQ_Lightmap1_19 (AutoDXT, 256X256)
+[2018.01.16-12.55.21:803][339]LogTexture: Display: Building textures: HQ_Lightmap1_2 (AutoDXT, 256X256)
+[2018.01.16-12.55.21:803][339]LogTexture: Display: Building textures: HQ_Lightmap1_20 (AutoDXT, 256X256)
+[2018.01.16-12.55.21:803][339]LogTexture: Display: Building textures: HQ_Lightmap1_21 (AutoDXT, 256X256)
+[2018.01.16-12.55.21:803][339]LogTexture: Display: Building textures: HQ_Lightmap1_22 (AutoDXT, 256X256)
+[2018.01.16-12.55.21:803][339]LogTexture: Display: Building textures: HQ_Lightmap1_23 (AutoDXT, 256X256)
+[2018.01.16-12.55.21:803][339]LogTexture: Display: Building textures: HQ_Lightmap1_24 (AutoDXT, 256X256)
+[2018.01.16-12.55.21:803][339]LogTexture: Display: Building textures: HQ_Lightmap1_25 (AutoDXT, 256X256)
+[2018.01.16-12.55.21:803][339]LogTexture: Display: Building textures: HQ_Lightmap1_26 (AutoDXT, 256X256)
+[2018.01.16-12.55.21:803][339]LogTexture: Display: Building textures: HQ_Lightmap1_27 (AutoDXT, 256X256)
+[2018.01.16-12.55.21:803][339]LogTexture: Display: Building textures: HQ_Lightmap1_28 (AutoDXT, 256X256)
+[2018.01.16-12.55.21:803][339]LogTexture: Display: Building textures: HQ_Lightmap1_29 (AutoDXT, 256X256)
+[2018.01.16-12.55.21:803][339]LogTexture: Display: Building textures: HQ_Lightmap1_3 (AutoDXT, 256X256)
+[2018.01.16-12.55.21:803][339]LogTexture: Display: Building textures: HQ_Lightmap1_30 (AutoDXT, 256X256)
+[2018.01.16-12.55.21:803][339]LogTexture: Display: Building textures: HQ_Lightmap1_31 (AutoDXT, 256X256)
+[2018.01.16-12.55.21:803][339]LogTexture: Display: Building textures: HQ_Lightmap1_32 (AutoDXT, 256X256)
+[2018.01.16-12.55.21:803][339]LogTexture: Display: Building textures: HQ_Lightmap1_33 (AutoDXT, 256X256)
+[2018.01.16-12.55.21:803][339]LogTexture: Display: Building textures: HQ_Lightmap1_34 (AutoDXT, 256X256)
+[2018.01.16-12.55.21:803][339]LogTexture: Display: Building textures: HQ_Lightmap1_35 (AutoDXT, 256X256)
+[2018.01.16-12.55.21:803][339]LogTexture: Display: Building textures: HQ_Lightmap1_36 (AutoDXT, 256X256)
+[2018.01.16-12.55.21:803][339]LogTexture: Display: Building textures: HQ_Lightmap1_37 (AutoDXT, 256X256)
+[2018.01.16-12.55.21:803][339]LogTexture: Display: Building textures: HQ_Lightmap1_38 (AutoDXT, 256X256)
+[2018.01.16-12.55.21:803][339]LogTexture: Display: Building textures: HQ_Lightmap1_39 (AutoDXT, 256X256)
+[2018.01.16-12.55.21:803][339]LogTexture: Display: Building textures: HQ_Lightmap1_4 (AutoDXT, 256X256)
+[2018.01.16-12.55.21:803][339]LogTexture: Display: Building textures: HQ_Lightmap1_40 (AutoDXT, 256X256)
+[2018.01.16-12.55.21:803][339]LogTexture: Display: Building textures: HQ_Lightmap1_41 (AutoDXT, 256X256)
+[2018.01.16-12.55.21:803][339]LogTexture: Display: Building textures: HQ_Lightmap1_42 (AutoDXT, 256X256)
+[2018.01.16-12.55.21:803][339]LogTexture: Display: Building textures: HQ_Lightmap1_43 (AutoDXT, 256X256)
+[2018.01.16-12.55.21:803][339]LogTexture: Display: Building textures: HQ_Lightmap1_44 (AutoDXT, 256X256)
+[2018.01.16-12.55.21:803][339]LogTexture: Display: Building textures: HQ_Lightmap1_45 (AutoDXT, 256X256)
+[2018.01.16-12.55.21:803][339]LogTexture: Display: Building textures: HQ_Lightmap1_46 (AutoDXT, 256X256)
+[2018.01.16-12.55.21:803][339]LogTexture: Display: Building textures: HQ_Lightmap1_47 (AutoDXT, 256X256)
+[2018.01.16-12.55.21:803][339]LogTexture: Display: Building textures: HQ_Lightmap1_48 (AutoDXT, 256X256)
+[2018.01.16-12.55.21:803][339]LogTexture: Display: Building textures: HQ_Lightmap1_49 (AutoDXT, 256X256)
+[2018.01.16-12.55.21:803][339]LogTexture: Display: Building textures: HQ_Lightmap1_5 (AutoDXT, 256X256)
+[2018.01.16-12.55.21:803][339]LogTexture: Display: Building textures: HQ_Lightmap1_50 (AutoDXT, 256X256)
+[2018.01.16-12.55.21:803][339]LogTexture: Display: Building textures: HQ_Lightmap1_51 (AutoDXT, 256X256)
+[2018.01.16-12.55.21:803][339]LogTexture: Display: Building textures: HQ_Lightmap1_52 (AutoDXT, 256X256)
+[2018.01.16-12.55.21:803][339]LogTexture: Display: Building textures: HQ_Lightmap1_53 (AutoDXT, 256X256)
+[2018.01.16-12.55.21:803][339]LogTexture: Display: Building textures: HQ_Lightmap1_54 (AutoDXT, 256X256)
+[2018.01.16-12.55.21:803][339]LogTexture: Display: Building textures: HQ_Lightmap1_55 (AutoDXT, 256X256)
+[2018.01.16-12.55.21:803][339]LogTexture: Display: Building textures: HQ_Lightmap1_56 (AutoDXT, 256X256)
+[2018.01.16-12.55.21:803][339]LogTexture: Display: Building textures: HQ_Lightmap1_57 (AutoDXT, 256X256)
+[2018.01.16-12.55.21:803][339]LogTexture: Display: Building textures: HQ_Lightmap1_58 (AutoDXT, 256X256)
+[2018.01.16-12.55.21:803][339]LogTexture: Display: Building textures: HQ_Lightmap1_59 (AutoDXT, 256X256)
+[2018.01.16-12.55.21:803][339]LogTexture: Display: Building textures: HQ_Lightmap1_6 (AutoDXT, 256X256)
+[2018.01.16-12.55.21:803][339]LogTexture: Display: Building textures: HQ_Lightmap1_60 (AutoDXT, 256X256)
+[2018.01.16-12.55.21:803][339]LogTexture: Display: Building textures: HQ_Lightmap1_61 (AutoDXT, 256X256)
+[2018.01.16-12.55.21:803][339]LogTexture: Display: Building textures: HQ_Lightmap1_62 (AutoDXT, 256X256)
+[2018.01.16-12.55.21:803][339]LogTexture: Display: Building textures: HQ_Lightmap1_63 (AutoDXT, 256X256)
+[2018.01.16-12.55.21:803][339]LogTexture: Display: Building textures: HQ_Lightmap1_64 (AutoDXT, 256X256)
+[2018.01.16-12.55.21:803][339]LogTexture: Display: Building textures: HQ_Lightmap1_7 (AutoDXT, 256X256)
+[2018.01.16-12.55.21:803][339]LogTexture: Display: Building textures: HQ_Lightmap1_8 (AutoDXT, 256X256)
+[2018.01.16-12.55.21:803][339]LogTexture: Display: Building textures: HQ_Lightmap1_9 (AutoDXT, 256X256)
+[2018.01.16-12.55.21:803][339]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (DXT1, 256X256)
+[2018.01.16-12.55.21:803][339]LogTexture: Display: Building textures: LQ_Lightmap_0_65 (DXT1, 1024X1024)
+[2018.01.16-12.55.21:803][339]LogTexture: Display: Building textures: LQ_Lightmap_1_10 (DXT1, 256X256)
+[2018.01.16-12.55.21:803][339]LogTexture: Display: Building textures: LQ_Lightmap_1_11 (DXT1, 1024X1024)
+[2018.01.16-12.55.21:803][339]LogTexture: Display: Building textures: LQ_Lightmap_1_12 (DXT1, 256X256)
+[2018.01.16-12.55.21:803][339]LogTexture: Display: Building textures: LQ_Lightmap_1_13 (DXT1, 256X256)
+[2018.01.16-12.55.21:803][339]LogTexture: Display: Building textures: LQ_Lightmap_1_14 (DXT1, 256X256)
+[2018.01.16-12.55.21:803][339]LogTexture: Display: Building textures: LQ_Lightmap_1_15 (DXT1, 256X256)
+[2018.01.16-12.55.21:803][339]LogTexture: Display: Building textures: LQ_Lightmap_1_16 (DXT1, 256X256)
+[2018.01.16-12.55.21:803][339]LogTexture: Display: Building textures: LQ_Lightmap_1_17 (DXT1, 256X256)
+[2018.01.16-12.55.21:803][339]LogTexture: Display: Building textures: LQ_Lightmap_1_18 (DXT1, 256X256)
+[2018.01.16-12.55.21:803][339]LogTexture: Display: Building textures: LQ_Lightmap_1_19 (DXT1, 256X256)
+[2018.01.16-12.55.21:804][339]LogTexture: Display: Building textures: LQ_Lightmap_1_2 (DXT1, 256X256)
+[2018.01.16-12.55.21:804][339]LogTexture: Display: Building textures: LQ_Lightmap_1_20 (DXT1, 256X256)
+[2018.01.16-12.55.21:804][339]LogTexture: Display: Building textures: LQ_Lightmap_1_21 (DXT1, 256X256)
+[2018.01.16-12.55.21:804][339]LogTexture: Display: Building textures: LQ_Lightmap_1_22 (DXT1, 256X256)
+[2018.01.16-12.55.21:804][339]LogTexture: Display: Building textures: LQ_Lightmap_1_23 (DXT1, 256X256)
+[2018.01.16-12.55.21:804][339]LogTexture: Display: Building textures: LQ_Lightmap_1_24 (DXT1, 256X256)
+[2018.01.16-12.55.21:804][339]LogTexture: Display: Building textures: LQ_Lightmap_1_25 (DXT1, 256X256)
+[2018.01.16-12.55.21:804][339]LogTexture: Display: Building textures: LQ_Lightmap_1_26 (DXT1, 256X256)
+[2018.01.16-12.55.21:804][339]LogTexture: Display: Building textures: LQ_Lightmap_1_27 (DXT1, 256X256)
+[2018.01.16-12.55.21:804][339]LogTexture: Display: Building textures: LQ_Lightmap_1_28 (DXT1, 256X256)
+[2018.01.16-12.55.21:804][339]LogTexture: Display: Building textures: LQ_Lightmap_1_29 (DXT1, 256X256)
+[2018.01.16-12.55.21:804][339]LogTexture: Display: Building textures: LQ_Lightmap_1_3 (DXT1, 256X256)
+[2018.01.16-12.55.21:804][339]LogTexture: Display: Building textures: LQ_Lightmap_1_30 (DXT1, 256X256)
+[2018.01.16-12.55.21:804][339]LogTexture: Display: Building textures: LQ_Lightmap_1_31 (DXT1, 256X256)
+[2018.01.16-12.55.21:804][339]LogTexture: Display: Building textures: LQ_Lightmap_1_32 (DXT1, 256X256)
+[2018.01.16-12.55.21:804][339]LogTexture: Display: Building textures: LQ_Lightmap_1_33 (DXT1, 256X256)
+[2018.01.16-12.55.21:804][339]LogTexture: Display: Building textures: LQ_Lightmap_1_34 (DXT1, 256X256)
+[2018.01.16-12.55.21:804][339]LogTexture: Display: Building textures: LQ_Lightmap_1_35 (DXT1, 256X256)
+[2018.01.16-12.55.21:804][339]LogTexture: Display: Building textures: LQ_Lightmap_1_36 (DXT1, 256X256)
+[2018.01.16-12.55.21:804][339]LogTexture: Display: Building textures: LQ_Lightmap_1_37 (DXT1, 256X256)
+[2018.01.16-12.55.21:804][339]LogTexture: Display: Building textures: LQ_Lightmap_1_38 (DXT1, 256X256)
+[2018.01.16-12.55.21:804][339]LogTexture: Display: Building textures: LQ_Lightmap_1_39 (DXT1, 256X256)
+[2018.01.16-12.55.21:804][339]LogTexture: Display: Building textures: LQ_Lightmap_1_4 (DXT1, 256X256)
+[2018.01.16-12.55.21:804][339]LogTexture: Display: Building textures: LQ_Lightmap_1_40 (DXT1, 256X256)
+[2018.01.16-12.55.21:804][339]LogTexture: Display: Building textures: LQ_Lightmap_1_41 (DXT1, 256X256)
+[2018.01.16-12.55.21:804][339]LogTexture: Display: Building textures: LQ_Lightmap_1_42 (DXT1, 256X256)
+[2018.01.16-12.55.21:804][339]LogTexture: Display: Building textures: LQ_Lightmap_1_43 (DXT1, 256X256)
+[2018.01.16-12.55.21:804][339]LogTexture: Display: Building textures: LQ_Lightmap_1_44 (DXT1, 256X256)
+[2018.01.16-12.55.21:804][339]LogTexture: Display: Building textures: LQ_Lightmap_1_45 (DXT1, 256X256)
+[2018.01.16-12.55.21:804][339]LogTexture: Display: Building textures: LQ_Lightmap_1_46 (DXT1, 256X256)
+[2018.01.16-12.55.21:804][339]LogTexture: Display: Building textures: LQ_Lightmap_1_47 (DXT1, 256X256)
+[2018.01.16-12.55.21:804][339]LogTexture: Display: Building textures: LQ_Lightmap_1_48 (DXT1, 256X256)
+[2018.01.16-12.55.21:804][339]LogTexture: Display: Building textures: LQ_Lightmap_1_49 (DXT1, 256X256)
+[2018.01.16-12.55.21:804][339]LogTexture: Display: Building textures: LQ_Lightmap_1_5 (DXT1, 256X256)
+[2018.01.16-12.55.21:804][339]LogTexture: Display: Building textures: LQ_Lightmap_1_50 (DXT1, 256X256)
+[2018.01.16-12.55.21:804][339]LogTexture: Display: Building textures: LQ_Lightmap_1_51 (DXT1, 256X256)
+[2018.01.16-12.55.21:804][339]LogTexture: Display: Building textures: LQ_Lightmap_1_52 (DXT1, 256X256)
+[2018.01.16-12.55.21:804][339]LogTexture: Display: Building textures: LQ_Lightmap_1_53 (DXT1, 256X256)
+[2018.01.16-12.55.21:804][339]LogTexture: Display: Building textures: LQ_Lightmap_1_54 (DXT1, 256X256)
+[2018.01.16-12.55.21:804][339]LogTexture: Display: Building textures: LQ_Lightmap_1_55 (DXT1, 256X256)
+[2018.01.16-12.55.21:804][339]LogTexture: Display: Building textures: LQ_Lightmap_1_56 (DXT1, 256X256)
+[2018.01.16-12.55.21:804][339]LogTexture: Display: Building textures: LQ_Lightmap_1_57 (DXT1, 256X256)
+[2018.01.16-12.55.21:804][339]LogTexture: Display: Building textures: LQ_Lightmap_1_58 (DXT1, 256X256)
+[2018.01.16-12.55.21:804][339]LogTexture: Display: Building textures: LQ_Lightmap_1_59 (DXT1, 256X256)
+[2018.01.16-12.55.21:804][339]LogTexture: Display: Building textures: LQ_Lightmap_1_6 (DXT1, 256X256)
+[2018.01.16-12.55.21:804][339]LogTexture: Display: Building textures: LQ_Lightmap_1_60 (DXT1, 256X256)
+[2018.01.16-12.55.21:804][339]LogTexture: Display: Building textures: LQ_Lightmap_1_61 (DXT1, 256X256)
+[2018.01.16-12.55.21:804][339]LogTexture: Display: Building textures: LQ_Lightmap_1_62 (DXT1, 256X256)
+[2018.01.16-12.55.21:804][339]LogTexture: Display: Building textures: LQ_Lightmap_1_63 (DXT1, 256X256)
+[2018.01.16-12.55.21:804][339]LogTexture: Display: Building textures: LQ_Lightmap_1_64 (DXT1, 256X256)
+[2018.01.16-12.55.21:804][339]LogTexture: Display: Building textures: LQ_Lightmap_1_7 (DXT1, 256X256)
+[2018.01.16-12.55.21:804][339]LogTexture: Display: Building textures: LQ_Lightmap_1_8 (DXT1, 256X256)
+[2018.01.16-12.55.21:804][339]LogTexture: Display: Building textures: LQ_Lightmap_1_9 (DXT1, 256X256)
+[2018.01.16-12.55.21:804][339]LogTexture: Display: Building textures: SkyOcclusion0_65 (AutoDXT, 1024X512)
+[2018.01.16-12.55.21:804][339]LogTexture: Display: Building textures: SkyOcclusion1_1 (AutoDXT, 256X128)
+[2018.01.16-12.55.21:804][339]LogTexture: Display: Building textures: SkyOcclusion1_10 (AutoDXT, 256X128)
+[2018.01.16-12.55.21:804][339]LogTexture: Display: Building textures: SkyOcclusion1_11 (AutoDXT, 1024X512)
+[2018.01.16-12.55.21:804][339]LogTexture: Display: Building textures: SkyOcclusion1_12 (AutoDXT, 256X128)
+[2018.01.16-12.55.21:804][339]LogTexture: Display: Building textures: SkyOcclusion1_14 (AutoDXT, 256X128)
+[2018.01.16-12.55.21:804][339]LogTexture: Display: Building textures: SkyOcclusion1_13 (AutoDXT, 256X128)
+[2018.01.16-12.55.21:804][339]LogTexture: Display: Building textures: SkyOcclusion1_15 (AutoDXT, 256X128)
+[2018.01.16-12.55.21:804][339]LogTexture: Display: Building textures: SkyOcclusion1_16 (AutoDXT, 256X128)
+[2018.01.16-12.55.21:804][339]LogTexture: Display: Building textures: SkyOcclusion1_17 (AutoDXT, 256X128)
+[2018.01.16-12.55.21:804][339]LogTexture: Display: Building textures: SkyOcclusion1_18 (AutoDXT, 256X128)
+[2018.01.16-12.55.21:804][339]LogTexture: Display: Building textures: SkyOcclusion1_19 (AutoDXT, 256X128)
+[2018.01.16-12.55.21:804][339]LogTexture: Display: Building textures: SkyOcclusion1_2 (AutoDXT, 256X128)
+[2018.01.16-12.55.21:804][339]LogTexture: Display: Building textures: SkyOcclusion1_20 (AutoDXT, 256X128)
+[2018.01.16-12.55.21:804][339]LogTexture: Display: Building textures: SkyOcclusion1_21 (AutoDXT, 256X128)
+[2018.01.16-12.55.21:804][339]LogTexture: Display: Building textures: SkyOcclusion1_22 (AutoDXT, 256X128)
+[2018.01.16-12.55.21:804][339]LogTexture: Display: Building textures: SkyOcclusion1_23 (AutoDXT, 256X128)
+[2018.01.16-12.55.21:804][339]LogTexture: Display: Building textures: SkyOcclusion1_24 (AutoDXT, 256X128)
+[2018.01.16-12.55.21:804][339]LogTexture: Display: Building textures: SkyOcclusion1_25 (AutoDXT, 256X128)
+[2018.01.16-12.55.21:804][339]LogTexture: Display: Building textures: SkyOcclusion1_26 (AutoDXT, 256X128)
+[2018.01.16-12.55.21:804][339]LogTexture: Display: Building textures: SkyOcclusion1_27 (AutoDXT, 256X128)
+[2018.01.16-12.55.21:805][339]LogTexture: Display: Building textures: SkyOcclusion1_28 (AutoDXT, 256X128)
+[2018.01.16-12.55.21:805][339]LogTexture: Display: Building textures: SkyOcclusion1_29 (AutoDXT, 256X128)
+[2018.01.16-12.55.21:805][339]LogTexture: Display: Building textures: SkyOcclusion1_3 (AutoDXT, 256X128)
+[2018.01.16-12.55.21:805][339]LogTexture: Display: Building textures: SkyOcclusion1_30 (AutoDXT, 256X128)
+[2018.01.16-12.55.21:805][339]LogTexture: Display: Building textures: SkyOcclusion1_31 (AutoDXT, 256X128)
+[2018.01.16-12.55.21:805][339]LogTexture: Display: Building textures: SkyOcclusion1_33 (AutoDXT, 256X128)
+[2018.01.16-12.55.21:805][339]LogTexture: Display: Building textures: SkyOcclusion1_32 (AutoDXT, 256X128)
+[2018.01.16-12.55.21:805][339]LogTexture: Display: Building textures: SkyOcclusion1_34 (AutoDXT, 256X128)
+[2018.01.16-12.55.21:805][339]LogTexture: Display: Building textures: SkyOcclusion1_35 (AutoDXT, 256X128)
+[2018.01.16-12.55.21:805][339]LogTexture: Display: Building textures: SkyOcclusion1_36 (AutoDXT, 256X128)
+[2018.01.16-12.55.21:805][339]LogTexture: Display: Building textures: SkyOcclusion1_37 (AutoDXT, 256X128)
+[2018.01.16-12.55.21:805][339]LogTexture: Display: Building textures: SkyOcclusion1_38 (AutoDXT, 256X128)
+[2018.01.16-12.55.21:805][339]LogTexture: Display: Building textures: SkyOcclusion1_4 (AutoDXT, 256X128)
+[2018.01.16-12.55.21:805][339]LogTexture: Display: Building textures: SkyOcclusion1_39 (AutoDXT, 256X128)
+[2018.01.16-12.55.21:805][339]LogTexture: Display: Building textures: SkyOcclusion1_40 (AutoDXT, 256X128)
+[2018.01.16-12.55.21:805][339]LogTexture: Display: Building textures: SkyOcclusion1_41 (AutoDXT, 256X128)
+[2018.01.16-12.55.21:805][339]LogTexture: Display: Building textures: SkyOcclusion1_42 (AutoDXT, 256X128)
+[2018.01.16-12.55.21:805][339]LogTexture: Display: Building textures: SkyOcclusion1_43 (AutoDXT, 256X128)
+[2018.01.16-12.55.21:805][339]LogTexture: Display: Building textures: SkyOcclusion1_44 (AutoDXT, 256X128)
+[2018.01.16-12.55.21:805][339]LogTexture: Display: Building textures: SkyOcclusion1_45 (AutoDXT, 256X128)
+[2018.01.16-12.55.21:805][339]LogTexture: Display: Building textures: SkyOcclusion1_46 (AutoDXT, 256X128)
+[2018.01.16-12.55.21:805][339]LogTexture: Display: Building textures: SkyOcclusion1_47 (AutoDXT, 256X128)
+[2018.01.16-12.55.21:805][339]LogTexture: Display: Building textures: SkyOcclusion1_48 (AutoDXT, 256X128)
+[2018.01.16-12.55.21:805][339]LogTexture: Display: Building textures: SkyOcclusion1_49 (AutoDXT, 256X128)
+[2018.01.16-12.55.21:805][339]LogTexture: Display: Building textures: SkyOcclusion1_5 (AutoDXT, 256X128)
+[2018.01.16-12.55.21:805][339]LogTexture: Display: Building textures: SkyOcclusion1_50 (AutoDXT, 256X128)
+[2018.01.16-12.55.21:805][339]LogTexture: Display: Building textures: SkyOcclusion1_51 (AutoDXT, 256X128)
+[2018.01.16-12.55.21:805][339]LogTexture: Display: Building textures: SkyOcclusion1_52 (AutoDXT, 256X128)
+[2018.01.16-12.55.21:805][339]LogTexture: Display: Building textures: SkyOcclusion1_53 (AutoDXT, 256X128)
+[2018.01.16-12.55.21:805][339]LogTexture: Display: Building textures: SkyOcclusion1_54 (AutoDXT, 256X128)
+[2018.01.16-12.55.21:805][339]LogTexture: Display: Building textures: SkyOcclusion1_55 (AutoDXT, 256X128)
+[2018.01.16-12.55.21:805][339]LogTexture: Display: Building textures: SkyOcclusion1_56 (AutoDXT, 256X128)
+[2018.01.16-12.55.21:805][339]LogTexture: Display: Building textures: SkyOcclusion1_57 (AutoDXT, 256X128)
+[2018.01.16-12.55.21:805][339]LogTexture: Display: Building textures: SkyOcclusion1_58 (AutoDXT, 256X128)
+[2018.01.16-12.55.21:805][339]LogTexture: Display: Building textures: SkyOcclusion1_59 (AutoDXT, 256X128)
+[2018.01.16-12.55.21:805][339]LogTexture: Display: Building textures: SkyOcclusion1_6 (AutoDXT, 256X128)
+[2018.01.16-12.55.21:805][339]LogTexture: Display: Building textures: SkyOcclusion1_60 (AutoDXT, 256X128)
+[2018.01.16-12.55.21:805][339]LogTexture: Display: Building textures: SkyOcclusion1_61 (AutoDXT, 256X128)
+[2018.01.16-12.55.21:805][339]LogTexture: Display: Building textures: SkyOcclusion1_62 (AutoDXT, 256X128)
+[2018.01.16-12.55.21:805][339]LogTexture: Display: Building textures: SkyOcclusion1_63 (AutoDXT, 256X128)
+[2018.01.16-12.55.21:805][339]LogTexture: Display: Building textures: SkyOcclusion1_64 (AutoDXT, 256X128)
+[2018.01.16-12.55.21:805][339]LogTexture: Display: Building textures: SkyOcclusion1_7 (AutoDXT, 256X128)
+[2018.01.16-12.55.21:805][339]LogTexture: Display: Building textures: SkyOcclusion1_8 (AutoDXT, 256X128)
+[2018.01.16-12.55.21:805][339]LogTexture: Display: Building textures: SkyOcclusion1_9 (AutoDXT, 256X128)
+[2018.01.16-12.55.21:805][339]LogTexture: Display: Building textures: ShadowMapTexture2D_100 (G8, 128X128)
+[2018.01.16-12.55.21:805][339]LogTexture: Display: Building textures: ShadowMapTexture2D_101 (G8, 128X128)
+[2018.01.16-12.55.21:805][339]LogTexture: Display: Building textures: ShadowMapTexture2D_102 (G8, 128X128)
+[2018.01.16-12.55.21:805][339]LogTexture: Display: Building textures: ShadowMapTexture2D_103 (G8, 128X128)
+[2018.01.16-12.55.21:805][339]LogTexture: Display: Building textures: ShadowMapTexture2D_104 (G8, 128X128)
+[2018.01.16-12.55.21:805][339]LogTexture: Display: Building textures: ShadowMapTexture2D_105 (G8, 128X128)
+[2018.01.16-12.55.21:805][339]LogTexture: Display: Building textures: ShadowMapTexture2D_106 (G8, 128X128)
+[2018.01.16-12.55.21:805][339]LogTexture: Display: Building textures: ShadowMapTexture2D_107 (G8, 128X128)
+[2018.01.16-12.55.21:805][339]LogTexture: Display: Building textures: ShadowMapTexture2D_108 (G8, 128X128)
+[2018.01.16-12.55.21:805][339]LogTexture: Display: Building textures: ShadowMapTexture2D_109 (G8, 128X128)
+[2018.01.16-12.55.21:805][339]LogTexture: Display: Building textures: ShadowMapTexture2D_110 (G8, 128X128)
+[2018.01.16-12.55.21:805][339]LogTexture: Display: Building textures: ShadowMapTexture2D_111 (G8, 128X128)
+[2018.01.16-12.55.21:805][339]LogTexture: Display: Building textures: ShadowMapTexture2D_112 (G8, 128X128)
+[2018.01.16-12.55.21:805][339]LogTexture: Display: Building textures: ShadowMapTexture2D_113 (G8, 128X128)
+[2018.01.16-12.55.21:805][339]LogTexture: Display: Building textures: ShadowMapTexture2D_114 (G8, 128X128)
+[2018.01.16-12.55.21:805][339]LogTexture: Display: Building textures: ShadowMapTexture2D_115 (G8, 128X128)
+[2018.01.16-12.55.21:805][339]LogTexture: Display: Building textures: ShadowMapTexture2D_116 (G8, 128X128)
+[2018.01.16-12.55.21:805][339]LogTexture: Display: Building textures: ShadowMapTexture2D_117 (G8, 128X128)
+[2018.01.16-12.55.21:805][339]LogTexture: Display: Building textures: ShadowMapTexture2D_118 (G8, 128X128)
+[2018.01.16-12.55.21:805][339]LogTexture: Display: Building textures: ShadowMapTexture2D_119 (G8, 128X128)
+[2018.01.16-12.55.21:805][339]LogTexture: Display: Building textures: ShadowMapTexture2D_120 (G8, 128X128)
+[2018.01.16-12.55.21:805][339]LogTexture: Display: Building textures: ShadowMapTexture2D_121 (G8, 128X128)
+[2018.01.16-12.55.21:805][339]LogTexture: Display: Building textures: ShadowMapTexture2D_122 (G8, 128X128)
+[2018.01.16-12.55.21:805][339]LogTexture: Display: Building textures: ShadowMapTexture2D_123 (G8, 128X128)
+[2018.01.16-12.55.21:805][339]LogTexture: Display: Building textures: ShadowMapTexture2D_125 (G8, 128X128)
+[2018.01.16-12.55.21:805][339]LogTexture: Display: Building textures: ShadowMapTexture2D_124 (G8, 128X128)
+[2018.01.16-12.55.21:806][339]LogTexture: Display: Building textures: ShadowMapTexture2D_126 (G8, 128X128)
+[2018.01.16-12.55.21:806][339]LogTexture: Display: Building textures: ShadowMapTexture2D_127 (G8, 128X128)
+[2018.01.16-12.55.21:806][339]LogTexture: Display: Building textures: ShadowMapTexture2D_128 (G8, 128X128)
+[2018.01.16-12.55.21:806][339]LogTexture: Display: Building textures: ShadowMapTexture2D_129 (G8, 1024X128)
+[2018.01.16-12.55.21:806][339]LogTexture: Display: Building textures: ShadowMapTexture2D_65 (G8, 128X128)
+[2018.01.16-12.55.21:806][339]LogTexture: Display: Building textures: ShadowMapTexture2D_66 (G8, 128X128)
+[2018.01.16-12.55.21:806][339]LogTexture: Display: Building textures: ShadowMapTexture2D_67 (G8, 128X128)
+[2018.01.16-12.55.21:806][339]LogTexture: Display: Building textures: ShadowMapTexture2D_68 (G8, 128X128)
+[2018.01.16-12.55.21:806][339]LogTexture: Display: Building textures: ShadowMapTexture2D_69 (G8, 128X128)
+[2018.01.16-12.55.21:806][339]LogTexture: Display: Building textures: ShadowMapTexture2D_70 (G8, 128X128)
+[2018.01.16-12.55.21:806][339]LogTexture: Display: Building textures: ShadowMapTexture2D_71 (G8, 128X128)
+[2018.01.16-12.55.21:806][339]LogTexture: Display: Building textures: ShadowMapTexture2D_72 (G8, 128X128)
+[2018.01.16-12.55.21:806][339]LogTexture: Display: Building textures: ShadowMapTexture2D_73 (G8, 128X128)
+[2018.01.16-12.55.21:806][339]LogTexture: Display: Building textures: ShadowMapTexture2D_74 (G8, 128X128)
+[2018.01.16-12.55.21:806][339]LogTexture: Display: Building textures: ShadowMapTexture2D_76 (G8, 256X128)
+[2018.01.16-12.55.21:806][339]LogTexture: Display: Building textures: ShadowMapTexture2D_75 (G8, 1024X512)
+[2018.01.16-12.55.21:806][339]LogTexture: Display: Building textures: ShadowMapTexture2D_77 (G8, 128X128)
+[2018.01.16-12.55.21:806][339]LogTexture: Display: Building textures: ShadowMapTexture2D_78 (G8, 128X128)
+[2018.01.16-12.55.21:806][339]LogTexture: Display: Building textures: ShadowMapTexture2D_79 (G8, 128X128)
+[2018.01.16-12.55.21:806][339]LogTexture: Display: Building textures: ShadowMapTexture2D_80 (G8, 128X128)
+[2018.01.16-12.55.21:806][339]LogTexture: Display: Building textures: ShadowMapTexture2D_81 (G8, 128X128)
+[2018.01.16-12.55.21:806][339]LogTexture: Display: Building textures: ShadowMapTexture2D_82 (G8, 128X128)
+[2018.01.16-12.55.21:806][339]LogTexture: Display: Building textures: ShadowMapTexture2D_83 (G8, 128X128)
+[2018.01.16-12.55.21:806][339]LogTexture: Display: Building textures: ShadowMapTexture2D_84 (G8, 256X128)
+[2018.01.16-12.55.21:806][339]LogTexture: Display: Building textures: ShadowMapTexture2D_85 (G8, 128X128)
+[2018.01.16-12.55.21:806][339]LogTexture: Display: Building textures: ShadowMapTexture2D_86 (G8, 128X128)
+[2018.01.16-12.55.21:806][339]LogTexture: Display: Building textures: ShadowMapTexture2D_87 (G8, 128X128)
+[2018.01.16-12.55.21:806][339]LogTexture: Display: Building textures: ShadowMapTexture2D_88 (G8, 128X128)
+[2018.01.16-12.55.21:806][339]LogTexture: Display: Building textures: ShadowMapTexture2D_89 (G8, 128X128)
+[2018.01.16-12.55.21:806][339]LogTexture: Display: Building textures: ShadowMapTexture2D_90 (G8, 128X128)
+[2018.01.16-12.55.21:806][339]LogTexture: Display: Building textures: ShadowMapTexture2D_91 (G8, 128X128)
+[2018.01.16-12.55.21:806][339]LogTexture: Display: Building textures: ShadowMapTexture2D_92 (G8, 128X128)
+[2018.01.16-12.55.21:806][339]LogTexture: Display: Building textures: ShadowMapTexture2D_93 (G8, 128X128)
+[2018.01.16-12.55.21:806][339]LogTexture: Display: Building textures: ShadowMapTexture2D_94 (G8, 128X128)
+[2018.01.16-12.55.21:806][339]LogTexture: Display: Building textures: ShadowMapTexture2D_95 (G8, 128X128)
+[2018.01.16-12.55.21:806][339]LogTexture: Display: Building textures: ShadowMapTexture2D_96 (G8, 128X128)
+[2018.01.16-12.55.21:806][339]LogTexture: Display: Building textures: ShadowMapTexture2D_97 (G8, 128X128)
+[2018.01.16-12.55.21:806][339]LogTexture: Display: Building textures: ShadowMapTexture2D_98 (G8, 128X128)
+[2018.01.16-12.55.21:806][339]LogTexture: Display: Building textures: ShadowMapTexture2D_99 (G8, 128X128)
+[2018.01.16-12.55.22:060][339]LogAIModule: Creating AISystem for world Aksel
+[2018.01.16-12.55.24:751][339]Cmd: MAP LOAD FILE="../../../../../GitHub/CultOfRaven/Content/Scenes/Aksel.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.01.16-12.55.24:753][339]LightingResults: New page: Lighting Build
+[2018.01.16-12.55.24:754][339]LoadErrors: New page: Loading map: Aksel.umap
+[2018.01.16-12.55.24:756][339]MapCheck: New page: Map Check
+[2018.01.16-12.55.24:756][339]LightingResults: New page: Lighting Build
+[2018.01.16-12.55.27:606][339]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.01.16-12.55.27:678][339]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.01.16-12.55.27:742][339]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 63.837ms to complete.
+[2018.01.16-12.55.27:742][339]LogFileHelpers: Loading map 'Aksel' took 2.991
+[2018.01.16-12.55.44:136][260]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2018.01.16-12.55.51:706][117]LogTexture: Display: Building textures: Texture2D_58 (BGRA8, 64X64)
+[2018.01.16-12.55.51:706][117]LogTexture: Display: Building textures: Texture2D_56 (BGRA8, 64X64)
+[2018.01.16-12.55.51:706][117]LogTexture: Display: Building textures: Texture2D_60 (BGRA8, 64X64)
+[2018.01.16-12.55.51:706][117]LogTexture: Display: Building textures: Texture2D_67 (BGRA8, 64X64)
+[2018.01.16-12.55.51:706][117]LogTexture: Display: Building textures: Texture2D_69 (BGRA8, 64X64)
+[2018.01.16-12.55.51:706][117]LogTexture: Display: Building textures: Texture2D_71 (BGRA8, 64X64)
+[2018.01.16-12.55.51:706][117]LogTexture: Display: Building textures: Texture2D_80 (BGRA8, 64X64)
+[2018.01.16-12.55.51:706][117]LogTexture: Display: Building textures: Texture2D_78 (BGRA8, 64X64)
+[2018.01.16-12.55.51:706][117]LogTexture: Display: Building textures: Texture2D_82 (BGRA8, 64X64)
+[2018.01.16-12.55.51:706][117]LogMaterial: Missing cached shader map for material M_Landscape, compiling. 
+[2018.01.16-12.55.51:738][117]LogTexture: Display: Building textures: Texture2D_81 (BGRA8, 512X512)
+[2018.01.16-12.55.51:738][117]LogMaterial: Missing cached shader map for material M_Landscape, compiling. 
+[2018.01.16-12.55.51:805][117]LogAIModule: Creating AISystem for world Spiros
+[2018.01.16-12.55.51:849][117]Cmd: MAP LOAD FILE="../../../../../GitHub/CultOfRaven/Content/Scenes/Spiros.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.01.16-12.55.51:849][117]LightingResults: New page: Lighting Build
+[2018.01.16-12.55.51:850][117]LoadErrors: New page: Loading map: Spiros.umap
+[2018.01.16-12.55.51:852][117]MapCheck: New page: Map Check
+[2018.01.16-12.55.51:852][117]LightingResults: New page: Lighting Build
+[2018.01.16-12.55.52:350][117]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.01.16-12.55.52:390][117]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.01.16-12.55.52:458][117]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 66.956ms to complete.
+[2018.01.16-12.55.52:458][117]LogFileHelpers: Loading map 'Spiros' took 0.609
+[2018.01.16-12.56.16:541][832]LogEditorViewport: Clicking on Actor (LMB): InstancedFoliageActor (InstancedFoliageActor1)
+[2018.01.16-12.56.17:460][935]LogEditorViewport: Clicking on Actor (LMB): InstancedFoliageActor (InstancedFoliageActor1)
+[2018.01.16-12.56.26:454][991]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2018.01.16-12.56.27:554][102]LogEditorViewport: Clicking on Actor (LMB): InstancedFoliageActor (InstancedFoliageActor1)
+[2018.01.16-12.56.36:140][ 51]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2018.01.16-12.56.40:671][573]LogAIModule: Creating AISystem for world AssetZoo
+[2018.01.16-12.56.40:689][573]Cmd: MAP LOAD FILE="../../../../../GitHub/CultOfRaven/Content/Scenes/AssetZoo.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.01.16-12.56.40:689][573]LightingResults: New page: Lighting Build
+[2018.01.16-12.56.40:690][573]LoadErrors: New page: Loading map: AssetZoo.umap
+[2018.01.16-12.56.40:693][573]MapCheck: New page: Map Check
+[2018.01.16-12.56.40:693][573]LightingResults: New page: Lighting Build
+[2018.01.16-12.56.40:716][573]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.01.16-12.56.40:753][573]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.01.16-12.56.40:818][573]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 64.867ms to complete.
+[2018.01.16-12.56.40:818][573]LogFileHelpers: Loading map 'AssetZoo' took 0.129
+[2018.01.16-13.03.33:277][534]LogRenderer: Reallocating scene render targets to support 1916x1016 Format 10 NumSamples 1 (Frame:30842).
+[2018.01.16-13.03.55:739][334]LogEditorViewport: Clicking on Actor (LMB): LightmassImportanceVolume (LightmassImportanceVolume)
+[2018.01.16-13.03.56:365][382]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (NestPiece)
+[2018.01.16-13.03.59:081][588]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Tree_A)
+[2018.01.16-13.03.59:652][630]Cmd: EDIT COPY
+[2018.01.16-13.04.14:379][708]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane)
+[2018.01.16-13.04.15:342][786]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane)
+[2018.01.16-13.04.15:908][836]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Tree_A)
+[2018.01.16-13.06.43:652][488]LogSlate: Took 0.000231 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.01.16-14.06.35:313][ 44]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_plain)
+[2018.01.16-14.07.12:138][445]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane)
+[2018.01.16-14.07.13:274][526]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_3mx3m)
+[2018.01.16-14.07.19:039][989]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_3mx3m_geo_2)
+[2018.01.16-14.07.44:222][287]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_3mx3m_geo)
+[2018.01.16-14.07.49:771][737]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_3mx3m)
+[2018.01.16-14.07.51:137][859]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_3mx3m_geo)
+[2018.01.16-14.07.52:100][946]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_3mx3m_geo_2)
+[2018.01.16-14.08.10:588][129]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_3mx3m_geo)
+[2018.01.16-14.08.11:679][224]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_3mx3m_geo_2)
+[2018.01.16-14.08.12:361][282]Cmd: EDIT COPY
+[2018.01.16-14.08.43:145][458]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Scenes/AssetZoo" FILE="../../../../../GitHub/CultOfRaven/Saved/Autosaves/Game/Scenes/AssetZoo_Auto1.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2018.01.16-14.08.43:389][458]LogSavePackage: Save=228.89ms
+[2018.01.16-14.08.43:389][458]LogSavePackage: Moving '../../../../../GitHub/CultOfRaven/Saved/AssetZoo_Auto19BE7AE784718294104D390B7047693C9.tmp' to '../../../../../GitHub/CultOfRaven/Saved/Autosaves/Game/Scenes/AssetZoo_Auto1.umap'
+[2018.01.16-14.08.43:390][458]LogSavePackage: Display: Finished SavePackage ../../../../../GitHub/CultOfRaven/Saved/Autosaves/Game/Scenes/AssetZoo_Auto1.umap
+[2018.01.16-14.08.43:394][458]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Scenes/AssetZoo' took 0.264
+[2018.01.16-14.08.43:394][458]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.264
+[2018.01.16-14.14.56:142][ 11]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Vault_03_half)
+[2018.01.16-14.14.58:482][173]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Railing_4m)
+[2018.01.16-14.14.59:715][255]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (MeshesDoor_Door_main)
+[2018.01.16-14.15.00:720][311]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Door_Gate)
+[2018.01.16-14.15.01:631][369]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Door_Arch_01)
+[2018.01.16-14.15.07:375][850]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_door_opening)
+[2018.01.16-14.15.15:593][594]Cmd: EDIT COPY
+[2018.01.16-14.16.23:016][270]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Vault_03_half)
+[2018.01.16-14.16.23:557][293]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Vault_03)
+[2018.01.16-14.16.31:172][  0]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Door_Arch_01)
+[2018.01.16-14.16.31:527][ 13]Cmd: EDIT COPY
+[2018.01.16-14.18.50:140][482]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane)
+[2018.01.16-14.18.50:257][483]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Scenes/AssetZoo" FILE="../../../../../GitHub/CultOfRaven/Saved/Autosaves/Game/Scenes/AssetZoo_Auto2.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2018.01.16-14.18.50:458][483]LogSavePackage: Save=187.39ms
+[2018.01.16-14.18.50:458][483]LogSavePackage: Moving '../../../../../GitHub/CultOfRaven/Saved/AssetZoo_Auto2C15CB3EB49E92024E1F2FFB6F43EDFDA.tmp' to '../../../../../GitHub/CultOfRaven/Saved/Autosaves/Game/Scenes/AssetZoo_Auto2.umap'
+[2018.01.16-14.18.50:459][483]LogSavePackage: Display: Finished SavePackage ../../../../../GitHub/CultOfRaven/Saved/Autosaves/Game/Scenes/AssetZoo_Auto2.umap
+[2018.01.16-14.18.50:461][483]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Scenes/AssetZoo' took 0.216
+[2018.01.16-14.18.50:462][483]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.216
+[2018.01.16-14.19.00:131][948]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane)
+[2018.01.16-14.19.00:661][978]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane)
+[2018.01.16-14.19.01:131][ 19]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Door_Gate)
+[2018.01.16-14.19.04:444][315]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (MeshesDoor_Door_main)
+[2018.01.16-14.19.05:422][368]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane)
+[2018.01.16-14.19.05:807][384]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane)
+[2018.01.16-14.19.33:306][804]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane)
+[2018.01.16-14.19.33:796][828]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Door_Gate)
+[2018.01.16-14.19.34:799][912]Cmd: EDIT COPY
