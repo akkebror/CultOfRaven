@@ -1,0 +1,1323 @@
+﻿Log file open, 01/18/18 17:21:30
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: CultOfSpiros
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(-628247667) SRandInit(-628247667).
+LogInit: Read version file with build ID '3709383'
+LogInit: Overriding engine version to CL 3794801, compatible CL 3709383
+LogInit: Registered custom module enumerator with build ID '3709383'
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.181712
+LogD3D11RHI: Aftermath initialized
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/FMODStudio/Binaries/Win64/UE4Editor-FMODStudio.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/FMODStudio/Binaries/Win64/UE4Editor-FMODStudioEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3709383).
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin FMODStudio
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleARKit
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit: Build: ++UE4+Release-4.18-CL-3794801
+LogInit: Engine Version: 4.18.2-3794801+++UE4+Release-4.18
+LogInit: Compatible Engine Version: 4.18.0-3709383+++UE4+Release-4.18
+LogInit: Net CL: 3709383
+LogDevObjectVersion: Number of dev versions registered: 16
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 20
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 30
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 20
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 4
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 1
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 12
+LogInit: Compiled (64-bit): Dec  8 2017 02:04:53
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.18
+LogInit: Command line:  
+LogInit: Base directory: D:/Unreal Engine/UE_4.18/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.01.18-16.21.31:527][  0]LogInit: Selected Device Profile: [Windows]
+[2018.01.18-16.21.31:527][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.01.18-16.21.31:541][  0]LogInit: Computer: FG17AOR043
+[2018.01.18-16.21.31:541][  0]LogInit: User: spiroskessaris
+[2018.01.18-16.21.31:541][  0]LogInit: CPU Page size=4096, Cores=4
+[2018.01.18-16.21.31:541][  0]LogInit: High frequency timer resolution =2.437504 MHz
+[2018.01.18-16.21.31:541][  0]LogMemory: Memory total: Physical=16.0GB (16GB approx)
+[2018.01.18-16.21.31:541][  0]LogMemory: Platform Memory Stats for Windows
+[2018.01.18-16.21.31:541][  0]LogMemory: Process Physical Memory: 274.46 MB used, 274.46 MB peak
+[2018.01.18-16.21.31:541][  0]LogMemory: Process Virtual Memory: 263.79 MB used, 263.79 MB peak
+[2018.01.18-16.21.31:541][  0]LogMemory: Physical Memory: 5554.29 MB used,  10783.13 MB free, 16337.41 MB total
+[2018.01.18-16.21.31:541][  0]LogMemory: Virtual Memory: 671.41 MB used,  10783.13 MB free, 134217728.00 MB total
+[2018.01.18-16.21.31:663][  0]LogInit: Using OS detected language (en-US).
+[2018.01.18-16.21.31:663][  0]LogInit: Using OS detected locale (en-SE).
+[2018.01.18-16.21.31:665][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2018.01.18-16.21.32:138][  0]LogInit: Setting process to per monitor DPI aware
+[2018.01.18-16.21.32:374][  0]LogD3D11RHI: D3D11 adapters:
+[2018.01.18-16.21.32:422][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1060 3GB' (Feature Level 11_0)
+[2018.01.18-16.21.32:423][  0]LogD3D11RHI:       2997/0/8168 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2018.01.18-16.21.32:424][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.01.18-16.21.32:425][  0]LogD3D11RHI:       0/0/8168 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.01.18-16.21.32:425][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.01.18-16.21.32:432][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.01.18-16.21.32:432][  0]LogD3D11RHI:     GPU DeviceId: 0x1c02 (for the marketing name, search the web for "GPU Device Id")
+[2018.01.18-16.21.32:432][  0]LogWindows: EnumDisplayDevices:
+[2018.01.18-16.21.32:432][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1060 3GB' (P:1 D:1)
+[2018.01.18-16.21.32:434][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1060 3GB' (P:0 D:1)
+[2018.01.18-16.21.32:434][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1060 3GB' (P:0 D:0)
+[2018.01.18-16.21.32:434][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1060 3GB' (P:0 D:0)
+[2018.01.18-16.21.32:434][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2018.01.18-16.21.32:434][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1060 3GB
+[2018.01.18-16.21.32:434][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2018.01.18-16.21.32:434][  0]LogD3D11RHI:      Driver Date: Unknown
+[2018.01.18-16.21.32:434][  0]LogRHI: Texture pool is 2097 MB (70% of 2997 MB)
+[2018.01.18-16.21.32:456][  0]LogD3D11RHI: Async texture creation enabled
+[2018.01.18-16.21.32:467][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2018.01.18-16.21.32:567][  0]LogShaderCompilers: Guid format shader working directory is 3 characters bigger than the processId version (C:/Users/spiros.kessaris/Documents/GitHub/CultOfRaven/Intermediate/Shaders/WorkingDirectory/3032/).
+[2018.01.18-16.21.32:567][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/spiros.kessaris/AppData/Local/Temp/UnrealShaderWorkingDir/993CB58B40C6E0BEEB0ED6A9BD880E6E/'.
+[2018.01.18-16.21.32:567][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.01.18-16.21.33:560][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.01.18-16.21.33:603][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.01.18-16.21.33:645][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.01.18-16.21.33:691][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.01.18-16.21.33:734][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.01.18-16.21.33:777][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.01.18-16.21.33:820][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.01.18-16.21.33:866][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.01.18-16.21.33:901][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.01.18-16.21.33:945][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2018.01.18-16.21.33:988][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2018.01.18-16.21.34:030][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2018.01.18-16.21.34:075][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2018.01.18-16.21.34:116][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2018.01.18-16.21.34:204][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2018.01.18-16.21.34:204][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2018.01.18-16.21.34:249][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.01.18-16.21.34:282][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.01.18-16.21.34:362][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.01.18-16.21.34:386][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.01.18-16.21.34:427][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.01.18-16.21.34:473][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.01.18-16.21.34:515][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.01.18-16.21.34:563][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.01.18-16.21.34:563][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.01.18-16.21.34:938][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.01.18-16.21.35:025][  0]LogDerivedDataCache: Loaded boot cache 0.09s 78MB C:/Users/spiros.kessaris/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2018.01.18-16.21.35:025][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/spiros.kessaris/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc
+[2018.01.18-16.21.35:025][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file C:/Users/spiros.kessaris/Documents/GitHub/CultOfRaven/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.01.18-16.21.35:025][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.01.18-16.21.35:025][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file C:/Users/spiros.kessaris/Documents/GitHub/CultOfRaven/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.01.18-16.21.35:025][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.01.18-16.21.35:043][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.01.18-16.21.35:055][  0]LogDerivedDataCache: Using Local data cache path C:/Users/spiros.kessaris/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.01.18-16.21.35:067][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.01.18-16.21.35:067][  0]LogSlate: Using Freetype 2.6.0
+[2018.01.18-16.21.35:068][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.01.18-16.21.35:068][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.01.18-16.21.35:437][  0]LogInit: Selected Device Profile: [Windows]
+[2018.01.18-16.21.35:731][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.01.18-16.21.35:764][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.01.18-16.21.35:764][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.01.18-16.21.35:764][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.01.18-16.21.35:764][  0]LogMeshReduction: No automatic mesh merging module available
+[2018.01.18-16.21.35:764][  0]LogMeshMerging: No automatic mesh merging module available
+[2018.01.18-16.21.35:793][  0]LogNetVersion: CultOfSpiros , NetCL: 3709383, EngineNetVer: 2, GameNetVer: 0 (Checksum: 1049675708)
+[2018.01.18-16.21.35:940][  0]LogAssetRegistry: FAssetRegistry took 0.0264 seconds to start up
+[2018.01.18-16.21.36:422][  0]LogPackageLocalizationCache: Processed 8 localized package path(s) for 2 prioritized culture(s) in 0.078305 seconds
+[2018.01.18-16.21.36:429][  0]LogUObjectArray: 35904 objects as part of root set at end of initial load.
+[2018.01.18-16.21.36:429][  0]LogUObjectAllocator: 7372952 out of 0 bytes used by permanent object pool.
+[2018.01.18-16.21.36:429][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.01.18-16.21.36:468][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2018.01.18-16.21.38:857][  0]LogFMOD: FFMODStudioModule startup
+[2018.01.18-16.21.38:857][  0]LogFMOD:  Lib path = '../../../Engine/Plugins/FMODStudio/Binaries'
+[2018.01.18-16.21.38:857][  0]LogFMOD: FFMODStudioModule::LoadDll: Loading ../../../Engine/Plugins/FMODStudio/Binaries/Win64/fmodL64.dll
+[2018.01.18-16.21.38:862][  0]LogFMOD: FFMODStudioModule::LoadDll: Loading ../../../Engine/Plugins/FMODStudio/Binaries/Win64/fmodstudioL64.dll
+[2018.01.18-16.21.38:880][  0]LogFMOD: Loading strings bank: C:/Users/spiros.kessaris/Documents/GitHub/CultOfRaven/Content/FMOD/Desktop/Master Bank.strings.bank
+[2018.01.18-16.21.38:882][  0]LogFMOD: Error: e:\jk\workspace\1.10_UE4.18_Win64\studio_api\src\fmod_bankmodel.cpp(481) - Failed to open file 'C:/Users/spiros.kessaris/Documents/GitHub/CultOfRaven/Content/FMOD/Desktop/Master Bank.strings.bank'
+
+[2018.01.18-16.21.38:882][  0]LogFMOD: Warning: Failed to load strings bank: C:/Users/spiros.kessaris/Documents/GitHub/CultOfRaven/Content/FMOD/Desktop/Master Bank.strings.bank
+[2018.01.18-16.21.38:896][  0]LogFMOD: Default sample rate = 48000
+[2018.01.18-16.21.38:896][  0]LogFMOD: System sample rate = 48000
+[2018.01.18-16.21.38:896][  0]LogFMOD: Matching system sample rate 48000
+[2018.01.18-16.21.38:930][  0]LogFMOD: Default sample rate = 48000
+[2018.01.18-16.21.38:930][  0]LogFMOD: System sample rate = 48000
+[2018.01.18-16.21.38:930][  0]LogFMOD: Matching system sample rate 48000
+[2018.01.18-16.21.38:983][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.01.18-16.21.39:021][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.01.18-16.21.39:598][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2018.01.18-16.21.39:968][  0]SourceControl: Source control is disabled
+[2018.01.18-16.21.39:968][  0]SourceControl: Source control is disabled
+[2018.01.18-16.21.40:011][  0]SourceControl: Source control is disabled
+[2018.01.18-16.21.40:054][  0]SourceControl: Source control is disabled
+[2018.01.18-16.21.40:496][  0]LogFMOD: FFMODStudioEditorModule startup
+[2018.01.18-16.21.40:785][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.01.18-16.21.41:001][  0]LogOcInput: OculusInput pre-init called
+[2018.01.18-16.21.41:236][  0]LogEngine: Initializing Engine...
+[2018.01.18-16.21.41:239][  0]LogHMD: Failed to initialize OpenVR with code 100
+[2018.01.18-16.21.41:502][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.01.18-16.21.41:502][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.01.18-16.21.41:604][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.01.18-16.21.41:611][  0]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.01.18-16.21.41:644][  0]LogInit: FAudioDevice initialized.
+[2018.01.18-16.21.41:730][  0]LogDerivedDataCache: Saved boot cache 0.09s 78MB C:/Users/spiros.kessaris/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2018.01.18-16.21.41:746][  0]LogInit: Texture streaming: Enabled
+[2018.01.18-16.21.41:823][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.01.18-16.21.41:933][  0]LogInit: Transaction tracking system initialized
+[2018.01.18-16.21.42:188][  0]BlueprintLog: New page: Editor Load
+[2018.01.18-16.21.42:930][  0]LocalizationService: Localization service is disabled
+[2018.01.18-16.21.43:543][  0]LogConsoleResponse: Display: 
+[2018.01.18-16.21.43:698][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.01.18-16.21.43:698][  0]LogCook: Display: Mobile HDR setting 1
+[2018.01.18-16.21.43:698][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.01.18-16.21.43:819][  0]LogFileCache: Scanning file cache for directory 'C:/Users/spiros.kessaris/Documents/GitHub/CultOfRaven/Content/' took 0.02s
+[2018.01.18-16.21.44:684][  0]SourceControl: Source control is disabled
+[2018.01.18-16.21.44:684][  0]Cmd: MAP LOAD FILE="C:/Users/spiros.kessaris/Documents/GitHub/CultOfRaven/Content/Scenes/Spiros.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.01.18-16.21.44:684][  0]LightingResults: New page: Lighting Build
+[2018.01.18-16.21.44:717][  0]MapCheck: New page: Map Check
+[2018.01.18-16.21.44:717][  0]LightingResults: New page: Lighting Build
+[2018.01.18-16.21.46:254][  0]LogStaticMesh: Building static mesh SM_Furniture_Chair...
+[2018.01.18-16.21.46:354][  0]LogStaticMesh: Built static mesh [0.10s] /Game/Joseph/Assets/SM_Furniture_Chair.SM_Furniture_Chair
+[2018.01.18-16.21.46:361][  0]LogStaticMesh: Building static mesh SM_Furniture_Desk...
+[2018.01.18-16.21.46:405][  0]LogStaticMesh: Built static mesh [0.04s] /Game/Joseph/Assets/SM_Furniture_Desk.SM_Furniture_Desk
+[2018.01.18-16.21.46:631][  0]LogMaterial: Missing cached shader map for material lambert1, compiling. 
+[2018.01.18-16.21.46:848][  0]LogAIModule: Creating AISystem for world Spiros
+[2018.01.18-16.21.47:011][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.01.18-16.21.47:062][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.01.18-16.21.47:145][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 82.505ms to complete.
+[2018.01.18-16.21.47:145][  0]LogFileHelpers: Loading map 'Spiros' took 2.461
+[2018.01.18-16.21.47:206][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.01.18-16.21.47:313][  0]LogCollectionManager: Loaded 0 collections in 0.001094 seconds
+[2018.01.18-16.21.47:396][  0]LogFileCache: Scanning file cache for directory 'C:/Users/spiros.kessaris/Documents/GitHub/CultOfRaven/Saved/Collections/' took 0.01s
+[2018.01.18-16.21.47:396][  0]LogFileCache: Scanning file cache for directory 'C:/Users/spiros.kessaris/Documents/GitHub/CultOfRaven/Content/Developers/spiroskessaris/Collections/' took 0.01s
+[2018.01.18-16.21.47:396][  0]LogFileCache: Scanning file cache for directory 'C:/Users/spiros.kessaris/Documents/GitHub/CultOfRaven/Content/Collections/' took 0.01s
+[2018.01.18-16.21.47:396][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2018.01.18-16.21.47:405][  0]LogContentBrowser: Native class hierarchy populated in 0.0094 seconds. Added 2380 classes and 526 folders.
+[2018.01.18-16.21.47:480][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2018.01.18-16.21.47:533][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2018.01.18-16.21.47:573][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 1 classes and 2 folders.
+[2018.01.18-16.21.49:063][  0]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2018.01.18-16.21.49:091][  0]LogSlate: Took 0.000285 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.01.18-16.21.49:096][  0]LogSlate: Took 0.000290 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.01.18-16.21.49:099][  0]LogSlate: Took 0.000305 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.01.18-16.21.49:205][  0]LogRenderer: Reallocating scene render targets to support 1276x588 Format 10 NumSamples 1 (Frame:1).
+[2018.01.18-16.21.49:476][  0]LogTemp: Executing iPhonePackager certificates Engine -bundlename com.YourCompany.CultOfSpiros
+[2018.01.18-16.21.49:476][  0]LogTemp: CWD: D:\Unreal Engine\UE_4.18\Engine\Binaries\DotNET\IOS
+[2018.01.18-16.21.49:476][  0]LogTemp: Initial Dir: D:\Unreal Engine\UE_4.18
+[2018.01.18-16.21.49:476][  0]LogTemp: Env CWD: D:\Unreal Engine\UE_4.18\Engine\Binaries\DotNET\IOS
+[2018.01.18-16.21.49:476][  0]LogTemp: BranchPath = FG17AOR043/D/Unreal Engine/UE_4.18/Engine/Binaries --- GameBranchPath = FG17AOR043/D/Unreal Engine/UE_4.18/Engine/Binaries
+[2018.01.18-16.21.49:476][  0]LogTemp: IPP ERROR: Could not find provision directory 'C:\Users\spiros.kessaris\AppData\Local/Apple Computer/MobileDevice/Provisioning Profiles/'.
+[2018.01.18-16.21.49:527][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2018.01.18-16.21.49:527][  0]LogLoad: (Engine Initialization) Total time: 19.96 seconds
+[2018.01.18-16.21.49:527][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.01.18-16.21.49:527][  0]LogExternalProfiler: Found external profiler: VSPerf
+[2018.01.18-16.21.49:527][  0]LogExternalProfiler: Using external profiler: VSPerf
+[2018.01.18-16.21.49:565][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.01.18-16.21.49:620][  0]LogSlate: Took 0.000249 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.01.18-16.21.49:658][  1]LogAssetRegistry: Asset discovery search completed in 13.7407 seconds
+[2018.01.18-16.21.49:661][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2018.01.18-16.21.49:661][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000058 seconds (updated 0 objects)
+[2018.01.18-16.22.18:243][438]LogActorFactory: Actor Factory created House_Damaged1
+[2018.01.18-16.22.18:710][484]LogActorFactory: Actor Factory created House_Damaged1
+[2018.01.18-16.22.44:816][945]Cmd: DELETE
+[2018.01.18-16.22.44:816][945]Cmd: ACTOR DELETE
+[2018.01.18-16.22.44:827][945]LogSlate: Took 0.000192 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.01.18-16.22.44:915][945]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.01.18-16.22.44:915][945]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.01.18-16.22.44:915][945]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.01.18-16.22.44:915][945]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.01.18-16.22.44:915][945]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.01.18-16.22.44:915][945]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.01.18-16.22.44:916][945]LogEditorActor: Deleted Actor: Brush
+[2018.01.18-16.22.44:940][945]LogEditorActor: Deleted 7 Actors (0.124 secs)
+[2018.01.18-16.22.46:056][ 60]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (House_Damaged1)
+[2018.01.18-16.22.53:932][746]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (House_Damaged1)
+[2018.01.18-16.22.56:640][982]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight2)
+[2018.01.18-16.23.03:883][619]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (House_Damaged1)
+[2018.01.18-16.23.20:561][143]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2018.01.18-16.23.24:121][455]LogActorFactory: Actor Factory created HouseBase_DoorOpen
+[2018.01.18-16.23.25:610][590]LogActorFactory: Actor Factory created HouseBase_DoorOpen
+[2018.01.18-16.23.50:660][860]LogActorFactory: Actor Factory created WallBeam_Rounded
+[2018.01.18-16.23.52:013][979]LogActorFactory: Actor Factory created WallBeam_Rounded
+[2018.01.18-16.23.54:923][254]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (HouseBase_DoorOpen)
+[2018.01.18-16.23.56:827][427]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallBeam_Rounded)
+[2018.01.18-16.24.10:249][582]Cmd: DELETE
+[2018.01.18-16.24.10:250][582]Cmd: ACTOR DELETE
+[2018.01.18-16.24.10:297][582]LogEditorActor: Deleted Actor: Brush
+[2018.01.18-16.24.10:319][582]LogEditorActor: Deleted 1 Actors (0.069 secs)
+[2018.01.18-16.24.12:584][789]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallBeam_Rounded)
+[2018.01.18-16.24.15:467][ 61]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallBeam_Rounded)
+[2018.01.18-16.24.17:629][219]LogActorFactory: Actor Factory created BrickWall_Whole
+[2018.01.18-16.24.18:306][277]LogActorFactory: Actor Factory created BrickWall_Whole
+[2018.01.18-16.24.32:339][574]LogActorFactory: Actor Factory created BrickWall_Crumble1
+[2018.01.18-16.24.33:168][644]LogActorFactory: Actor Factory created BrickWall_Crumble1
+[2018.01.18-16.24.56:445][698]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2018.01.18-16.24.58:902][882]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (BrickWall_Whole)
+[2018.01.18-16.25.04:812][419]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (BrickWall_Whole)
+[2018.01.18-16.25.14:771][311]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2018.01.18-16.25.17:057][485]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (BrickWall_Crumble2)
+[2018.01.18-16.25.23:221][ 18]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallBeam_Rounded)
+[2018.01.18-16.25.34:407][ 73]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (BrickWall_Whole)
+[2018.01.18-16.25.35:102][111]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (BrickWall_Crumble1)
+[2018.01.18-16.25.36:185][212]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (BrickWall_Crumble2)
+[2018.01.18-16.25.36:763][264]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (BrickWall_Whole2)
+[2018.01.18-16.25.38:566][439]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (WallBeam_Rounded)
+[2018.01.18-16.25.45:404][ 35]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight19)
+[2018.01.18-16.25.58:770][271]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallBeam_Rounded)
+[2018.01.18-16.26.05:486][799]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (BrickWall_Crumble1)
+[2018.01.18-16.26.06:242][856]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (BrickWall_Whole)
+[2018.01.18-16.26.06:793][896]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (BrickWall_Crumble2)
+[2018.01.18-16.26.07:491][949]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (BrickWall_Whole2)
+[2018.01.18-16.26.14:755][593]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (HouseBase_DoorOpen)
+[2018.01.18-16.26.19:749][ 41]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallBeam_Rounded)
+[2018.01.18-16.26.32:412][203]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Cliff_8)
+[2018.01.18-16.26.34:384][365]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallBeam_Rounded2)
+[2018.01.18-16.26.40:591][862]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (BrickWall_Crumble3)
+[2018.01.18-16.26.44:671][239]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Cliff_8)
+[2018.01.18-16.26.58:549][425]LogActorFactory: Actor Factory created BrickWall_Crumble2
+[2018.01.18-16.26.59:413][492]LogActorFactory: Actor Factory created BrickWall_Crumble2
+[2018.01.18-16.27.10:760][368]LogActorFactory: Actor Factory created BrickWall_Whole
+[2018.01.18-16.27.11:500][425]LogActorFactory: Actor Factory created BrickWall_Whole
+[2018.01.18-16.27.38:699][762]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (BrickWall_Crumble5)
+[2018.01.18-16.28.05:614][948]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Door_Arch_3)
+[2018.01.18-16.28.12:398][487]Cmd: DELETE
+[2018.01.18-16.28.12:398][487]Cmd: ACTOR DELETE
+[2018.01.18-16.28.12:449][487]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.01.18-16.28.12:450][487]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.01.18-16.28.12:462][487]LogEditorActor: Deleted 2 Actors (0.063 secs)
+[2018.01.18-16.28.13:775][578]LogActorFactory: Actor Factory created Door_Open
+[2018.01.18-16.28.14:647][651]LogActorFactory: Actor Factory created Door_Open
+[2018.01.18-16.28.21:784][263]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Door_Open)
+[2018.01.18-16.28.29:252][902]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2018.01.18-16.28.31:907][ 87]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Door_Open)
+[2018.01.18-16.28.34:976][340]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2018.01.18-16.28.41:122][820]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (BrickWall_Crumble5)
+[2018.01.18-16.28.56:367][  9]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (BrickWall_Whole5)
+[2018.01.18-16.28.58:132][166]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (BrickWall_Crumble5)
+[2018.01.18-16.29.00:780][376]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (BrickWall_Crumble6)
+[2018.01.18-16.29.06:691][887]Cmd: TRANSACTION UNDO
+[2018.01.18-16.29.06:691][887]LogEditorTransaction: Undo Rotate Actors
+[2018.01.18-16.29.06:706][887]LogSlate: Took 0.000231 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.01.18-16.29.07:664][958]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2018.01.18-16.29.08:326][  9]LogEditorViewport: Clicking on Actor (LMB): BP_Brazier_C (BP_Brazier3)
+[2018.01.18-16.29.09:639][114]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (BrickWall_Crumble6)
+[2018.01.18-16.29.26:479][552]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2018.01.18-16.29.32:879][121]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight20)
+[2018.01.18-16.29.35:637][370]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2018.01.18-16.30.30:005][999]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (BrickWall_Whole5)
+[2018.01.18-16.30.33:205][217]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight20)
+[2018.01.18-16.30.34:311][303]LogEditorViewport: Clicking on Actor (CTRL LMB): PointLight (PointLight19)
+[2018.01.18-16.31.36:744][268]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_3x3_geo_tile85)
+[2018.01.18-16.31.58:090][832]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (BrickWall_Crumble7)
+[2018.01.18-16.31.58:832][865]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (BrickWall_Crumble6)
+[2018.01.18-16.32.05:669][339]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (BrickWall_Whole)
+[2018.01.18-16.32.08:893][595]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (BrickWall_Crumble3)
+[2018.01.18-16.32.13:196][943]LogActorFactory: Actor Factory created HouseBase_DoorOpen
+[2018.01.18-16.32.13:691][982]LogActorFactory: Actor Factory created HouseBase_DoorOpen
+[2018.01.18-16.32.18:951][365]Cmd: DELETE
+[2018.01.18-16.32.18:951][365]Cmd: ACTOR DELETE
+[2018.01.18-16.32.19:006][365]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.01.18-16.32.19:019][365]LogEditorActor: Deleted 1 Actors (0.067 secs)
+[2018.01.18-16.32.21:408][574]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallBeam_Rounded)
+[2018.01.18-16.32.22:454][643]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (HouseBase_DoorOpen)
+[2018.01.18-16.32.25:256][890]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (BrickWall_Crumble3)
+[2018.01.18-16.33.16:646][234]Cmd: DELETE
+[2018.01.18-16.33.16:647][234]Cmd: ACTOR DELETE
+[2018.01.18-16.33.16:697][234]LogEditorActor: Deleted Actor: Brush
+[2018.01.18-16.33.16:719][234]LogEditorActor: Deleted 1 Actors (0.073 secs)
+[2018.01.18-16.33.33:576][394]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (BrickWall_Crumble10)
+[2018.01.18-16.33.52:925][786]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (BrickWall_Whole7)
+[2018.01.18-16.33.53:791][853]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallBeam_Rounded4)
+[2018.01.18-16.33.56:623][ 75]Cmd: TRANSACTION UNDO
+[2018.01.18-16.33.56:623][ 75]LogEditorTransaction: Undo Rotate Actors
+[2018.01.18-16.33.56:634][ 75]LogActorComponent: ~FComponentReregisterContext: (/Game/Scenes/Spiros.Spiros:PersistentLevel.BrickWall_Crumble11.StaticMeshComponent0) Component already registered.
+[2018.01.18-16.33.57:947][172]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (BrickWall_Whole7)
+[2018.01.18-16.34.06:364][847]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallBeam_Rounded4)
+[2018.01.18-16.34.21:360][997]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (WallBeam_Rounded4)
+[2018.01.18-16.34.23:417][218]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallBeam_Rounded5)
+[2018.01.18-16.34.24:581][307]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2018.01.18-16.34.26:733][453]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (BrickWall_Whole12)
+[2018.01.18-16.34.29:851][634]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2018.01.18-16.34.33:059][844]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallBeam_Rounded4)
+[2018.01.18-16.34.36:945][ 77]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (BrickWall_Whole12)
+[2018.01.18-16.34.39:202][219]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2018.01.18-16.34.43:190][493]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (BrickWall_Crumble10)
+[2018.01.18-16.35.00:272][ 73]LogActorFactory: Actor Factory created BrickWall_Whole
+[2018.01.18-16.35.01:986][219]LogActorFactory: Actor Factory created BrickWall_Whole
+[2018.01.18-16.35.48:017][193]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\spiros.kessaris\Downloads\SM_Jewelry_01.fbx)
+[2018.01.18-16.35.48:245][193]LogFbx: ItemName: GlobalSettings, ItemCount : 1
+[2018.01.18-16.35.48:245][193]LogFbx: ItemName: AnimationStack, ItemCount : 1
+[2018.01.18-16.35.48:245][193]LogFbx: ItemName: AnimationLayer, ItemCount : 1
+[2018.01.18-16.35.48:245][193]LogFbx: ItemName: Geometry, ItemCount : 1
+[2018.01.18-16.35.48:245][193]LogFbx: ItemName: Material, ItemCount : 1
+[2018.01.18-16.35.48:245][193]LogFbx: ItemName: Model, ItemCount : 1
+[2018.01.18-16.35.48:317][193]LogFbx: Loading FBX Scene from C:\Users\spiros.kessaris\Downloads\SM_Jewelry_01.fbx
+[2018.01.18-16.35.48:382][193]LogFbx: FBX Scene Loaded Succesfully
+[2018.01.18-16.35.50:290][193]LogFbx: Loading FBX Scene from C:\Users\spiros.kessaris\Downloads\SM_Jewelry_01.fbx
+[2018.01.18-16.35.50:298][193]LogFbx: FBX Scene Loaded Succesfully
+[2018.01.18-16.35.50:332][193]LogLinker: Can't find file '/Game/FirstPersonBP/HouseParts/lambert1'
+[2018.01.18-16.35.50:332][193]LogLinker: Can't find file '/Game/FirstPersonBP/HouseParts/lambert1'
+[2018.01.18-16.35.50:385][193]LogMaterial: Missing cached shader map for material lambert1, compiling. 
+[2018.01.18-16.35.50:420][193]LogFbx: Warning: Triangulating static mesh SM_Jewelry_01
+[2018.01.18-16.35.50:558][193]LogStaticMesh: Building static mesh SM_Jewelry_01...
+[2018.01.18-16.35.50:651][193]LogStaticMesh: Built static mesh [0.09s] /Game/FirstPersonBP/HouseParts/SM_Jewelry_01.SM_Jewelry_01
+[2018.01.18-16.35.51:738][240]LogActorFactory: Actor Factory created SM_Jewelry_01
+[2018.01.18-16.35.52:250][273]LogActorFactory: Actor Factory created SM_Jewelry_01
+[2018.01.18-16.36.27:417][298]Cmd: DELETE
+[2018.01.18-16.36.27:417][298]Cmd: ACTOR DELETE
+[2018.01.18-16.36.27:466][298]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.01.18-16.36.27:480][298]LogEditorActor: Deleted 1 Actors (0.063 secs)
+[2018.01.18-16.36.52:228][939]LogActorFactory: Actor Factory created BrickWall_Whole
+[2018.01.18-16.36.52:907][978]LogActorFactory: Actor Factory created BrickWall_Whole
+[2018.01.18-16.37.02:132][547]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (BrickWall_Crumble7)
+[2018.01.18-16.37.03:518][632]Cmd: DELETE
+[2018.01.18-16.37.03:518][632]Cmd: ACTOR DELETE
+[2018.01.18-16.37.03:567][632]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.01.18-16.37.03:580][632]LogEditorActor: Deleted 1 Actors (0.062 secs)
+[2018.01.18-16.37.05:292][727]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (BrickWall_Whole14)
+[2018.01.18-16.37.17:015][474]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (BrickWall_Whole6)
+[2018.01.18-16.37.20:986][794]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (BrickWall_Whole6)
+[2018.01.18-16.37.24:886][122]LogActorFactory: Actor Factory created BrickWall_Door_Closed
+[2018.01.18-16.37.26:553][247]LogActorFactory: Actor Factory created BrickWall_Door_Closed
+[2018.01.18-16.38.03:100][329]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Sphere)
+[2018.01.18-16.38.04:152][414]Cmd: DELETE
+[2018.01.18-16.38.04:152][414]Cmd: ACTOR DELETE
+[2018.01.18-16.38.04:200][414]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.01.18-16.38.04:211][414]LogEditorActor: Deleted 1 Actors (0.059 secs)
+[2018.01.18-16.38.08:428][747]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (BrickWall_Door_Closed)
+[2018.01.18-16.38.39:691][535]Cmd: DELETE
+[2018.01.18-16.38.39:691][535]Cmd: ACTOR DELETE
+[2018.01.18-16.38.39:742][535]LogEditorActor: Deleted Actor: Brush
+[2018.01.18-16.38.39:763][535]LogEditorActor: Deleted 1 Actors (0.072 secs)
+[2018.01.18-16.38.49:744][423]LogActorFactory: Actor Factory created BrickWall_Whole
+[2018.01.18-16.38.50:119][456]LogActorFactory: Actor Factory created BrickWall_Whole
+[2018.01.18-16.39.18:724][914]LogActorFactory: Actor Factory created BrickWall_Crumble2
+[2018.01.18-16.39.19:134][947]LogActorFactory: Actor Factory created BrickWall_Crumble2
+[2018.01.18-16.39.33:820][143]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (HouseBase_DoorOpen2)
+[2018.01.18-16.39.45:474][174]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (BrickWall_Crumble7)
+[2018.01.18-16.39.51:706][728]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (BrickWall_Whole16)
+[2018.01.18-16.39.57:570][205]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (BrickWall_Crumble7)
+[2018.01.18-16.40.02:185][616]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (BrickWall_Whole17)
+[2018.01.18-16.40.07:222][ 61]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (BrickWall_Crumble7)
+[2018.01.18-16.40.11:419][431]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (BrickWall_Whole17)
+[2018.01.18-16.40.14:386][699]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallBeam_Rounded3)
+[2018.01.18-16.40.15:378][768]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (BrickWall_Whole16)
+[2018.01.18-16.40.18:635][ 38]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (BrickWall_Whole16)
+[2018.01.18-16.40.19:793][135]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (BrickWall_Crumble7)
+[2018.01.18-16.40.21:381][251]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (BrickWall_Whole17)
+[2018.01.18-16.40.46:833][404]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (BrickWall_Whole19)
+[2018.01.18-16.40.47:390][442]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (BrickWall_Crumble14)
+[2018.01.18-16.40.48:371][514]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (BrickWall_Whole18)
+[2018.01.18-16.41.02:227][520]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (BrickWall_Crumble17)
+[2018.01.18-16.41.03:418][594]Cmd: DELETE
+[2018.01.18-16.41.03:418][594]Cmd: ACTOR DELETE
+[2018.01.18-16.41.03:469][594]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.01.18-16.41.03:484][594]LogEditorActor: Deleted 1 Actors (0.066 secs)
+[2018.01.18-16.41.04:288][649]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (BrickWall_Crumble16)
+[2018.01.18-16.41.04:707][671]Cmd: DELETE
+[2018.01.18-16.41.04:707][671]Cmd: ACTOR DELETE
+[2018.01.18-16.41.04:759][671]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.01.18-16.41.04:770][671]LogEditorActor: Deleted 1 Actors (0.063 secs)
+[2018.01.18-16.41.05:472][719]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (BrickWall_Whole23)
+[2018.01.18-16.41.06:413][776]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (BrickWall_Whole25)
+[2018.01.18-16.41.10:860][ 44]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (BrickWall_Whole23)
+[2018.01.18-16.41.12:246][130]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (BrickWall_Whole25)
+[2018.01.18-16.41.12:972][155]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (BrickWall_Whole22)
+[2018.01.18-16.41.13:789][215]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (BrickWall_Whole24)
+[2018.01.18-16.41.14:250][246]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (BrickWall_Whole21)
+[2018.01.18-16.41.14:780][283]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (BrickWall_Whole19)
+[2018.01.18-16.41.15:988][352]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (BrickWall_Crumble14)
+[2018.01.18-16.41.16:950][405]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (BrickWall_Crumble15)
+[2018.01.18-16.41.17:725][461]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (BrickWall_Whole20)
+[2018.01.18-16.41.18:359][505]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (BrickWall_Whole18)
+[2018.01.18-16.41.42:632][495]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (BrickWall_Whole17)
+[2018.01.18-16.42.02:476][966]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallBeam_Rounded5)
+[2018.01.18-16.42.04:448][114]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (BrickWall_Crumble7)
+[2018.01.18-16.42.08:006][429]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (BrickWall_Whole34)
+[2018.01.18-16.42.08:820][501]Cmd: DELETE
+[2018.01.18-16.42.08:820][501]Cmd: ACTOR DELETE
+[2018.01.18-16.42.08:872][501]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.01.18-16.42.08:887][501]LogEditorActor: Deleted 1 Actors (0.066 secs)
+[2018.01.18-16.42.09:492][566]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (BrickWall_Crumble18)
+[2018.01.18-16.42.13:733][957]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2018.01.18-16.42.16:880][206]Cmd: DELETE
+[2018.01.18-16.42.16:880][206]Cmd: ACTOR DELETE
+[2018.01.18-16.42.16:931][206]LogEditorActor: Deleted Actor: Brush
+[2018.01.18-16.42.16:955][206]LogEditorActor: Deleted 1 Actors (0.075 secs)
+[2018.01.18-16.42.21:204][627]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (BrickWall_Crumble18)
+[2018.01.18-16.42.23:688][783]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (BrickWall_Whole23)
+[2018.01.18-16.42.24:576][849]Cmd: DELETE
+[2018.01.18-16.42.24:577][849]Cmd: ACTOR DELETE
+[2018.01.18-16.42.24:628][849]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.01.18-16.42.24:639][849]LogEditorActor: Deleted 1 Actors (0.062 secs)
+[2018.01.18-16.42.39:622][911]LogActorFactory: Actor Factory created Ruin_A
+[2018.01.18-16.42.40:241][959]LogActorFactory: Actor Factory created Ruin_A
+[2018.01.18-16.42.50:237][710]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (BrickWall_Whole22)
+[2018.01.18-16.42.51:085][766]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2018.01.18-16.42.53:734][947]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (BrickWall_Whole22)
+[2018.01.18-16.42.55:054][ 57]Cmd: DELETE
+[2018.01.18-16.42.55:054][ 57]Cmd: ACTOR DELETE
+[2018.01.18-16.42.55:106][ 57]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.01.18-16.42.55:120][ 57]LogEditorActor: Deleted 1 Actors (0.065 secs)
+[2018.01.18-16.42.55:923][133]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (BrickWall_Whole25)
+[2018.01.18-16.42.57:510][234]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Ruin_A3)
+[2018.01.18-16.43.03:620][685]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2018.01.18-16.43.11:158][294]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (BrickWall_Crumble18)
+[2018.01.18-16.43.13:263][459]Cmd: DELETE
+[2018.01.18-16.43.13:263][459]Cmd: ACTOR DELETE
+[2018.01.18-16.43.13:315][459]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.01.18-16.43.13:329][459]LogEditorActor: Deleted 1 Actors (0.066 secs)
+[2018.01.18-16.43.14:209][538]Cmd: TRANSACTION UNDO
+[2018.01.18-16.43.14:209][538]LogEditorTransaction: Undo Delete Actors
+[2018.01.18-16.43.15:011][589]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (BrickWall_Crumble7)
+[2018.01.18-16.43.15:757][643]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (BrickWall_Whole17)
+[2018.01.18-16.43.16:591][707]Cmd: DELETE
+[2018.01.18-16.43.16:592][707]Cmd: ACTOR DELETE
+[2018.01.18-16.43.16:646][707]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.01.18-16.43.16:658][707]LogEditorActor: Deleted 1 Actors (0.066 secs)
+[2018.01.18-16.43.17:168][752]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (BrickWall_Crumble18)
+[2018.01.18-16.43.20:540][ 30]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (BrickWall_Crumble8)
+[2018.01.18-16.43.26:247][425]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (BrickWall_Whole31)
+[2018.01.18-16.43.27:311][497]Cmd: DELETE
+[2018.01.18-16.43.27:311][497]Cmd: ACTOR DELETE
+[2018.01.18-16.43.27:363][497]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.01.18-16.43.27:376][497]LogEditorActor: Deleted 1 Actors (0.065 secs)
+[2018.01.18-16.43.37:109][208]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (BrickWall_Crumble10)
+[2018.01.18-16.43.44:402][722]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2018.01.18-16.43.58:104][588]LogActorFactory: Actor Factory created BrickWall_Crumble1
+[2018.01.18-16.43.58:557][623]LogActorFactory: Actor Factory created BrickWall_Crumble1
+[2018.01.18-16.44.08:574][326]LogActorFactory: Actor Factory created HouseBase_DoorOpen
+[2018.01.18-16.44.09:731][413]LogActorFactory: Actor Factory created HouseBase_DoorOpen
+[2018.01.18-16.44.45:359][392]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (BrickWall_Whole15)
+[2018.01.18-16.44.55:668][143]LogActorFactory: Actor Factory created BrickWall_Crumble2
+[2018.01.18-16.44.56:592][207]LogActorFactory: Actor Factory created BrickWall_Crumble2
+[2018.01.18-16.45.13:582][412]LogActorFactory: Actor Factory created BrickWall_Crumble1
+[2018.01.18-16.45.14:384][466]LogActorFactory: Actor Factory created BrickWall_Crumble1
+[2018.01.18-16.45.32:367][810]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2018.01.18-16.45.35:626][ 57]LogActorFactory: Actor Factory created Door_Closed
+[2018.01.18-16.45.36:326][108]LogActorFactory: Actor Factory created Door_Closed
+[2018.01.18-16.45.49:059][103]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (BrickWall_Crumble20)
+[2018.01.18-16.45.52:332][338]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Door_Closed)
+[2018.01.18-16.46.06:339][376]LogActorFactory: Actor Factory created BrickWall_Whole
+[2018.01.18-16.46.06:789][406]LogActorFactory: Actor Factory created BrickWall_Whole
+[2018.01.18-16.46.18:325][282]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2018.01.18-16.46.21:912][536]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Door_Closed2)
+[2018.01.18-16.46.30:791][278]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2018.01.18-16.46.32:588][420]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (BrickWall_Whole17)
+[2018.01.18-16.46.36:155][735]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2018.01.18-16.46.40:538][114]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (BrickWall_Whole17)
+[2018.01.18-16.46.42:357][239]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (BrickWall_Crumble20)
+[2018.01.18-16.46.51:294][943]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (BrickWall_Crumble21)
+[2018.01.18-16.47.44:730][864]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Scenes/Spiros" FILE="C:/Users/spiros.kessaris/Documents/GitHub/CultOfRaven/Saved/Autosaves/Game/Scenes/Spiros_Auto1.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2018.01.18-16.47.47:860][864]LogSlate: Took 0.000223 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.01.18-16.47.48:283][864]LogSavePackage: Save=3523.64ms
+[2018.01.18-16.47.48:283][864]LogSavePackage: Moving 'C:/Users/spiros.kessaris/Documents/GitHub/CultOfRaven/Saved/Spiros_Auto10A533936461AF5A318FB8F84B950B0CE.tmp' to 'C:/Users/spiros.kessaris/Documents/GitHub/CultOfRaven/Saved/Autosaves/Game/Scenes/Spiros_Auto1.umap'
+[2018.01.18-16.47.48:287][864]LogSavePackage: Display: Finished SavePackage C:/Users/spiros.kessaris/Documents/GitHub/CultOfRaven/Saved/Autosaves/Game/Scenes/Spiros_Auto1.umap
+[2018.01.18-16.47.48:293][864]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Scenes/Spiros' took 3.582
+[2018.01.18-16.47.48:293][864]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 3.582
+[2018.01.18-16.48.55:588][234]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (HouseBase_DoorOpen3)
+[2018.01.18-16.48.58:299][447]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (BrickWall_Crumble22)
+[2018.01.18-16.49.09:728][279]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (BrickWall_Crumble23)
+[2018.01.18-16.49.10:549][342]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (BrickWall_Whole17)
+[2018.01.18-16.49.14:256][631]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (BrickWall_Crumble23)
+[2018.01.18-16.49.15:183][699]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (BrickWall_Whole17)
+[2018.01.18-16.49.52:658][656]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (BrickWall_Crumble24)
+[2018.01.18-16.49.59:694][ 96]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (BrickWall_Whole14)
+[2018.01.18-16.50.07:892][588]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (BrickWall_Crumble6)
+[2018.01.18-16.50.14:519][ 23]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (BrickWall_Crumble20)
+[2018.01.18-16.50.16:800][170]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (BrickWall_Crumble25)
+[2018.01.18-16.50.24:829][696]Cmd: DELETE
+[2018.01.18-16.50.24:829][696]Cmd: ACTOR DELETE
+[2018.01.18-16.50.24:882][696]LogEditorActor: Deleted Actor: Brush
+[2018.01.18-16.50.24:906][696]LogEditorActor: Deleted 1 Actors (0.078 secs)
+[2018.01.18-16.50.33:835][395]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (HouseBase_DoorOpen3)
+[2018.01.18-16.50.48:922][478]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (BrickWall_Whole14)
+[2018.01.18-16.50.50:698][562]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (BrickWall_Crumble6)
+[2018.01.18-16.50.54:509][759]LogActorFactory: Actor Factory created House_Damaged1
+[2018.01.18-16.50.54:998][794]LogActorFactory: Actor Factory created House_Damaged1
+[2018.01.18-16.51.25:046][784]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Door_Closed)
+[2018.01.18-16.51.26:287][871]Cmd: DELETE
+[2018.01.18-16.51.26:287][871]Cmd: ACTOR DELETE
+[2018.01.18-16.51.26:341][871]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.01.18-16.51.26:356][871]LogEditorActor: Deleted 1 Actors (0.069 secs)
+[2018.01.18-16.51.27:117][929]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (BrickWall_Crumble20)
+[2018.01.18-16.51.27:682][965]Cmd: DELETE
+[2018.01.18-16.51.27:682][965]Cmd: ACTOR DELETE
+[2018.01.18-16.51.27:733][965]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.01.18-16.51.27:746][965]LogEditorActor: Deleted 1 Actors (0.064 secs)
+[2018.01.18-16.51.30:396][151]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (House_Damaged2)
+[2018.01.18-16.51.32:662][294]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (House_Damaged2)
+[2018.01.18-16.51.34:340][397]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (House_Damaged2)
+[2018.01.18-16.51.39:070][686]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (BrickWall_Crumble25)
+[2018.01.18-16.51.39:947][741]Cmd: DELETE
+[2018.01.18-16.51.39:947][741]Cmd: ACTOR DELETE
+[2018.01.18-16.51.40:000][741]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.01.18-16.51.40:016][741]LogEditorActor: Deleted 1 Actors (0.068 secs)
+[2018.01.18-16.51.40:531][777]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (BrickWall_Whole23)
+[2018.01.18-16.51.40:764][788]Cmd: DELETE
+[2018.01.18-16.51.40:764][788]Cmd: ACTOR DELETE
+[2018.01.18-16.51.40:818][788]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.01.18-16.51.40:832][788]LogEditorActor: Deleted 1 Actors (0.068 secs)
+[2018.01.18-16.51.41:310][821]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (BrickWall_Crumble27)
+[2018.01.18-16.51.41:454][825]Cmd: DELETE
+[2018.01.18-16.51.41:454][825]Cmd: ACTOR DELETE
+[2018.01.18-16.51.41:507][825]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.01.18-16.51.41:521][825]LogEditorActor: Deleted 1 Actors (0.066 secs)
+[2018.01.18-16.51.42:003][858]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (House_Damaged2)
+[2018.01.18-16.51.51:637][469]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (BrickWall_Whole22)
+[2018.01.18-16.51.56:329][772]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (House_Damaged2)
+[2018.01.18-16.51.57:894][862]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (BrickWall_Whole15)
+[2018.01.18-16.51.59:605][953]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (House_Damaged2)
+[2018.01.18-16.52.00:931][ 39]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (BrickWall_Whole6)
+[2018.01.18-16.52.03:756][242]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (House_Damaged2)
+[2018.01.18-16.52.08:044][521]Cmd: TRANSACTION UNDO
+[2018.01.18-16.52.08:044][521]LogEditorTransaction: Undo Move Actors
+[2018.01.18-16.52.10:602][675]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (House_Damaged2)
+[2018.01.18-16.52.18:988][290]Cmd: TRANSACTION UNDO
+[2018.01.18-16.52.18:988][290]LogEditorTransaction: Undo Move Actors
+[2018.01.18-16.52.20:071][359]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2018.01.18-16.52.20:480][385]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (House_Damaged2)
+[2018.01.18-16.52.22:747][527]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (BrickWall_Crumble21)
+[2018.01.18-16.52.24:188][611]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (BrickWall_Whole15)
+[2018.01.18-16.52.24:871][653]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (BrickWall_Whole6)
+[2018.01.18-16.52.31:419][105]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (House_Damaged2)
+[2018.01.18-16.52.47:128][160]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (BrickWall_Crumble5)
+[2018.01.18-16.52.48:613][221]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (BrickWall_Whole5)
+[2018.01.18-16.52.53:122][443]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (BrickWall_Crumble5)
+[2018.01.18-16.53.00:678][900]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (BrickWall_Crumble5)
+[2018.01.18-16.53.07:567][344]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (BrickWall_Whole5)
+[2018.01.18-16.53.09:526][476]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (BrickWall_Crumble5)
+[2018.01.18-16.53.16:284][935]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (BrickWall_Whole5)
+[2018.01.18-16.53.33:797][995]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (BrickWall_Whole5)
+[2018.01.18-16.53.51:105][282]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Scenes/Spiros" FILE="C:/Users/spiros.kessaris/Documents/GitHub/CultOfRaven/Content/Scenes/Spiros.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.01.18-16.53.54:307][282]LogSavePackage: Save=3166.78ms
+[2018.01.18-16.53.54:307][282]LogSavePackage: Moving 'C:/Users/spiros.kessaris/Documents/GitHub/CultOfRaven/Saved/Spiros794095514666A900BE0145B5BFBF4961.tmp' to 'C:/Users/spiros.kessaris/Documents/GitHub/CultOfRaven/Content/Scenes/Spiros.umap'
+[2018.01.18-16.53.54:312][282]LogSavePackage: Display: Finished SavePackage C:/Users/spiros.kessaris/Documents/GitHub/CultOfRaven/Content/Scenes/Spiros.umap
+[2018.01.18-16.53.59:198][657]LogActorFactory: Actor Factory created House_Damaged1
+[2018.01.18-16.53.59:406][668]LogActorFactory: Actor Factory created House_Damaged1
+[2018.01.18-16.54.04:495][ 17]LogActorFactory: Actor Factory created HouseBase_DoorOpen
+[2018.01.18-16.54.04:932][ 49]LogActorFactory: Actor Factory created HouseBase_DoorOpen
+[2018.01.18-16.54.07:808][256]Cmd: DELETE
+[2018.01.18-16.54.07:808][256]Cmd: ACTOR DELETE
+[2018.01.18-16.54.07:861][256]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.01.18-16.54.07:880][256]LogEditorActor: Deleted 1 Actors (0.071 secs)
+[2018.01.18-16.54.08:369][294]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight20)
+[2018.01.18-16.54.08:515][300]Cmd: DELETE
+[2018.01.18-16.54.08:515][300]Cmd: ACTOR DELETE
+[2018.01.18-16.54.08:564][300]LogEditorActor: Deleted Actor: PointLight
+[2018.01.18-16.54.08:576][300]LogEditorActor: Deleted 1 Actors (0.061 secs)
+[2018.01.18-16.54.09:616][389]Cmd: TRANSACTION UNDO
+[2018.01.18-16.54.09:616][389]LogEditorTransaction: Undo Delete Actors
+[2018.01.18-16.54.10:131][412]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (House_Damaged3)
+[2018.01.18-16.54.11:184][478]Cmd: DELETE
+[2018.01.18-16.54.11:184][478]Cmd: ACTOR DELETE
+[2018.01.18-16.54.11:237][478]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.01.18-16.54.11:249][478]LogEditorActor: Deleted 1 Actors (0.065 secs)
+[2018.01.18-16.54.14:106][665]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (BrickWall_Whole14)
+[2018.01.18-16.54.15:554][736]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (BrickWall_Crumble6)
+[2018.01.18-16.54.53:014][378]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (BrickWall_Crumble19)
+[2018.01.18-16.55.35:562][839]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (BrickWall_Whole5)
+[2018.01.18-16.55.45:646][479]LogTemp: Repeating last play command: Selected Viewport
+[2018.01.18-16.55.45:713][479]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Scenes/Spiros.Spiros:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes/Spiros.Spiros:PersistentLevel.Spiros' with GeneratedClass '/Game/Scenes/Spiros.Spiros_C' with ClassGeneratedBy '/Game/Scenes/Spiros.Spiros:PersistentLevel.Spiros'
+[2018.01.18-16.55.45:749][479]LogFMOD: Creating runtime Studio System
+[2018.01.18-16.55.45:751][479]LogFMOD: Default sample rate = 48000
+[2018.01.18-16.55.45:751][479]LogFMOD: System sample rate = 48000
+[2018.01.18-16.55.45:751][479]LogFMOD: Matching system sample rate 48000
+[2018.01.18-16.55.45:785][479]LogFMOD: Loading Banks
+[2018.01.18-16.55.45:828][479]LogFMOD: Error: e:\jk\workspace\1.10_UE4.18_Win64\studio_api\src\fmod_bankmodel.cpp(481) - Failed to open file 'C:/Users/spiros.kessaris/Documents/GitHub/CultOfRaven/Content/FMOD/Desktop/Master Bank.bank'
+
+[2018.01.18-16.55.45:828][479]LogFMOD: Error: e:\jk\workspace\1.10_UE4.18_Win64\studio_api\src\fmod_bankmodel.cpp(481) - Failed to open file 'C:/Users/spiros.kessaris/Documents/GitHub/CultOfRaven/Content/FMOD/Desktop/Master Bank.strings.bank'
+
+[2018.01.18-16.55.45:828][479]LogFMOD: Warning: Failed to bank: C:/Users/spiros.kessaris/Documents/GitHub/CultOfRaven/Content/FMOD/Desktop/Master Bank.bank (File does not exist)
+[2018.01.18-16.55.45:828][479]LogFMOD: Warning: Failed to bank: C:/Users/spiros.kessaris/Documents/GitHub/CultOfRaven/Content/FMOD/Desktop/Master Bank.strings.bank (File does not exist)
+[2018.01.18-16.55.45:828][479]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.18-16.55.45:829][479]PIE: New page: PIE session: Spiros (Jan 18, 2018, 6:55:45 PM)
+[2018.01.18-16.55.45:829][479]LogPlayLevel: Creating play world package: /Game/Scenes/UEDPIE_0_Spiros
+[2018.01.18-16.55.45:962][479]LogPlayLevel: PIE: StaticDuplicateObject took: (0.132474s)
+[2018.01.18-16.55.45:963][479]LogAIModule: Creating AISystem for world Spiros
+[2018.01.18-16.55.45:963][479]LogPlayLevel: PIE: World Init took: (0.001276s)
+[2018.01.18-16.55.45:965][479]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Scenes/Spiros.Spiros to /Game/Scenes/UEDPIE_0_Spiros.Spiros (0.135431s)
+[2018.01.18-16.55.45:989][479]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.01.18-16.55.46:020][479]LogInit: FAudioDevice initialized.
+[2018.01.18-16.55.46:069][479]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.01.18-16.55.46:119][479]LogWorld: Bringing World /Game/Scenes/UEDPIE_0_Spiros.Spiros up for play (max tick rate 0) at 2018.01.18-17.55.46
+[2018.01.18-16.55.46:123][479]LogWorld: Bringing up level for play took: 0.052203
+[2018.01.18-16.55.46:453][479]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 11 classes and 0 folders.
+[2018.01.18-16.55.46:459][479]PIE: Play in editor start time for /Game/Scenes/UEDPIE_0_Spiros 1.302
+[2018.01.18-16.55.46:460][479]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Scenes/Spiros.Spiros:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes/Spiros.Spiros:PersistentLevel.Spiros' with GeneratedClass '/Game/Scenes/Spiros.Spiros_C' with ClassGeneratedBy '/Game/Scenes/Spiros.Spiros:PersistentLevel.Spiros'
+[2018.01.18-16.55.50:159][784]LogBlueprintUserMessages: [Spiros_C_1] 0
+[2018.01.18-16.55.59:782][545]Cmd: LevelEditor.ToggleImmersive
+[2018.01.18-16.55.59:955][546]LogRenderer: Reallocating scene render targets to support 1688x876 Format 10 NumSamples 1 (Frame:1068).
+[2018.01.18-16.56.00:073][547]LogRenderer: Reallocating scene render targets to support 1920x1040 Format 10 NumSamples 1 (Frame:1070).
+[2018.01.18-16.56.03:533][710]LogBlueprintUserMessages: [Spiros_C_1] 0
+[2018.01.18-16.56.14:387][219]LogBlueprintUserMessages: [Spiros_C_1] 14
+[2018.01.18-16.56.14:387][219]PIE: Warning: Trying to simulate physics on ''/Game/Scenes/UEDPIE_0_Spiros.Spiros:PersistentLevel.Floor_3mx3m_geo_197.StaticMeshComponent0'' but it is static.
+[2018.01.18-16.56.14:597][229]PIE: Warning: Invalid Simulate Options: Body (Floor_3mx3m_geo_202.StaticMeshComponent0 Floor_3mx3m_geo_2) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.18-16.56.14:597][229]PIE: Warning: Invalid Simulate Options: Body (Floor_3mx3m_geo_202.StaticMeshComponent0 Floor_3mx3m_geo_2) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.18-16.56.34:938][274]LogBlueprintUserMessages: [Spiros_C_1] 0
+[2018.01.18-16.56.55:141][256]LogBlueprintUserMessages: [Spiros_C_1] 0
+[2018.01.18-16.58.16:347][719]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Scenes/Spiros.Spiros:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes/Spiros.Spiros:PersistentLevel.Spiros' with GeneratedClass '/Game/Scenes/Spiros.Spiros_C' with ClassGeneratedBy '/Game/Scenes/Spiros.Spiros:PersistentLevel.Spiros'
+[2018.01.18-16.58.16:523][719]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Scenes/Spiros.Spiros:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes/Spiros.Spiros:PersistentLevel.Spiros' with GeneratedClass '/Game/Scenes/Spiros.Spiros_C' with ClassGeneratedBy '/Game/Scenes/Spiros.Spiros:PersistentLevel.Spiros'
+[2018.01.18-16.58.16:613][720]Cmd: SELECT NONE
+[2018.01.18-17.00.08:505][952]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (BrickWall_Crumble18)
+[2018.01.18-17.00.09:455][  9]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (BrickWall_Crumble7)
+[2018.01.18-17.00.12:208][159]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Ruin_A3)
+[2018.01.18-17.00.13:214][218]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (BrickWall_Whole25)
+[2018.01.18-17.00.13:949][262]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (BrickWall_Whole19)
+[2018.01.18-17.00.14:764][309]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (BrickWall_Whole24)
+[2018.01.18-17.00.15:298][339]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (BrickWall_Whole21)
+[2018.01.18-17.00.16:047][381]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (BrickWall_Crumble15)
+[2018.01.18-17.00.16:943][434]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (BrickWall_Crumble14)
+[2018.01.18-17.00.18:301][515]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (BrickWall_Whole18)
+[2018.01.18-17.00.19:620][594]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (BrickWall_Crumble18)
+[2018.01.18-17.00.20:573][650]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (BrickWall_Door_Closed)
+[2018.01.18-17.00.23:532][828]Cmd: TRANSACTION UNDO
+[2018.01.18-17.00.23:532][828]LogEditorTransaction: Undo Move Actors
+[2018.01.18-17.00.23:549][828]LogActorComponent: ~FComponentReregisterContext: (/Game/Scenes/Spiros.Spiros:PersistentLevel.BrickWall_Whole24.StaticMeshComponent0) Component already registered.
+[2018.01.18-17.00.23:550][828]LogActorComponent: ~FComponentReregisterContext: (/Game/Scenes/Spiros.Spiros:PersistentLevel.BrickWall_Door_Closed_65.StaticMeshComponent0) Component already registered.
+[2018.01.18-17.00.25:298][931]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (BrickWall_Whole20)
+[2018.01.18-17.00.29:426][139]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (BrickWall_Door_Closed)
+[2018.01.18-17.00.30:124][172]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (BrickWall_Whole16)
+[2018.01.18-17.00.31:059][214]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (BrickWall_Whole16)
+[2018.01.18-17.00.34:175][377]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (BrickWall_Whole30)
+[2018.01.18-17.00.34:997][414]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (BrickWall_Crumble16)
+[2018.01.18-17.00.35:890][457]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (BrickWall_Whole26)
+[2018.01.18-17.00.36:633][492]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (BrickWall_Whole27)
+[2018.01.18-17.00.37:620][539]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (BrickWall_Whole32)
+[2018.01.18-17.00.38:953][603]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (BrickWall_Whole29)
+[2018.01.18-17.00.39:720][639]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (BrickWall_Crumble17)
+[2018.01.18-17.00.40:399][669]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (BrickWall_Whole28)
+[2018.01.18-17.00.43:198][811]Cmd: TRANSACTION UNDO
+[2018.01.18-17.00.43:198][811]LogEditorTransaction: Undo Move Actors
+[2018.01.18-17.00.43:219][811]LogActorComponent: ~FComponentReregisterContext: (/Game/Scenes/Spiros.Spiros:PersistentLevel.BrickWall_Whole18.StaticMeshComponent0) Component already registered.
+[2018.01.18-17.00.43:220][811]LogActorComponent: ~FComponentReregisterContext: (/Game/Scenes/Spiros.Spiros:PersistentLevel.BrickWall_Crumble18.StaticMeshComponent0) Component already registered.
+[2018.01.18-17.00.43:221][811]LogActorComponent: ~FComponentReregisterContext: (/Game/Scenes/Spiros.Spiros:PersistentLevel.BrickWall_Whole28.StaticMeshComponent0) Component already registered.
+[2018.01.18-17.00.43:221][811]LogActorComponent: ~FComponentReregisterContext: (/Game/Scenes/Spiros.Spiros:PersistentLevel.BrickWall_Whole16_68.StaticMeshComponent0) Component already registered.
+[2018.01.18-17.00.44:184][857]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (BrickWall_Whole33)
+[2018.01.18-17.00.45:841][936]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (BrickWall_Whole33)
+[2018.01.18-17.00.47:275][996]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (House_Damaged2)
+[2018.01.18-17.00.47:893][ 13]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (BrickWall_Crumble7)
+[2018.01.18-17.01.22:642][940]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (BrickWall_Whole23)
+[2018.01.18-17.01.23:873][987]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (BrickWall_Whole5)
+[2018.01.18-17.01.25:080][ 34]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (BrickWall_Whole15)
+[2018.01.18-17.01.25:685][ 55]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (BrickWall_Crumble5)
+[2018.01.18-17.01.31:224][269]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (BrickWall_Whole15)
+[2018.01.18-17.01.32:438][317]Cmd: DELETE
+[2018.01.18-17.01.32:439][317]Cmd: ACTOR DELETE
+[2018.01.18-17.01.32:490][317]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.01.18-17.01.32:505][317]LogEditorActor: Deleted 1 Actors (0.066 secs)
+[2018.01.18-17.01.33:309][351]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (BrickWall_Whole6)
+[2018.01.18-17.01.38:879][571]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (BrickWall_Whole5)
+[2018.01.18-17.01.39:873][609]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (BrickWall_Whole23)
+[2018.01.18-17.01.40:693][640]Cmd: DELETE
+[2018.01.18-17.01.40:693][640]Cmd: ACTOR DELETE
+[2018.01.18-17.01.40:744][640]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.01.18-17.01.40:744][640]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.01.18-17.01.40:758][640]LogEditorActor: Deleted 2 Actors (0.065 secs)
+[2018.01.18-17.01.41:628][677]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (BrickWall_Whole6)
+[2018.01.18-17.01.56:959][206]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (BrickWall_Crumble5)
+[2018.01.18-17.02.12:047][825]Cmd: SELECT NONE
+[2018.01.18-17.03.40:438][322]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2018.01.18-17.03.41:165][366]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2018.01.18-17.03.41:770][401]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2018.01.18-17.03.42:362][435]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2018.01.18-17.03.42:937][468]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2018.01.18-17.03.43:213][482]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2018.01.18-17.03.45:264][590]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight27)
+[2018.01.18-17.03.47:672][715]LogEditorViewport: Clicking on Actor (CTRL LMB): PointLight (PointLight25)
+[2018.01.18-17.03.48:581][771]LogEditorViewport: Clicking on Actor (CTRL LMB): PointLight (PointLight24)
+[2018.01.18-17.03.49:887][853]LogEditorViewport: Clicking on Actor (CTRL LMB): PointLight (PointLight29)
+[2018.01.18-17.03.53:773][ 97]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Cliff_8)
+[2018.01.18-17.03.56:446][233]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2018.01.18-17.03.58:338][330]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Cliff_8)
+[2018.01.18-17.04.21:643][370]Cmd: ACTOR HIDE SELECTED
+[2018.01.18-17.04.29:715][774]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Cliff_11)
+[2018.01.18-17.04.30:452][812]Cmd: DELETE
+[2018.01.18-17.04.30:453][812]Cmd: ACTOR DELETE
+[2018.01.18-17.04.30:505][812]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.01.18-17.04.30:519][812]LogEditorActor: Deleted 1 Actors (0.067 secs)
+[2018.01.18-17.04.31:007][841]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Cliff_10)
+[2018.01.18-17.04.31:109][842]Cmd: DELETE
+[2018.01.18-17.04.31:109][842]Cmd: ACTOR DELETE
+[2018.01.18-17.04.31:161][842]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.01.18-17.04.31:175][842]LogEditorActor: Deleted 1 Actors (0.066 secs)
+[2018.01.18-17.04.33:642][989]Cmd: STAT FPS
+[2018.01.18-17.04.36:235][139]Cmd: ACTOR UNHIDE ALL
+[2018.01.18-17.04.39:297][312]Cmd: ACTOR HIDE SELECTED
+[2018.01.18-17.04.40:216][364]Cmd: ACTOR HIDE SELECTED
+[2018.01.18-17.06.21:868][835]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Scenes/Spiros" FILE="C:/Users/spiros.kessaris/Documents/GitHub/CultOfRaven/Saved/Autosaves/Game/Scenes/Spiros_Auto2.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2018.01.18-17.06.25:068][835]LogSavePackage: Save=3175.45ms
+[2018.01.18-17.06.25:068][835]LogSavePackage: Moving 'C:/Users/spiros.kessaris/Documents/GitHub/CultOfRaven/Saved/Spiros_Auto2D44049414C062A8DD8C92CBABAB4D67A.tmp' to 'C:/Users/spiros.kessaris/Documents/GitHub/CultOfRaven/Saved/Autosaves/Game/Scenes/Spiros_Auto2.umap'
+[2018.01.18-17.06.25:071][835]LogSavePackage: Display: Finished SavePackage C:/Users/spiros.kessaris/Documents/GitHub/CultOfRaven/Saved/Autosaves/Game/Scenes/Spiros_Auto2.umap
+[2018.01.18-17.06.25:076][835]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Scenes/Spiros' took 3.223
+[2018.01.18-17.06.25:077][835]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 3.223
+[2018.01.18-17.10.49:736][900]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (BrickWall_Crumble7)
+[2018.01.18-17.10.50:634][940]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (BrickWall_Crumble20)
+[2018.01.18-17.10.51:059][957]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallBeam_Rounded4)
+[2018.01.18-17.13.15:743][262]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (BrickWall_Crumble23)
+[2018.01.18-17.13.16:831][299]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (House_Damaged2)
+[2018.01.18-17.13.17:932][336]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (BrickWall_Crumble18)
+[2018.01.18-17.13.30:611][774]Cmd: SELECT NONE
+[2018.01.18-17.16.25:199][ 98]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Scenes/Spiros" FILE="C:/Users/spiros.kessaris/Documents/GitHub/CultOfRaven/Saved/Autosaves/Game/Scenes/Spiros_Auto3.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2018.01.18-17.16.28:376][ 98]LogSavePackage: Save=3155.70ms
+[2018.01.18-17.16.28:376][ 98]LogSavePackage: Moving 'C:/Users/spiros.kessaris/Documents/GitHub/CultOfRaven/Saved/Spiros_Auto3BB09F5F745D001CDBC396CBE7EF789A4.tmp' to 'C:/Users/spiros.kessaris/Documents/GitHub/CultOfRaven/Saved/Autosaves/Game/Scenes/Spiros_Auto3.umap'
+[2018.01.18-17.16.28:388][ 98]LogSavePackage: Display: Finished SavePackage C:/Users/spiros.kessaris/Documents/GitHub/CultOfRaven/Saved/Autosaves/Game/Scenes/Spiros_Auto3.umap
+[2018.01.18-17.16.28:391][ 98]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Scenes/Spiros' took 3.209
+[2018.01.18-17.16.28:391][ 98]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 3.209
+[2018.01.18-17.21.07:033][870]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (TowerWall_Deco11)
+[2018.01.18-17.21.07:446][871]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2018.01.18-17.21.07:983][904]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (TowerWall_200x406)
+[2018.01.18-17.21.08:094][905]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2018.01.18-17.21.21:897][771]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Pillar_Double30)
+[2018.01.18-17.21.22:688][811]LogEditorViewport: Clicking on Actor (LMB): LightmassImportanceVolume (LightmassImportanceVolume2)
+[2018.01.18-17.21.23:282][811]LogEditorViewport: Clicking on Actor (double click): LightmassImportanceVolume (LightmassImportanceVolume2)
+[2018.01.18-17.21.25:334][921]Cmd: ACTOR SELECT MATCHINGSTATICMESH ALLCLASSES
+[2018.01.18-17.21.25:336][921]LogEditorActor: No worlds found in edactSelectMatchingStaticMesh
+[2018.01.18-17.21.25:851][950]LogEditorViewport: Clicking Background
+[2018.01.18-17.21.27:381][ 41]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Pillar_400tall33)
+[2018.01.18-17.21.33:325][296]Cmd: ACTOR SELECT MATCHINGSTATICMESH ALLCLASSES
+[2018.01.18-17.21.36:315][456]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Pillar_Double107)
+[2018.01.18-17.21.42:395][679]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.01.18-17.21.49:772][814]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Scenes/Spiros" FILE="C:/Users/spiros.kessaris/Documents/GitHub/CultOfRaven/Content/Scenes/Spiros.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.01.18-17.21.52:947][814]LogSavePackage: Save=3147.15ms
+[2018.01.18-17.21.52:947][814]LogSavePackage: Moving 'C:/Users/spiros.kessaris/Documents/GitHub/CultOfRaven/Saved/Spiros58C891244E35757E0C807DB68FD0202D.tmp' to 'C:/Users/spiros.kessaris/Documents/GitHub/CultOfRaven/Content/Scenes/Spiros.umap'
+[2018.01.18-17.21.52:953][814]LogSavePackage: Display: Finished SavePackage C:/Users/spiros.kessaris/Documents/GitHub/CultOfRaven/Content/Scenes/Spiros.umap
+[2018.01.18-17.21.52:987][814]LogFileHelpers: Saving map 'Spiros' took 3.288
+[2018.01.18-17.22.46:301][449]LogEditorViewport: Clicking on Actor (context menu): LightmassImportanceVolume (LightmassImportanceVolume)
+[2018.01.18-17.22.48:922][449]Cmd: SELECT NONE
+[2018.01.18-17.22.48:923][449]Cmd: SELECT NONE
+[2018.01.18-17.23.03:043][ 48]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (TowerWall_200x289)
+[2018.01.18-17.23.26:717][955]Cmd: ACTOR UNHIDE ALL
+[2018.01.18-17.23.31:209][ 40]LogEditorViewport: Clicking on Actor (LMB): LightmassImportanceVolume (LightmassImportanceVolume2)
+[2018.01.18-17.23.55:557][ 97]Cmd: DELETE
+[2018.01.18-17.23.55:557][ 97]Cmd: ACTOR DELETE
+[2018.01.18-17.23.55:610][ 97]LogEditorActor: Deleted Actor: Brush
+[2018.01.18-17.23.55:636][ 97]LogEditorActor: Deleted 1 Actors (0.078 secs)
+[2018.01.18-17.23.57:262][175]Cmd: DELETE
+[2018.01.18-17.23.57:262][175]Cmd: ACTOR DELETE
+[2018.01.18-17.23.57:314][175]LogEditorActor: Deleted Actor: Brush
+[2018.01.18-17.23.57:339][175]LogEditorActor: Deleted 1 Actors (0.077 secs)
+[2018.01.18-17.24.18:079][240]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Ravenskull3)
+[2018.01.18-17.24.35:907][472]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2018.01.18-17.24.37:180][526]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Door_Closed2)
+[2018.01.18-17.24.38:721][598]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (BrickWall_Crumble14)
+[2018.01.18-17.25.13:640][703]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (TowerWall_200x406)
+[2018.01.18-17.25.46:054][916]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_plain159)
+[2018.01.18-17.26.01:003][461]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (BrickWall_Crumble3)
+[2018.01.18-17.26.02:409][549]Cmd: DELETE
+[2018.01.18-17.26.02:409][549]Cmd: ACTOR DELETE
+[2018.01.18-17.26.02:464][549]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.01.18-17.26.02:465][549]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.01.18-17.26.02:465][549]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.01.18-17.26.02:465][549]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.01.18-17.26.02:465][549]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.01.18-17.26.02:479][549]LogEditorActor: Deleted 5 Actors (0.069 secs)
+[2018.01.18-17.26.03:152][596]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (BrickWall_Whole)
+[2018.01.18-17.26.03:770][631]Cmd: DELETE
+[2018.01.18-17.26.03:770][631]Cmd: ACTOR DELETE
+[2018.01.18-17.26.03:826][631]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.01.18-17.26.03:827][631]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.01.18-17.26.03:827][631]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.01.18-17.26.03:827][631]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.01.18-17.26.03:827][631]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.01.18-17.26.03:842][631]LogEditorActor: Deleted 5 Actors (0.072 secs)
+[2018.01.18-17.26.04:563][682]LogEditorViewport: Clicking on Actor (LMB): LightmassImportanceVolume (LightmassImportanceVolume2)
+[2018.01.18-17.26.07:680][725]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (HouseBase_DoorOpen)
+[2018.01.18-17.26.08:579][772]Cmd: DELETE
+[2018.01.18-17.26.08:579][772]Cmd: ACTOR DELETE
+[2018.01.18-17.26.08:632][772]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.01.18-17.26.08:648][772]LogEditorActor: Deleted 1 Actors (0.068 secs)
+[2018.01.18-17.26.09:168][808]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (BrickWall_Crumble18)
+[2018.01.18-17.26.10:101][864]Cmd: DELETE
+[2018.01.18-17.26.10:101][864]Cmd: ACTOR DELETE
+[2018.01.18-17.26.10:160][864]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.01.18-17.26.10:160][864]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.01.18-17.26.10:160][864]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.01.18-17.26.10:160][864]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.01.18-17.26.10:160][864]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.01.18-17.26.10:160][864]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.01.18-17.26.10:160][864]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.01.18-17.26.10:161][864]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.01.18-17.26.10:161][864]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.01.18-17.26.10:161][864]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.01.18-17.26.10:161][864]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.01.18-17.26.10:161][864]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.01.18-17.26.10:161][864]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.01.18-17.26.10:161][864]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.01.18-17.26.10:161][864]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.01.18-17.26.10:161][864]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.01.18-17.26.10:161][864]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.01.18-17.26.10:161][864]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.01.18-17.26.10:161][864]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.01.18-17.26.10:161][864]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.01.18-17.26.10:161][864]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.01.18-17.26.10:162][864]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.01.18-17.26.10:176][864]LogEditorActor: Deleted 22 Actors (0.074 secs)
+[2018.01.18-17.26.11:200][940]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (BrickWall_Crumble30)
+[2018.01.18-17.26.54:386][757]LogTexture: Display: Building textures: Texture2D_2 (G8, 128X128)
+[2018.01.18-17.29.35:997][625]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_plain161)
+[2018.01.18-17.30.00:765][496]Cmd: SELECT NONE
+[2018.01.18-17.30.02:956][496]Cmd: SELECT NONE
+[2018.01.18-17.30.02:972][496]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2018.01.18-17.30.03:096][499]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2018.01.18-17.30.04:348][562]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Ravenskull3)
+[2018.01.18-17.30.32:757][144]Cmd: CLOSE_SLATE_MAINFRAME
+[2018.01.18-17.30.34:935][145]Cmd: QUIT_EDITOR
+[2018.01.18-17.30.35:702][145]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.01.18-17.30.35:719][145]LogExit: Preparing to exit.
+[2018.01.18-17.30.36:854][145]LogExit: Editor shut down
+[2018.01.18-17.30.36:867][145]LogExit: Transaction tracking system shut down
+[2018.01.18-17.30.37:052][145]LogDirectoryWatcher: A directory notification for '../../../Engine/Content/' was aborted.
+[2018.01.18-17.30.37:052][145]LogDirectoryWatcher: A directory notification for 'C:/Users/spiros.kessaris/Documents/GitHub/CultOfRaven/Content/' was aborted.
+[2018.01.18-17.30.37:052][145]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/2D/Paper2D/Content/' was aborted.
+[2018.01.18-17.30.37:052][145]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/FMODStudio/Content/' was aborted.
+[2018.01.18-17.30.37:052][145]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Media/MediaCompositing/Content/' was aborted.
+[2018.01.18-17.30.37:052][145]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/AppleARKit/Content/' was aborted.
+[2018.01.18-17.30.37:052][145]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/' was aborted.
+[2018.01.18-17.30.37:052][145]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/Steam/SteamVR/Content/' was aborted.
+[2018.01.18-17.30.37:133][145]LogExit: Object subsystem successfully closed.
+[2018.01.18-17.30.37:158][145]LogD3D11RHI: Shutdown
+[2018.01.18-17.30.37:158][145]LogD3D11RHI: CleanupD3DDevice
+[2018.01.18-17.30.37:163][145]LogD3D11RHI: ~FD3D11DynamicRHI
+[2018.01.18-17.30.37:171][145]LogModuleManager: Shutting down and abandoning module StaticMeshEditor (558)
+[2018.01.18-17.30.37:171][145]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (556)
+[2018.01.18-17.30.37:171][145]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (554)
+[2018.01.18-17.30.37:171][145]LogModuleManager: Shutting down and abandoning module ExternalImagePicker (552)
+[2018.01.18-17.30.37:171][145]LogModuleManager: Shutting down and abandoning module SceneOutliner (550)
+[2018.01.18-17.30.37:171][145]LogModuleManager: Shutting down and abandoning module AddContentDialog (548)
+[2018.01.18-17.30.37:171][145]LogDirectoryWatcher: A directory notification for 'D:/Unreal Engine/UE_4.18/FeaturePacks/' was aborted.
+[2018.01.18-17.30.37:175][145]LogModuleManager: Shutting down and abandoning module WidgetCarousel (547)
+[2018.01.18-17.30.37:175][145]LogModuleManager: Shutting down and abandoning module EditorWidgets (544)
+[2018.01.18-17.30.37:175][145]LogModuleManager: Shutting down and abandoning module CollectionManager (542)
+[2018.01.18-17.30.37:175][145]LogDirectoryWatcher: A directory notification for 'C:/Users/spiros.kessaris/Documents/GitHub/CultOfRaven/Content/Collections/' was aborted.
+[2018.01.18-17.30.37:175][145]LogDirectoryWatcher: A directory notification for 'C:/Users/spiros.kessaris/Documents/GitHub/CultOfRaven/Content/Developers/spiroskessaris/Collections/' was aborted.
+[2018.01.18-17.30.37:175][145]LogDirectoryWatcher: A directory notification for 'C:/Users/spiros.kessaris/Documents/GitHub/CultOfRaven/Saved/Collections/' was aborted.
+[2018.01.18-17.30.37:175][145]LogModuleManager: Shutting down and abandoning module StatsViewer (540)
+[2018.01.18-17.30.37:175][145]LogModuleManager: Shutting down and abandoning module FoliageEdit (538)
+[2018.01.18-17.30.37:176][145]LogModuleManager: Shutting down and abandoning module LandscapeEditor (536)
+[2018.01.18-17.30.37:176][145]LogModuleManager: Shutting down and abandoning module MeshPaintMode (534)
+[2018.01.18-17.30.37:176][145]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (532)
+[2018.01.18-17.30.37:176][145]LogModuleManager: Shutting down and abandoning module ActorPickerMode (530)
+[2018.01.18-17.30.37:176][145]LogModuleManager: Shutting down and abandoning module GeometryMode (528)
+[2018.01.18-17.30.37:176][145]LogModuleManager: Shutting down and abandoning module TextureAlignMode (526)
+[2018.01.18-17.30.37:176][145]LogModuleManager: Shutting down and abandoning module BspMode (524)
+[2018.01.18-17.30.37:176][145]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (522)
+[2018.01.18-17.30.37:176][145]LogModuleManager: Shutting down and abandoning module HardwareSurvey (520)
+[2018.01.18-17.30.37:176][145]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (518)
+[2018.01.18-17.30.37:176][145]LogModuleManager: Shutting down and abandoning module AutomationWorker (516)
+[2018.01.18-17.30.37:176][145]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (514)
+[2018.01.18-17.30.37:176][145]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (512)
+[2018.01.18-17.30.37:176][145]LogModuleManager: Shutting down and abandoning module PlacementMode (511)
+[2018.01.18-17.30.37:177][145]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (508)
+[2018.01.18-17.30.37:177][145]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (506)
+[2018.01.18-17.30.37:177][145]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (504)
+[2018.01.18-17.30.37:177][145]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (502)
+[2018.01.18-17.30.37:177][145]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (500)
+[2018.01.18-17.30.37:177][145]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (498)
+[2018.01.18-17.30.37:177][145]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (496)
+[2018.01.18-17.30.37:177][145]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (494)
+[2018.01.18-17.30.37:177][145]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (492)
+[2018.01.18-17.30.37:177][145]LogModuleManager: Shutting down and abandoning module CharacterAI (490)
+[2018.01.18-17.30.37:177][145]LogModuleManager: Shutting down and abandoning module AudioCapture (488)
+[2018.01.18-17.30.37:177][145]LogModuleManager: Shutting down and abandoning module SequenceRecorder (487)
+[2018.01.18-17.30.37:177][145]LogModuleManager: Shutting down and abandoning module SmartSnapping (484)
+[2018.01.18-17.30.37:177][145]LogModuleManager: Shutting down and abandoning module SessionServices (482)
+[2018.01.18-17.30.37:177][145]LogModuleManager: Shutting down and abandoning module ViewportSnapping (480)
+[2018.01.18-17.30.37:177][145]LogModuleManager: Shutting down and abandoning module ViewportInteraction (478)
+[2018.01.18-17.30.37:177][145]LogModuleManager: Shutting down and abandoning module ClothPainter (476)
+[2018.01.18-17.30.37:177][145]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (475)
+[2018.01.18-17.30.37:177][145]LogModuleManager: Shutting down and abandoning module LogVisualizer (472)
+[2018.01.18-17.30.37:177][145]LogModuleManager: Shutting down and abandoning module IntroTutorials (470)
+[2018.01.18-17.30.37:177][145]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (469)
+[2018.01.18-17.30.37:177][145]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (466)
+[2018.01.18-17.30.37:177][145]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (464)
+[2018.01.18-17.30.37:177][145]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (462)
+[2018.01.18-17.30.37:177][145]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (461)
+[2018.01.18-17.30.38:023][145]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (458)
+[2018.01.18-17.30.38:023][145]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (456)
+[2018.01.18-17.30.38:023][145]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (454)
+[2018.01.18-17.30.38:023][145]LogModuleManager: Shutting down and abandoning module InputBindingEditor (452)
+[2018.01.18-17.30.38:023][145]LogModuleManager: Shutting down and abandoning module MergeActors (450)
+[2018.01.18-17.30.38:023][145]LogModuleManager: Shutting down and abandoning module SizeMap (448)
+[2018.01.18-17.30.38:023][145]LogModuleManager: Shutting down and abandoning module TreeMap (446)
+[2018.01.18-17.30.38:023][145]LogModuleManager: Shutting down and abandoning module ReferenceViewer (444)
+[2018.01.18-17.30.38:023][145]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (442)
+[2018.01.18-17.30.38:023][145]LogModuleManager: Shutting down and abandoning module LocalizationService (441)
+[2018.01.18-17.30.38:023][145]LogModuleManager: Shutting down and abandoning module HardwareTargeting (438)
+[2018.01.18-17.30.38:023][145]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (436)
+[2018.01.18-17.30.38:023][145]LogModuleManager: Shutting down and abandoning module UndoHistory (434)
+[2018.01.18-17.30.38:023][145]LogModuleManager: Shutting down and abandoning module XmlParser (432)
+[2018.01.18-17.30.38:023][145]LogModuleManager: Shutting down and abandoning module Blutility (430)
+[2018.01.18-17.30.38:023][145]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (428)
+[2018.01.18-17.30.38:024][145]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (427)
+[2018.01.18-17.30.38:024][145]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (424)
+[2018.01.18-17.30.38:024][145]LogModuleManager: Shutting down and abandoning module SettingsEditor (422)
+[2018.01.18-17.30.38:024][145]LogModuleManager: Shutting down and abandoning module ProjectLauncher (420)
+[2018.01.18-17.30.38:024][145]LogModuleManager: Shutting down and abandoning module SessionFrontend (418)
+[2018.01.18-17.30.38:024][145]LogModuleManager: Shutting down and abandoning module ProfilerClient (416)
+[2018.01.18-17.30.38:024][145]LogModuleManager: Shutting down and abandoning module DeviceManager (414)
+[2018.01.18-17.30.38:024][145]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (413)
+[2018.01.18-17.30.38:067][145]LogModuleManager: Shutting down and abandoning module AutomationController (410)
+[2018.01.18-17.30.38:067][145]LogModuleManager: Shutting down and abandoning module AutomationWindow (408)
+[2018.01.18-17.30.38:067][145]LogModuleManager: Shutting down and abandoning module Layers (406)
+[2018.01.18-17.30.38:067][145]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (404)
+[2018.01.18-17.30.38:067][145]LogModuleManager: Shutting down and abandoning module DetailCustomizations (402)
+[2018.01.18-17.30.38:067][145]LogModuleManager: Shutting down and abandoning module PackagesDialog (400)
+[2018.01.18-17.30.38:067][145]LogModuleManager: Shutting down and abandoning module Persona (398)
+[2018.01.18-17.30.38:067][145]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (397)
+[2018.01.18-17.30.38:067][145]LogModuleManager: Shutting down and abandoning module AnimGraph (395)
+[2018.01.18-17.30.38:067][145]LogModuleManager: Shutting down and abandoning module Kismet (392)
+[2018.01.18-17.30.38:068][145]LogModuleManager: Shutting down and abandoning module ClassViewer (390)
+[2018.01.18-17.30.38:068][145]LogModuleManager: Shutting down and abandoning module Toolbox (388)
+[2018.01.18-17.30.38:068][145]LogModuleManager: Shutting down and abandoning module ModuleUI (386)
+[2018.01.18-17.30.38:068][145]LogModuleManager: Shutting down and abandoning module MovieSceneTools (384)
+[2018.01.18-17.30.38:068][145]LogModuleManager: Shutting down and abandoning module OutputLog (382)
+[2018.01.18-17.30.38:068][145]LogModuleManager: Shutting down and abandoning module GammaUI (380)
+[2018.01.18-17.30.38:068][145]LogModuleManager: Shutting down and abandoning module Documentation (378)
+[2018.01.18-17.30.38:068][145]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (376)
+[2018.01.18-17.30.38:068][145]LogModuleManager: Shutting down and abandoning module MovieScene (374)
+[2018.01.18-17.30.38:068][145]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (372)
+[2018.01.18-17.30.38:068][145]LogModuleManager: Shutting down and abandoning module LauncherPlatform (370)
+[2018.01.18-17.30.38:068][145]LogModuleManager: Shutting down and abandoning module AnalyticsET (368)
+[2018.01.18-17.30.38:068][145]LogModuleManager: Shutting down and abandoning module PortalServices (366)
+[2018.01.18-17.30.38:068][145]LogModuleManager: Shutting down and abandoning module PortalRpc (364)
+[2018.01.18-17.30.38:068][145]LogModuleManager: Shutting down and abandoning module MessagingRpc (362)
+[2018.01.18-17.30.38:068][145]LogModuleManager: Shutting down and abandoning module AIModule (360)
+[2018.01.18-17.30.38:068][145]LogModuleManager: Shutting down and abandoning module GameplayDebugger (359)
+[2018.01.18-17.30.38:069][145]LogModuleManager: Shutting down and abandoning module AITestSuite (357)
+[2018.01.18-17.30.38:069][145]LogModuleManager: Shutting down and abandoning module DesktopPlatform (354)
+[2018.01.18-17.30.38:069][145]LogModuleManager: Shutting down and abandoning module ProfilerService (352)
+[2018.01.18-17.30.38:210][145]LogModuleManager: Shutting down and abandoning module TaskGraph (350)
+[2018.01.18-17.30.38:210][145]LogModuleManager: Shutting down and abandoning module SteamVRController (348)
+[2018.01.18-17.30.38:210][145]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (346)
+[2018.01.18-17.30.38:210][145]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (344)
+[2018.01.18-17.30.38:210][145]LogModuleManager: Shutting down and abandoning module OculusInput (342)
+[2018.01.18-17.30.38:210][145]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (340)
+[2018.01.18-17.30.38:210][145]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (338)
+[2018.01.18-17.30.38:210][145]LogModuleManager: Shutting down and abandoning module CableComponent (336)
+[2018.01.18-17.30.38:210][145]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (334)
+[2018.01.18-17.30.38:210][145]LogModuleManager: Shutting down and abandoning module AndroidPermission (332)
+[2018.01.18-17.30.38:211][145]LogModuleManager: Shutting down and abandoning module ActorSequence (328)
+[2018.01.18-17.30.38:211][145]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (326)
+[2018.01.18-17.30.38:211][145]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (324)
+[2018.01.18-17.30.38:211][145]LogModuleManager: Shutting down and abandoning module MediaCompositing (322)
+[2018.01.18-17.30.38:211][145]LogModuleManager: Shutting down and abandoning module FMODStudioEditor (320)
+[2018.01.18-17.30.38:211][145]LogModuleManager: Shutting down and abandoning module HTML5Networking (318)
+[2018.01.18-17.30.38:211][145]LogModuleManager: Shutting down and abandoning module AlembicImporter (316)
+[2018.01.18-17.30.38:211][145]LogModuleManager: Shutting down and abandoning module AlembicLibrary (315)
+[2018.01.18-17.30.38:211][145]LogModuleManager: Shutting down and abandoning module GeometryCache (314)
+[2018.01.18-17.30.38:211][145]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (313)
+[2018.01.18-17.30.38:211][145]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (308)
+[2018.01.18-17.30.38:211][145]LogModuleManager: Shutting down and abandoning module PluginBrowser (306)
+[2018.01.18-17.30.38:211][145]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (304)
+[2018.01.18-17.30.38:211][145]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (302)
+[2018.01.18-17.30.38:211][145]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (300)
+[2018.01.18-17.30.38:211][145]LogModuleManager: Shutting down and abandoning module UObjectPlugin (298)
+[2018.01.18-17.30.38:211][145]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (296)
+[2018.01.18-17.30.38:211][145]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (294)
+[2018.01.18-17.30.38:211][145]LogModuleManager: Shutting down and abandoning module GitSourceControl (292)
+[2018.01.18-17.30.38:211][145]LogModuleManager: Shutting down and abandoning module SourceControl (291)
+[2018.01.18-17.30.38:211][145]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (288)
+[2018.01.18-17.30.38:211][145]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (286)
+[2018.01.18-17.30.38:211][145]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (284)
+[2018.01.18-17.30.38:211][145]LogModuleManager: Shutting down and abandoning module Paper2DEditor (282)
+[2018.01.18-17.30.38:211][145]LogModuleManager: Shutting down and abandoning module MeshPaint (281)
+[2018.01.18-17.30.38:211][145]LogModuleManager: Shutting down and abandoning module LevelEditor (279)
+[2018.01.18-17.30.38:212][145]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (278)
+[2018.01.18-17.30.38:212][145]LogModuleManager: Shutting down and abandoning module MainFrame (276)
+[2018.01.18-17.30.38:212][145]LogModuleManager: Shutting down and abandoning module HotReload (275)
+[2018.01.18-17.30.38:213][145]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (270)
+[2018.01.18-17.30.38:213][145]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (268)
+[2018.01.18-17.30.38:213][145]LogModuleManager: Shutting down and abandoning module PhysXVehicles (266)
+[2018.01.18-17.30.38:213][145]LogModuleManager: Shutting down and abandoning module OculusEditor (264)
+[2018.01.18-17.30.38:213][145]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (262)
+[2018.01.18-17.30.38:213][145]LogModuleManager: Shutting down and abandoning module ImmediatePhysicsEditor (260)
+[2018.01.18-17.30.38:213][145]LogModuleManager: Shutting down and abandoning module ImmediatePhysics (258)
+[2018.01.18-17.30.38:213][145]LogModuleManager: Shutting down and abandoning module UdpMessaging (256)
+[2018.01.18-17.30.38:314][145]LogModuleManager: Shutting down and abandoning module TcpMessaging (254)
+[2018.01.18-17.30.38:414][145]LogModuleManager: Shutting down and abandoning module FMODStudio (252)
+[2018.01.18-17.30.38:600][145]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (250)
+[2018.01.18-17.30.38:600][145]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (248)
+[2018.01.18-17.30.38:600][145]LogModuleManager: Shutting down and abandoning module FacialAnimation (246)
+[2018.01.18-17.30.38:600][145]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (244)
+[2018.01.18-17.30.38:600][145]LogModuleManager: Shutting down and abandoning module GraphEditor (243)
+[2018.01.18-17.30.38:600][145]LogModuleManager: Shutting down and abandoning module ContentBrowser (241)
+[2018.01.18-17.30.38:601][145]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (238)
+[2018.01.18-17.30.38:601][145]LogModuleManager: Shutting down and abandoning module Paper2D (236)
+[2018.01.18-17.30.38:601][145]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (234)
+[2018.01.18-17.30.38:601][145]LogModuleManager: Shutting down and abandoning module WmfMedia (232)
+[2018.01.18-17.30.38:603][145]LogModuleManager: Shutting down and abandoning module ImgMedia (230)
+[2018.01.18-17.30.38:603][145]LogModuleManager: Shutting down and abandoning module PacketHandler (228)
+[2018.01.18-17.30.38:603][145]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (226)
+[2018.01.18-17.30.38:603][145]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (224)
+[2018.01.18-17.30.38:603][145]LogModuleManager: Shutting down and abandoning module MediaAssets (222)
+[2018.01.18-17.30.38:603][145]LogModuleManager: Shutting down and abandoning module Media (221)
+[2018.01.18-17.30.38:609][145]LogModuleManager: Shutting down and abandoning module Overlay (218)
+[2018.01.18-17.30.38:609][145]LogModuleManager: Shutting down and abandoning module OverlayEditor (217)
+[2018.01.18-17.30.38:609][145]LogModuleManager: Shutting down and abandoning module VREditor (214)
+[2018.01.18-17.30.38:609][145]LogModuleManager: Shutting down and abandoning module StringTableEditor (212)
+[2018.01.18-17.30.38:609][145]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (210)
+[2018.01.18-17.30.38:609][145]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (208)
+[2018.01.18-17.30.38:609][145]LogModuleManager: Shutting down and abandoning module FunctionalTesting (206)
+[2018.01.18-17.30.38:609][145]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (204)
+[2018.01.18-17.30.38:609][145]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (203)
+[2018.01.18-17.30.38:609][145]LogModuleManager: Shutting down and abandoning module UMG (200)
+[2018.01.18-17.30.38:609][145]LogModuleManager: Shutting down and abandoning module UMGEditor (199)
+[2018.01.18-17.30.38:609][145]LogModuleManager: Shutting down and abandoning module Sequencer (198)
+[2018.01.18-17.30.38:609][145]LogModuleManager: Shutting down and abandoning module MessageLog (195)
+[2018.01.18-17.30.38:609][145]LogModuleManager: Shutting down and abandoning module SlateReflector (190)
+[2018.01.18-17.30.38:609][145]LogModuleManager: Shutting down and abandoning module Slate (188)
+[2018.01.18-17.30.38:609][145]LogModuleManager: Shutting down and abandoning module EditorStyle (186)
+[2018.01.18-17.30.38:611][145]LogModuleManager: Shutting down and abandoning module MRMesh (184)
+[2018.01.18-17.30.38:611][145]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (182)
+[2018.01.18-17.30.38:612][145]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (180)
+[2018.01.18-17.30.38:612][145]LogModuleManager: Shutting down and abandoning module XAudio2 (178)
+[2018.01.18-17.30.38:612][145]LogModuleManager: Shutting down and abandoning module Networking (176)
+[2018.01.18-17.30.38:612][145]LogModuleManager: Shutting down and abandoning module Core (172)
+[2018.01.18-17.30.38:612][145]LogModuleManager: Shutting down and abandoning module LevelSequence (168)
+[2018.01.18-17.30.38:612][145]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (166)
+[2018.01.18-17.30.38:613][145]LogModuleManager: Shutting down and abandoning module KismetCompiler (164)
+[2018.01.18-17.30.38:613][145]LogModuleManager: Shutting down and abandoning module MeshUtilities (162)
+[2018.01.18-17.30.38:613][145]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (161)
+[2018.01.18-17.30.38:613][145]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (160)
+[2018.01.18-17.30.38:613][145]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (159)
+[2018.01.18-17.30.38:613][145]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (157)
+[2018.01.18-17.30.38:613][145]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (155)
+[2018.01.18-17.30.38:613][145]LogModuleManager: Shutting down and abandoning module MaterialBaking (151)
+[2018.01.18-17.30.38:613][145]LogModuleManager: Shutting down and abandoning module DerivedDataCache (148)
+[2018.01.18-17.30.38:635][145]LogDerivedDataCache: Shutdown
+[2018.01.18-17.30.38:635][145]LogModuleManager: Shutting down and abandoning module TargetPlatform (146)
+[2018.01.18-17.30.38:635][145]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (145)
+[2018.01.18-17.30.38:635][145]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (143)
+[2018.01.18-17.30.38:635][145]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (141)
+[2018.01.18-17.30.38:635][145]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (139)
+[2018.01.18-17.30.38:635][145]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (137)
+[2018.01.18-17.30.38:635][145]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (135)
+[2018.01.18-17.30.38:635][145]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (133)
+[2018.01.18-17.30.38:635][145]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (131)
+[2018.01.18-17.30.38:635][145]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (129)
+[2018.01.18-17.30.38:635][145]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (127)
+[2018.01.18-17.30.38:635][145]LogModuleManager: Shutting down and abandoning module ImageWrapper (126)
+[2018.01.18-17.30.38:635][145]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (123)
+[2018.01.18-17.30.38:635][145]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (121)
+[2018.01.18-17.30.38:635][145]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (119)
+[2018.01.18-17.30.38:635][145]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (117)
+[2018.01.18-17.30.38:635][145]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (115)
+[2018.01.18-17.30.38:635][145]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (113)
+[2018.01.18-17.30.38:635][145]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (111)
+[2018.01.18-17.30.38:635][145]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (109)
+[2018.01.18-17.30.38:635][145]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (107)
+[2018.01.18-17.30.38:635][145]LogModuleManager: Shutting down and abandoning module Messaging (105)
+[2018.01.18-17.30.38:636][145]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (103)
+[2018.01.18-17.30.38:636][145]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (101)
+[2018.01.18-17.30.38:636][145]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (99)
+[2018.01.18-17.30.38:636][145]LogModuleManager: Shutting down and abandoning module Android_PVRTCTargetPlatform (97)
+[2018.01.18-17.30.38:636][145]LogModuleManager: Shutting down and abandoning module Android_MultiTargetPlatform (95)
+[2018.01.18-17.30.38:636][145]LogModuleManager: Shutting down and abandoning module Android_ETC2TargetPlatform (93)
+[2018.01.18-17.30.38:636][145]LogModuleManager: Shutting down and abandoning module Android_ETC1TargetPlatform (91)
+[2018.01.18-17.30.38:636][145]LogModuleManager: Shutting down and abandoning module Android_DXTTargetPlatform (89)
+[2018.01.18-17.30.38:636][145]LogModuleManager: Shutting down and abandoning module Android_ATCTargetPlatform (87)
+[2018.01.18-17.30.38:636][145]LogModuleManager: Shutting down and abandoning module Android_ASTCTargetPlatform (85)
+[2018.01.18-17.30.38:636][145]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (83)
+[2018.01.18-17.30.38:636][145]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (81)
+[2018.01.18-17.30.38:636][145]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (79)
+[2018.01.18-17.30.38:636][145]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (77)
+[2018.01.18-17.30.38:636][145]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (75)
+[2018.01.18-17.30.38:636][145]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (73)
+[2018.01.18-17.30.38:636][145]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (71)
+[2018.01.18-17.30.38:636][145]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (69)
+[2018.01.18-17.30.38:636][145]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (67)
+[2018.01.18-17.30.38:636][145]LogModuleManager: Shutting down and abandoning module InputCore (64)
+[2018.01.18-17.30.38:636][145]LogModuleManager: Shutting down and abandoning module Settings (62)
+[2018.01.18-17.30.38:636][145]LogModuleManager: Shutting down and abandoning module PhysXCooking (60)
+[2018.01.18-17.30.38:636][145]LogModuleManager: Shutting down and abandoning module SteamVR (58)
+[2018.01.18-17.30.38:636][145]LogModuleManager: Shutting down and abandoning module OculusHMD (56)
+[2018.01.18-17.30.38:636][145]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (54)
+[2018.01.18-17.30.38:636][145]LogModuleManager: Shutting down and abandoning module AppleARKit (52)
+[2018.01.18-17.30.38:636][145]LogModuleManager: Shutting down and abandoning module AugmentedReality (51)
+[2018.01.18-17.30.38:636][145]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (48)
+[2018.01.18-17.30.38:636][145]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (44)
+[2018.01.18-17.30.38:636][145]LogModuleManager: Shutting down and abandoning module XMPP (43)
+[2018.01.18-17.30.38:636][145]LogModuleManager: Shutting down and abandoning module HTTP (41)
+[2018.01.18-17.30.38:636][145]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2018.01.18-17.30.38:636][145]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BD439B4E4-4D7C-C7DB-6734-B4AD84D2AD87%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.18.2-3794801%2B%2B%2BUE4%2BRelease-4.18&UserID=00fb24cf46ba8c4ff0f0ebbe3064fa9e%7C44c5eb541a024aa8bdb4cb41bc138dce%7C1421eb35-0d17-44e6-9129-6a9ebec17ee0&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2018.01.18-17.30.38:661][145]LogModuleManager: Shutting down and abandoning module SSL (40)
+[2018.01.18-17.30.38:662][145]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2018.01.18-17.30.38:662][145]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2018.01.18-17.30.38:662][145]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2018.01.18-17.30.38:662][145]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2018.01.18-17.30.38:662][145]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2018.01.18-17.30.38:662][145]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2018.01.18-17.30.38:662][145]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2018.01.18-17.30.38:663][145]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2018.01.18-17.30.38:663][145]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2018.01.18-17.30.38:663][145]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2018.01.18-17.30.38:663][145]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2018.01.18-17.30.38:663][145]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2018.01.18-17.30.38:663][145]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2018.01.18-17.30.38:663][145]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2018.01.18-17.30.38:663][145]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2018.01.18-17.30.38:663][145]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2018.01.18-17.30.38:663][145]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2018.01.18-17.30.38:663][145]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2018.01.18-17.30.38:667][145]LogExit: Exiting.
+[2018.01.18-17.30.38:684][145]Log file closed, 01/18/18 18:30:38
